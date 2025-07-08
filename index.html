@@ -2,88 +2,24 @@
 <html lang="fr">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="mobile-web-app-capable" content="yes">
-  <title>Mon App de Choix</title>
-  <style>
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-      padding: 1rem;
-      margin: 0;
-      max-width: 600px;
-      margin: auto;
-      background: #f4f4f4;
-    }
-    h1 {
-      font-size: 1.5rem;
-      text-align: center;
-    }
-    .section {
-      margin: 1rem 0;
-    }
-    label {
-      display: block;
-      margin: 0.5rem 0;
-    }
-    button {
-      width: 100%;
-      padding: 1rem;
-      background: #007AFF;
-      color: white;
-      border: none;
-      border-radius: 8px;
-      font-size: 1rem;
-      cursor: pointer;
-    }
-    .result {
-      margin-top: 1.5rem;
-      padding: 1rem;
-      background: white;
-      border-radius: 8px;
-      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-      font-weight: bold;
-    }
-  </style>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Mini Aventure</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
+  <h1>Crée ton personnage</h1>
+  <form id="formulaire">
+    <label for="prenom">Choisis un prénom :</label>
+    <select id="prenom" name="prenom">
+      <option value="">-- Sélectionne un prénom --</option>
+    </select>
+    <div id="jauges"></div>
+    <button type="submit">Valider</button>
+  </form>
+  <div id="resultat"></div>
 
-  <h1>Découvre ton profil !</h1>
-
-  <div class="section">
-    <p><strong>Ton style :</strong></p>
-    <label><input type="radio" name="style" value="guerrier" checked> Guerrier</label>
-    <label><input type="radio" name="style" value="mage"> Mage</label>
-    <label><input type="radio" name="style" value="voleur"> Voleur</label>
-  </div>
-
-  <div class="section">
-    <p><strong>Aimes-tu la magie ?</strong></p>
-    <label><input type="checkbox" id="magic"> Oui</label>
-  </div>
-
-  <div class="section">
-    <button onclick="generateResult()">Valider</button>
-  </div>
-
-  <div class="result" id="result"></div>
-
-  <script>
-    function generateResult() {
-      const style = document.querySelector('input[name="style"]:checked').value;
-      const magic = document.getElementById('magic').checked;
-
-      let texte = "Tu es un " + style + ".";
-
-      if (magic) {
-        texte += " Et tu manies aussi la magie avec talent.";
-      } else {
-        texte += " Tu préfères les méthodes plus directes.";
-      }
-
-      document.getElementById('result').innerText = texte;
-    }
-  </script>
-
+  <script src="scenarios.js"></script>
+  <script src="jauges.js"></script>
+  <script src="main.js"></script>
 </body>
 </html>

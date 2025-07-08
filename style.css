@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+label {
+  display: block;
+  margin-top: 10px;
+  font-weight: bold;
+}
+.jauge {
+  margin-bottom: 20px;
+}
+button {
+  margin-top: 20px;
+}
+#resultat {
+  margin-top: 30px;
+  font-size: 1.2em;
+  font-style: italic;
+}
+
+.jauge label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 0.25em;
+}
+
+input[type="range"] {
+  width: 100%;
+}
+
+.niveau-label {
+  display: inline-block;
+  margin-left: 1em;
+  font-style: italic;
+}
