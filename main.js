@@ -1,3 +1,7 @@
+function capitalize(str) {
+  return str.charAt(0).toUpperCase() + str.slice(1);
+}
+
 window.addEventListener("DOMContentLoaded", () => {
   const form = document.getElementById("formulaire");
   const jaugesContainer = document.getElementById("jauges");
@@ -66,21 +70,81 @@ window.addEventListener("DOMContentLoaded", () => {
       values[j.nom] = parseInt(input.value, 10);
     });
 
+    // 1. On filtre les scénarios respectant toutes les contraintes (min <= valeur joueur + 1)
     const compatibles = scenarios.filter(sc =>
-      values.presentation + 1 >= sc.minPresentation &&
-      values.caresses + 1 >= sc.minCaresses &&
-      values.exploration + 1 >= sc.minExploration &&
-      values.oral + 1 >= sc.minOral &&
-      values.ejaculation + 1 >= sc.minEjaculation &&
-      values.sperme + 1 >= sc.minSperme
+      jauges.every(j => {
+        const joueurValue = values[j.nom] + 1; // +1 car les jauges commencent à 0
+        const critere = sc[`min${capitalize(j.nom)}`] || 0;
+        return joueurValue >= critere;
+      })
     );
 
-    if (compatibles.length === 0) {
-      resultat.textContent = "Aucun scénario ne correspond à ce profil.";
-    } else {
-      const choix = compatibles[Math.floor(Math.random() * compatibles.length)];
-      const pitchFinal = choix.pitch.replace(/{prenom}/gi, prenom);
-      resultat.innerHTML = `<strong>${choix.nom}</strong><br><br>${pitchFinal}`;
+    // 2. On calcule un score de "proximité" pour chaque scénario compatible
+    const scored = compatibles.map(sc => {
+      let distance = 0;
+
+      jauges.forEach(j => {
+        const joueurValue = values[j.nom] + 1;
+        const scenarioValue = sc[`min${capitalize(j.nom)}`] || 0;
+        distance += Math.abs(joueurValue - scenarioValue);
+      });
+
+      const weight = 1 / (1 + distance); // moins la distance est grande, plus le poids est fort
+      return { ...sc, weight };
+    });
+
+    // 3. Tirage pondéré
+    function weightedRandomChoice(items) {
+      const totalWeight = items.reduce((sum, item) => sum + item.weight, 0);
+      let random = Math.random() * totalWeight;
+
+      for (const item of items) {
+        if (random < item.weight) return item;
+        random -= item.weight;
+      }
+      return items[items.length - 1]; // fallback
     }
+
+    // 4. Affichage
+    // if (scored.length === 0) {
+    //   resultat.textContent = "Aucun scénario ne correspond à ce profil.";
+    // } else {
+    //   const choix = weightedRandomChoice(scored);
+    //   const pitchFinal = choix.pitch.replace(/{prenom}/gi, prenom);
+    //   resultat.innerHTML = `<strong>[${choix.id}] ${choix.nom}</strong> (parmi ${scored.length} scénarios compatibles)<br><br>${pitchFinal}`;
+    // }
+    const resultModal = document.getElementById("result-modal");
+    const resultatContent = document.getElementById("resultat-content");
+    const fermerResultatBtn = document.getElementById("fermer-resultat");
+
+    fermerResultatBtn.addEventListener("click", () => {
+      resultModal.style.display = "none";
+    });
+
+    if (scored.length === 0) {
+      resultatContent.innerHTML = "<p>Aucun scénario ne correspond à ce profil.</p>";
+    } else {
+      const choix = weightedRandomChoice(scored);
+      const pitchFinal = choix.pitch.replace(/{prenom}/gi, prenom);
+      resultatContent.innerHTML = `<strong>[${choix.id}] ${choix.nom}</strong> (parmi ${scored.length} scénarios compatibles)<br><br>${pitchFinal}`;
+    }
+
+    // Affiche la modale
+    resultModal.style.display = "flex";
+
   });
 });
+
+window.addEventListener("DOMContentLoaded", () => {
+  const disclaimer = document.getElementById("disclaimer");
+  const continuerBtn = document.getElementById("continuer");
+  const formulaire = document.getElementById("formulaire");
+
+  continuerBtn.addEventListener("click", () => {
+    disclaimer.style.display = "none";
+    formulaire.style.display = "block";
+  });
+
+  // Le reste de ton code ici ↓
+});
+

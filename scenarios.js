@@ -2,6 +2,7 @@
 const scenarios = [
   {
     nom: "La démonstratrice en produits de beauté",
+    id: 1,
     pitch: "{prenom} est démonstratrice pour une marque très luxueuse. Elle vient chez un couple pour un nouveau produit révolutionnaire. {prenom} explique qu'elle doit s'isoler avec monsieur pour récolter sa semence. Seuls, elle le caressera et le sucera en lui expliquant qu'une fois qu'il aura éjaculé, elle plongera son visage dans les flaques de sperme pour s'en recouvrir.",
     minPresentation: 1,
     minCaresses: 1,
@@ -12,6 +13,7 @@ const scenarios = [
   },
   {
     nom: "La cliente au fantasme inavouable", 
+    id: 2,
     pitch: "{prenom} engage un prostitué à qui elle demande de jouer le rôle de jouet sexuel obéissant. Elle va le branler et le sucer tout en lui expliquant ce qu'elle attend de lui. Elle a toujours voulu réaliser ce fantasme mais son mari refuse. Elle veut qu'il jouisse dans ou sur sa chatte puis s'accroupir au-dessus du visage du prostitué qui devra la faire jouir en léchant son propre sperme.",
     minPresentation: 5,
     minCaresses: 1,
@@ -22,6 +24,7 @@ const scenarios = [
   },
   {
     nom: "La femme de ménage consciencieuse",
+    id: 3,
     pitch: "Madame lui a demandé de bien s'occuper de la maison et de son mari pendant son absence. Aussi, {prenom} s'applique à bien faire son travail. Tous les matins, elle se rend dans la suite parentale et, sans un mot, branle consciencieusement monsieur qui la regarde à moitié endormi. Cela peut prendre du temps, aussi elle est patiente et par moment dépose légèrement ses lèvres sur le gland bombé pour le téter. Elle ne fait pas ça par plaisir, mais par professionnalisme. Pour faire venir la jouissance, elle lui explique qu'elle nettoiera la semence avec sa bouche (optionnel).",
     minPresentation: 2,
     minCaresses: 1,
@@ -32,6 +35,7 @@ const scenarios = [
   },
   {
     nom: "La baby-sitter voleuse",
+    id: 4,
     pitch: "{prenom} a merdé. Elle n'a pas pu s'empêcher de voler de l'argent chez le papa solo qui lui avait demandé de garder son bébé. Il l'a pris sur le fait et lui demande de rendre l'argent et de ne plus jamais revenir. {prenom} est vraiment désolée et est prête à donner d'elle-même pour se faire pardonner et garder son boulot. Elle se déshabille en le regardant avec des yeux aguicheurs et commence à déboutonner son pantalon. À genoux, elle le branle, puis le suce en le regardant dans les yeux et lui propose d'éjaculer sur sa chatte, son anus ou dans la bouche pour qu'elle avale tout.",
     minPresentation: 4,
     minCaresses: 1,
@@ -42,6 +46,7 @@ const scenarios = [
   },
   {
     nom: "La receveuse de sperme",
+    id: 5,
     pitch: "{prenom} a choisi son donneur et s'apprête à recevoir son sperme. Elle ne le connait pas, mais il correspond à tout ce qu'elle veut pour son enfant. Ils appliquent alors la procédure décrite par le personnel de la clinique : elle est nue, allongée sur le lit, les jambes écartées. Lui s'installe à genoux au-dessus de son visage, le sexe à sa verticale et le pénis érigé vers le ventre de {prenom}. La procédure insiste bien sur le fait qu'elle doit masturber l'inconnu elle-même tout en s'occupant de ses bourses. Pour que le sperme soit de la meilleure qualité, elle doit les caresser doucement, les lécher, les sucer. Quand il éjaculera, il essaiera de viser le plus loin possible pour atteindre la vulve, et {prenom} récupérera le sperme restant sur son ventre pour se l'introduire elle-même.",
     minPresentation: 5,
     minCaresses: 2,
@@ -51,7 +56,8 @@ const scenarios = [
     minSperme: 1
   },
   {
-    nom: "L\'hôtesse de luxe",
+    nom: "L'hôtesse de luxe",
+    id: 5,
     pitch: "{prenom} est hôtesse dans un établissement de luxe. Son rôle : obtenir la meilleure note de satisfaction client. Ça tombe bien, elle a très envie de satisfaire ce client-ci. Après lui avoir servi de guide et d'assistante toute la journée, elle se présente le soir à la porte de sa chambre en tenue beaucoup plus sexy. Il n'a pas besoin de lui demander ce qu'il veut, il a déjà rempli le formulaire requis et elle sait très bien ce qui le fera jouir. Elle à genoux, toujours habillée, lui debout, totalement nu. Elle le caresse et le suce doucement, lentement, jusqu'à ce qu'il soit bien tendu. Là, elle commencera à s'enfoncer la queue du client dans la gorge, de plus en plus profond, en respirant lentement et en le regardant dans les yeux. Puis elle lui dira \"c'est le moment, monsieur, de me baiser la bouche et de vous vider sur mon visage\" et elle n'aura plus qu'à le laisser s'en occuper.",
     minPresentation: 2,
     minCaresses: 2,
@@ -62,6 +68,7 @@ const scenarios = [
   },
   {
     nom: "La fan d'un auteur érotique",
+    id: 6,
     pitch: "{prenom} n'en croit pas ses yeux. Elle a devant elle la queue dure de son auteur fétiche. Lui, l'auteur érotique à succès. Elle a tout lu de lui, elle sait tout de sa vie, elle sait exactement ce qu'il faut qu'elle fasse pour le faire jouir. Et elle a bien l'intention de sentir couler son sperme sur sa peau ou dans sa bouche. Elle sait par exemple qu'il adore les gros seins comme les siens. Elle sait aussi qu'il aime qu'on lui caresse les couilles et l'entrée de l'anus. Comme elle adore ça, elle va bien lui sucer les couilles tout en le branlant. Il va pouvoir jouir sur ses gros seins et peut-être qu'elle récupérera un peu du sperme sacré pour le gouter d'un doigt gourmand.",
     minPresentation: 3,
     minCaresses: 4,
@@ -72,6 +79,7 @@ const scenarios = [
   },
   {
     nom: "L'exorciste charnelle",
+    id: 7,
     pitch: "{prenom} a un cas particulièrement délicat aujourd'hui. Un rare et délicat \"Démon de la Lune\". Elle sait ce qu'elle doit faire pour sortir le pauvre homme de sa torpeur éternel. Elle demande à sa femme de les laisser seuls. Là, elle ordonne à l'homme de se mettre nu et à quatre pattes. Il ne sait plus faire que ça : obéir docilement. Il n'a plus de libre arbitre, le démon le place dans une sorte de torpeur hypnotique. Elle place un récipient entre ses jambes, directement sous son pénis et commence à le traire. Au début doucement, puis avec vigueur. Après de longue minutes qui lui font mal au bras, elle commence le rituel. Elle crache sur son anus et le lèche doucement pour l'humidifier, puis le pénètre d'un doigt délicat. C'est ainsi que le démon sera expulsé dans le récipient.",
     minPresentation: 1,
     minCaresses: 5,
@@ -82,6 +90,7 @@ const scenarios = [
   },
   {
     nom: "La modèle d'artiste excentrique",
+    id: 8,
     pitch: "{prenom} a beaucoup de chance. Elle a été choisie parmi de nombreuses autres femmes pour être la modèle d'un grand artiste photographe reconnu mondialement. Ses collections sont toujours aussi non-conformistes, c'est ce qui fait sa force et sa renommée. Elle est prête. Il lui demande de se déshabiller et lui explique que sa nouvelle collection sera appelée \"masque sur beauté\". Il se met nu à son tour, {prenom} est embarassée, surtout quand il lui demande si elle est d'accord pour recevoir sa semence, son matériau principal, sur le visage. C'est un acte purement professionnel, dit-il. Elle accepte et il l'encourage à l'aider à obtenir l'effet voulu puisqu'il a les deux mains prises par son art.",
     minPresentation: 4,
     minCaresses: 1,
@@ -92,6 +101,7 @@ const scenarios = [
   },
   {
     nom: "La spécialiste du sommeil",
+    id: 9,
     pitch: "C'est une méthode révolutionnaire que {prénom} propose à ce patient pour soigner ses insomnies. Elle lui avoue que c'est encore en cours d'expérimentation et lui propose de la tester gratuitement. Le principe repose sur la production de mélatonine, l'hormone du sommeil générée par l'orgasme masculin. Il s'agit donc de mettre le patient dans un lit confortable et de s'occuper de le faire éjaculer tandis qu'il chercher le sommeil doucement. Tout est affaire de doigté et de subtilité. Des doigts délicats, une bouche légère, une langue habile et déterminée. Alors qu'il a les yeux fermés, elle lui explique comment marche sa méthode et surtout comment ça va se terminer. En effet, ce protocol est bien plus efficace si, après avoir éjaculé, le patient ingère un peu de son sperme. Elle lui explique donc qu'elle en récupérera avec sa bouche pour venir lui faire un baiser de bonne nuit.",
     minPresentation: 4,
     minCaresses: 2 ,
@@ -102,6 +112,7 @@ const scenarios = [
   },
   {
     nom: "L'impératrice tyrannique",
+    id: 10,
     pitch: "{prenom} ne veut pas d'amants. Elle continuera à diriger cet empire seule. Elle a juste besoin d'assurer une descendance, une fille, pour qu'elle puisse reprendre sa suite. Elle ne veut donc pas d'amants, elle veut juste un esclave et sa semence. Elle en a sélectionné un nouveau, en espérant qu'il soit moins incapable que les autres. Il s'allonge et elle vient directement placer sa chatte sa bouche ouverte et se frotte contre lui. Elle lui attrape la queue et la fait durcir. Elle prend son temps, elle adore ça. Elle le branle, le suce, bave abondemment sur cette queue pathétique qui veut probablement la pénétrer mais qui ne le fera jamais. Il n'en est pas digne. Elle veut juste qu'il abandonne sa semence. Elle se frottera la chatte sur son sexe demandeur, mais sans jamais le faire entrer. Elle le fera jouir par tous les moyens s'il le faut.",
     minPresentation: 5,
     minCaresses: 1,
@@ -112,6 +123,7 @@ const scenarios = [
   },
   {
     nom: "La directrice d'hôtel",
+    id: 11,
     pitch: "{prenom} ",
     minPresentation: 2,
     minCaresses: 2,
@@ -122,7 +134,8 @@ const scenarios = [
   },
   {
     nom: "La meilleure amie insistante",
-    pitch: "{prenom} a besoin de son meilleur ami pour lui demander une faveur délicate. Elle a suffisamment insisté pour qu'il finisse par accepter. Non pas qu'il n'en a pas envie, mais parce qu'il a peur que ça change leur relation. Mais il a fini par se laisser tenter. {prenom} voudrait faire plaisir à son mec en lui faisant une gorge profonde, mais elle a peur de ne pas y arriver alors qu'elle lui a laissé entendre qu'elle était experte. Elle aimerait donc s'entrainer avant. Pas question de se déshabiller pour elle, voir la bite de son ami et la mettre dans sa bouche est déjà beaucoup. Et surtout, qu'il ne lui touche rien, pas même les cheveux, elle a juste besoin de sa bite. S'il jouit, ce sera au fond de sa gorge. Peut-être qu'alors elle avalera, elle verra.",
+    id: 12,
+    pitch: "{prenom} a besoin de son meilleur ami pour lui demander une faveur délicate. Elle a suffisamment insisté pour qu'il finisse par accepter. Non pas qu'il n'en ait pas envie, mais parce qu'il a peur que ça change leur relation. Mais il a fini par se laisser tenter. {prenom} voudrait faire plaisir à son mec en lui faisant une gorge profonde et elle lui a laissé entendre qu'elle était experte. Elle aimerait donc s'entrainer avant. Elle reste habillée, elle ne veut pas que son meilleur ami la voit nue. Voir sa bite et la mettre dans sa bouche est déjà beaucoup. Et surtout, qu'il ne lui touche rien, pas même les cheveux, elle a juste besoin de sa bite. S'il jouit, ce sera au fond de sa gorge. Peut-être qu'alors elle avalera, elle verra.",
     minPresentation: 1,
     minCaresses: 1,
     minExploration: 1,
@@ -132,6 +145,7 @@ const scenarios = [
   },
   {
     nom: "La patronne autoritaire",
+    id: 13,
     pitch: "{prenom} dirige sa boite d'une main de fer. Ses employés le savent et ceux qui veulent rester se soumettent à ses caprices. Certains se soumettent même à ses désirs sexuels. C'est le cas de l'homme qui se trouve debout face à elle, nu, dans son bureau. Elle veut juste le faire jouir pour l'humilier, pas même pour son plaisir. Elle va le branler, le sucer, le faire jouir sur ses gros seins et pour finir, le faire nettoyer lui-même son sperme.",
     minPresentation: 2,
     minCaresses: 1,
@@ -142,6 +156,7 @@ const scenarios = [
   },
   {
     nom: "Sorcière en quête de puissance",
+    id: 14,
     pitch: "{prenom} est une sorcière et pour combattre le mal qui étend ses racines partout dans le monde, elle a besoin de puissance. Elle a lu dans un ancien grimoire que la semence de l'homme le plus idiot du village pouvait devenir le plus efficace des breuvages. C'est pourquoi elle le pompe avec avidité, jusqueà ce qu'il jouisse au fond de sa gorge et qu'elle se régale de son nectar.",
     minPresentation: 1,
     minCaresses: 1,
@@ -152,6 +167,7 @@ const scenarios = [
   },
   {
     nom: "La tenancière d'un salon de thé d'exception",
+    id: 15,
     pitch: "C'est l'heure de la récolte. Le salon de thé de {prenom} est connu dans tout le royaume pour la saveur délicate de ses thés et tisanes. Et tout ça grâce à un ingrédient dont elle a le secret de mère en fille. Elle paye un employé à plein temps uniquement pour qu'il s'entretienne, suive un régime précis et lui donne secrètement une dose quotidienne de sa semence. Pour l'extraire, une petite formule magique sur ses couilles, sans oublier de les masser, les huiler, les lécher et les sucer longuement. En pratiquant correctement, avec un bon coup de poignet sur le manche, on peut récupérer une crème idéale pour ses concoctions.",
     minPresentation: 1,
     minCaresses: 2,
@@ -162,8 +178,9 @@ const scenarios = [
   },
   {
     nom: "L'étudiante en biologie",
+    id: 16,
     pitch: "{prenom} est en retard pour son rapport de fin d'année. Son professeur lui propose de l'aider et elle le prend au mot. Il n'avait peut-être pas conscience qu'il lui manquait la partie sur l'anatomie masculine et son orgasme. En acceptant, il ne pensait pas terminer assis face à son étudiante, seins nus, la queue entre ses mains, à devoir lui expliquer le fonctionnement de son pénis et des différentes intéractions nécessaires à son éjaculation. Mais quand elle a proposé de le laisser jouir sur ses gros seins, il a étrangement accepté sans discuter.",
-    minPresentation: 1,
+    minPresentation: 3,
     minCaresses: 1,
     minExploration: 2,
     minOral: 1,
@@ -172,6 +189,7 @@ const scenarios = [
   },
   {
     nom: "L'épouse partageuse",
+    id: 17,
     pitch: "{prenom} a décidé d'offir à son mari un cadeau un peu particulier. Elle lui bande les yeux et lui demande de s'allonger sur un table ou au sol. Là, elle va lui raconter ce qui va se passer à son oreille. Elle a invité une autre femme qui préfère rester anonyme et qui va lui donner du plaisir jusqu'à ce qu'il jouisse.",
     minPresentation: 1,
     minCaresses: 1,
@@ -182,9 +200,10 @@ const scenarios = [
   },
   {
     nom: "L'enseignante en médecine",
+    id: 18,
     pitch: "{prenom} a proposé à son élève préféré des cours du soir pour aborder une notion qui lui semble inconnue : l'orgasme prostatique. Il se prête volontiers à l'expérience et elle prend un ton professoral tout en pratiquant sur lui. Il est à quatre pattes, elle lui doigte délicatement l'anus et le branle en même temps jusqu'à ce qu'il explose.",
     minPresentation: 1,
-    minCaresses: 2,
+    minCaresses: 5 ,
     minExploration: 1,
     minOral: 1,
     minEjaculation: 1,
@@ -192,6 +211,7 @@ const scenarios = [
   },
   {
     nom: "Le rituel de la druidesse",
+    id: 19,
     pitch: "{prenom} doit réaliser un rituel délicat afin de soigner un patient. Pour cela, elle devoir extraire son mal de la plus sexuelle des manières. Le procédé est très précis et ne souffre d'aucune inexactitude. Le patient doit se placer à quatre pattes, entièrement nu, tandis qu'elle se glissera entre ses jambes. Elle doit activer son orgasme en caressant son pénis, ses bourses, son anus, ses fesses. Elle a le droit de le masturber ou de légèrement lécher le bout de la queue si elle le peut, mais elle a interdiction de décoller la tête du sol. Le rituel se termine quand le patient éjacule. Elle ne doit surtout pas en avaler une goutte, mais doit le recueillir sur son visage.",
     minPresentation: 1,
     minCaresses: 4,
@@ -202,7 +222,8 @@ const scenarios = [
   },
   {
     nom: "Offerte à un inconnu",
-    pitch: "{prenom} a enfin osé sauter le pas. Elle s'est bien apprêtée pour l'occasion, sexy, chaude. Elle doit suivre les instructions de son maitre. Il a décidé de l'offrir à un inconnu. Elle doit garder un masque sur les yeux et s'allonger sur le lit de côté, la bouche accessible par la queue d'un homme à qui elle n'a même jamais dit bonjour. Il viendra et sans un bruit frottera son sexe sur sur ses joues, sur son nez, sur ses lèvres. Puis il fera pénétrer son gland fébrile et luisant dans la bouche offerte. Il n'aura pas le droit de toucher autre chose que le visage de {prenom}. Juste regarder. Et lui baiser la bouche jusqu'à éjaculer.",
+    id: 20,
+    pitch: "{prenom} a enfin osé sauter le pas. Elle s'est bien apprêtée pour l'occasion, sexy, chaude. Elle doit suivre les instructions de son maitre. Il a décidé de l'offrir à un inconnu. Elle doit garder un masque sur les yeux et s'allonger sur le lit de côté, la bouche accessible par la queue d'un homme à qui elle n'a même jamais dit bonjour. Il viendra et sans un bruit frottera son sexe sur ses joues, sur son nez, sur ses lèvres. Puis il fera pénétrer son gland fébrile et luisant dans la bouche offerte. Il n'aura pas le droit de toucher autre chose que le visage de {prenom}. Juste regarder. Et lui baiser la bouche jusqu'à éjaculer.",
     minPresentation: 2,
     minCaresses: 1,
     minExploration: 1,
@@ -212,6 +233,7 @@ const scenarios = [
   },
   {
     nom: "La cocue vengeresse",
+    id: 21,
     pitch: "{prenom} a découverte que son mec le trompait et elle veut se venger. Elle a rencontré ce type dont elle n'a même pas retenu le prénom mais qui fera parfaitement l'affaire, tant qu'il a une bite opérationnelle. Elle n'a jamais voulu faire une éjaculation faciale avec son ex et il lui a souvent reproché. Alors même si ça la dégoute un peu, elle va laisser cet inconnu lui jouir sur son beau visage et ses gros seins pour lui envoyer une photo qu'il n'est pas prêt d'oublier : elle, couverte de sperme d'un autre homme, un doigt sur ses lèvres comme pour en avaler un peu.",
     minPresentation: 3,
     minCaresses: 1,
@@ -222,6 +244,7 @@ const scenarios = [
   },
   {
     nom: "Le stage à la dure",
+    id: 22,
     pitch: "{prenom} a pris un jeune stagiaire très mignon pour faire la vente dans sa boutique et elle lui a fait croire que pour obtenir une bonne mention il doit passer un test important. Debout derrière le comptoir (accoudé au bar par exemple), il devra réussir à rester stoïc et ne pas révéler ce qu'il se passe en-dessous à la clientèle. {prenom} est à genoux, la queue du stagiaire dans la bouche et se l'enfonce autant qu'elle le peut. Elle lui masse les couilles et lui caresse le petit trou pour augmenter son plaisir et tenter de le faire défaillir. Quand il jouit, elle le laisse venir sur ses habits.",
     minPresentation: 1,
     minCaresses: 4,
@@ -231,7 +254,349 @@ const scenarios = [
     minSperme: 1
   },
   {
+    nom: "La thérapeute tantrique",
+    id: 23,
+    pitch: "{prenom} est thérapeute tantrique. Elle a souvent des hommes très riches et très influents qui viennent découvrir des plaisirs et une relaxation inhabituels. Elle fait parler ses hommes de leur tracas du quotidien tout en manipulant leur queue de ses mains expertes. Elle connait les zones érogènes par coeur : un petit coup de langue par-ci, un doigt fureteur par-là, des massages doux et délicats, une parole rassurante, pour une éjaculation garantie.",
+    minPresentation: 4,
+    minCaresses: 5,
+    minExploration: 2,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 1
+  },
+  {
+    nom: "La belle maudite",
+    id: 24,
+    pitch: "{prenom} est endormie depuis des années suite à une malédiction terrible. Ce qui la sortira de ce long sommeil ? Le sperme d'un prince sur son visage d'ange.",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 5,
+    minSperme: 1
+  },
+  {
+    nom: "Le jeu truqué",
+    id: 25,
+    pitch: "{prenom} est ravie, son plan a marché comme elle le voulait : inviter le mec sur lequel elle fantasme mais qui est déjà en couple, organiser une soirée entre potes, faire couler l'alcool, sa meilleure amie qui propose innocemment de jouer à des jeux coquins, encore plus d'alcool, des jeux de plus en plus chauds, et le défi qui tombe au bon moment sur les deux bonnes personnes, comme par hasard. Les deux doivent s'isoler et ne revenir que lorsqu'il y aura une preuve qu'un rapprochement sexuel ait eu lieu. {prenom} joue l'ingénue, mais propose à son crush qui ne sait plus où se mettre que ce soit un peu de sperme sur ses lèvres...",
+    minPresentation: 1,
+    minCaresses: 2,
+    minExploration: 2,
+    minOral: 1,
+    minEjaculation: 4,
+    minSperme: 1
+  },
+  {
+    nom: "La thérapeute de couple",
+    id: 26,
+    pitch: "{prenom} utilise des méthodes atypiques mais qui donnent des résultats. Lors de cette session, elle va faire la démonstration d'une pratique manuelle et orale que madame ne sait pas comment faire. Elle va expliquer les différentes zones à caresser, à lécher, à sucer, en s'y pretant allégremment (sauf les bourses, qu'elle n'aime pas trop lécher). Pour l'éjaculation, elle explique qu'il est possible d'avaler ou de recracher. Et pour donner l'exemple, elle prend tout dans la bouche et propose à madame et monsieur d'y gouter en partageant un baiser avec elle.",
+    minPresentation: 1,
+    minCaresses: 3,
+    minExploration: 2,
+    minOral: 1,
+    minEjaculation: 4,
+    minSperme: 5
+  },
+  {
+    nom: "La dermatologue innovante",
+    id: 27,
+    pitch: "{prenom} propose à son patient un traitement qui pourrait fonctionner pour traiter ses démangeaisons. Il s'agit d'étaler du sperme sur la peau touchée. Elle offre ses services pour s'assurer que ce soit bien fait, et passe donc de la théorie à la pratique en masturbant son patient. Elle insiste bien sur la production de sperme en caressant, léchant et suçant ses couilles jusqu'à ce qu'il se jouisse dessus et qu'elle étale d'un doigt expert la semence sur les zones nécessaires.",
+    minPresentation: 2,
+    minCaresses: 2,
+    minExploration: 3,
+    minOral: 2,
+    minEjaculation: 1,
+    minSperme: 1
+  },
+  {
+    nom: "La réalisatrice de film d'auteur",
+    id: 28,
+    pitch: "{prenom} a un petit budget pour réaliser son film, aussi elle est obligée de faire beaucoup de choses artisanalement. Ainsi, lorsqu'il faut repérer l'acteur qui jouera les scènes de sexe, elle va donner de sa personne pour le choisir. Elle va bien observer sa queue, ses réactions, si tout est bien photogénique. Elle ira même jusqu'à le sucer avec gourmandise pour voir à quoi ressemble la jouissance qui jaillira sur son chemisier.",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 3,
+    minEjaculation: 2,
+    minSperme: 1
+  },
+  {
+    nom: "The good cop",
+    id: 29,
+    pitch: "{prenom} a carte blanche pour faire avouer le suspect. Après la brutalité de son partenaire, elle tente une approche plus douce, plus persuasive pour lui faire cracher le morceau. Il est assis à une chaise, les mains attachées dans le dos. Elle lui promet ses seins s'il coopère. Elle lui promet ses mains sur sa queue. Peut-être sa bouche. Peut-être même qu'il pourrait se finir sur ses gros seins. Peut-être...",
+    minPresentation: 3,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 2,
+    minSperme: 1
+  },
+  {
+    nom: "Le Bat-Signal",
+    id: 30,
+    pitch: "{prenom} est Batwoman. Elle a trouvé un Batman dans cette soirée déguisée. Il a l'air pas mal du tout, même si elle ne le voit pas derrière ce masque ridicule. C'était le signe qu'elle attendait. Elle l'a trainé sur le balcon pour boire et discuter de tout et de rien, jusqu'à ce qu'elle sorte sa question préférée \"Tu veux que je te suce ?\". Il n'a pas refusé. Et c'est ainsi que vous vous êtes retrouvés dans ce cagibi, serrés, lui debout, toi accroupie à lui pomper la queue.",
+    minPresentation: 2,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 2,
+    minSperme: 1
+  },
+  {
+    nom: "La copine bourrée",
+    id: 31,
+    pitch: "Comment {prenom} s'est-elle retrouvée à accepter ce défi ? L'alcool, évidemment. Et son excitation, aussi. Il faut dire, le mec de sa copine est plutôt mignon, c'est une occasion en or. Maintenant qu'elle est allongée sous sa queue, lui à quatre pattes, elle dégrise. Sa copine lui rappelle le défi : réussir à faire le jouir sans toucher sa bite avec les doigts. Rien ne l'empêche de toucher autre chose. {prenom} se rajoute intérieurement une contrainte : ne pas salir ses habits, elle aurait vraiment dû se déshabiller.",
+    minPresentation: 2,
+    minCaresses: 2,
+    minExploration: 2,
+    minOral: 1,
+    minEjaculation: 5,
+    minSperme: 1
+  },
+  {
+    nom: "L'assaisonnement royal",
+    id: 32,
+    pitch: "{prenom} aime son royaume, mais elle aime surtout diriger. Diriger des hommes, les voir ramper à ses pieds et faire tout ce qu'elle désire. Le soir, seule à sa table, elle convie l'un de ses chevaliers et lui demande de baisser ses chausses pour qu'elle puisse extraire un peu de sperme pour en assaisonner son plat.",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 2,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 4
+  },
+  {
+    nom: "Le prélèvement manuel",
+    id: 33,
+    pitch: "{prenom} est préleveuse dans une clinique qui s'occupe de la fertilité. Le patient regarde un film porno assis sur un fauteuil tandis qu'elle doit s'occuper d'extraire son sperme. Elle reste habillée, très professionnelle, et ses gestes n'ont rien de sensuels, elle doit juste prélever sa semence dans ce récipient.",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 1
+  },
+  {
+    nom: "La démonstration anatomique",
+    id: 34,
+    pitch: "{prenom} est professeure à la fac de biologie. La session de ce soir est très particulière, puisqu'elle va utiliser un cobaye pour montrer à ses élèves l'anatomie masculine ainsi que son orgasme. Pour cela, il se mettra à quatre pattes, cul tourné vers les apprentis, et elle détaillera les différentes parties de son appareil génital, puis passera à la pratique. Elle lui caressera la bite, passera sa langue sur ses couilles, tétera un peu son gland, et surtout le branlera comme on trait une vache jusqu'à le faire éjaculer sur le bureau.",
+    minPresentation: 1,
+    minCaresses: 2,
+    minExploration: 3,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 1
+  },
+  {
+    nom: "La terrible vision",
+    id: 35,
+    pitch: "Ce n'est pas la première vision de {prenom}, mais c'est la plus terrifiante. Elle sait que si ce type qu'elle n'a jamais vu sort de cette pièce, l'enchainement des circonstances entrainera le monde à sa perte. Elle doit absolument le retenir un peu. Suffisamment longtemps pour que cette vision cesse de la hanter. Elle fera tout pour l'empêcher de sortir. Quitte à donner d'elle-même. Il ne devrait pas resister à la vue de ses seins, même s'il ne la connait pas. Et si ça ne marche pas, quel homme refuse de se faire tailler une pipe ? Et de jouir sur ses gros seins ?",
+    minPresentation: 3,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 3,
+    minEjaculation: 2,
+    minSperme: 1
+  },
+  {
+    nom: "L'entraineuse d'IA",
+    id: 36,
+    pitch: "{prenom} a un travail bien atypique. Elle doit effectuer des séances sexuelles dans le but de capter toutes les sensations masculines qui permettront d'entrainer une IA. L'homme devant elle est bardé de capteurs. Elle pense l'avoir déjà vu lors d'une précédente séance. Un parmi un autre, elle en voit tellement. Aujourd'hui, elle doit juste offrir sa bouche au cobaye pour qu'il la lui baise jusqu'à éjaculation. Elle est libre de participer activement ou non.",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 5,
+    minEjaculation: 1,
+    minSperme: 1
+  },
+  {
+    nom: "La créatrice de cyborgs",
+    id: 37,
+    pitch: "{prenom} est une inventrice extraordinaire. Sa dernière idée : un cyborg plus vrai que nature. Son problème : elle n'a que très peu fréquenté d'humains, encore moins d'hommes. Elle a perfectionné son modèle au mieux qu'elle pouvait, mais tout ce qui est organes génitaux n'est pas du tout au point. Elle embauche donc un homme, humain, pour découvrir avec lui les sensations qu'elle doit ajouter à son invention. Il lui faudra donc toucher sa bite, ses couilles, prendre des notes sur la texture du gland, le goût du pré-sperme et du sperme.",
+    minPresentation: 1,
+    minCaresses: 2,
+    minExploration: 2,
+    minOral: 2,
+    minEjaculation: 4,
+    minSperme: 1
+  },
+  {
+    nom: "La piqûre",
+    id: 38,
+    pitch: "{prenom} s'est faite piquer par une méduse à un endroit bien délicat. Problème, elle est seule sur cette plage et si la piqûre n'est pas traitée rapidement, elle risque d'être dangereuse. Il y a bien cet inconnu, mais va-t-il accepter le remède qu'elle lit, effarée, sur internet ? Est-ce qu'il va être d'accord pour lui éjaculer sur l'endroit où elle s'est faite piquée, c'est à dire pile poil entre les deux fesses ? Il va falloir qu'elle soit très persuasive.",
+    minPresentation: 5,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 3,
+    minSperme: 1
+  },
+  {
+    nom: "La chirurgienne scrupuleuse",
+    id: 39,
+    pitch: "{prenom} vient d'opérer ce patient d'une rare maladie des testicules. Par professionnalisme, elle aimerait vérifier le bon fonctionnement de son appareil génital. De manière parfaitement médicale, elle va donc l'inviter à s'installer sur sa table d'auscultation, les jambes repliées et écartées, puis lui prodiguer une masturbation et une fellation jusqu'à obtenir une éjaculation satisfaisante.",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 1
+  },
+  {
+    nom: "La riche veuve",
+    id: 40,
+    pitch: "{prenom} a perdu son mari beaucoup trop tôt. Elle n'a pas eu le temps d'avoir un enfant. Et ne veut pas se remarier. Alors elle se paye des prostitués en espérant trouver un géniteur adéquat. Elle en profite pour assouvir ses envies. Le procédé est toujours le même : le prostitué est allongé, nu. Elle le branle et le suce en même temps, en le regardant dans les yeux. De temps en temps, elle l'excite par ses mots crus. Jusqu'à ce qu'il jouisse dans sa bouche. Là elle recrache toute la semence sur le pénis encore dur, puis vient se frotter le clitoris dessus, tant pour s'imprégner de sperme que pour se faire jouir à son tour.",
+    minPresentation: 4,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 4,
+    minSperme: 5
+  },
+  {
+    nom: "L'employée de maison docile",
+    id: 41,
+    pitch: "{prenom} obéit toujours à Madame. Elle veut toujours obtenir la plus grande satisfaction de sa maîtresse. Et aujourd'hui, elle lui ordonne d'obtenir le plaisir de monsieur. Apparemment, Madame n'a pas la tête à ça et lui délègue le boulot. {prenom} rejoint donc Monsieur dans son bureau et demande poliment à passer sous le bureau tandis qu'il travaille à ses choses importantes. Elle n'a pas souvent vu de pénis, aussi elle est un peu intimidée. Elle découvre de ses doigts, lèche un peu le gland, puis se met au travail.",
+    minPresentation: 2,
+    minCaresses: 2,
+    minExploration: 2,
+    minOral: 4,
+    minEjaculation: 1,
+    minSperme: 1
+  },
+  {
+    nom: "La locataire en retard",
+    id: 42,
+    pitch: "{prenom} a du retard dans son loyer. Son proprio n'est pas content et la menace d'une procédure judiciaire. Elle va donc tout faire pour le convaincre de ne pas faire ça. Elle a remarqué qu'il regardait souvent ses gros seins, aussi lorsqu'elle se met à genoux pour l'implorer, elle fait glisser sa queue hors de son pantalon pour venir la remettre au chaud sous son t-shirt, entre ses nichons, à portée de bouche...",
+    minPresentation: 3,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 2,
+    minSperme: 1
+  },
+  {
+    nom: "La prostituée exigeante",
+    id: 43,
+    pitch: "{prenom} est une prostituée de luxe. Il faut payer cher pour passer du temps avec elle et elle est très regardante sur les pratiques. Elle ne touche pas aux couilles trop velues, elle ne lèche pas de cul, et surtout elle laisse le client jouir sur lui-même. Sauf si le client est plein aux as et arrive à sortir un nombre capable de lui faire changer d'avis. Cette fois, il aura droit de lui jouir sur son sublime visage.",
+    minPresentation: 2,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 5,
+    minSperme: 1
+  },
+  {
+    nom: "La douce berceuse",
+    id: 44,
+    pitch: "{prenom} est gouvernante dans le domaine de Monsieur. C'est un homme seul et aux étranges habitudes. La journée, elle s'occupe de la maison, la nuit, elle s'occupe de lui. Et ce qu'il aime, c'est sa douce berceuse remplie de mots crus et salaces. Ce qu'il aime, c'est poser sa tête sur ses genoux et téter ses gros seins tandis qu'elle le branle et lui raconte toutes les cochonneries qui lui passent par la tête.",
+    minPresentation: 3,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 1
+  },
+  {
+    nom: "L'apprentissage d'une novice",
+    id: 45,
+    pitch: "{prenom} a un précepteur. Ses parents le payent pour qu'il lui garantisse tout ce qu'une femme de la haute noblesse doit savoir, dans tous les domaines. Quand elle lui a demandé de lui apprendre à donner du plaisir aux hommes, il a d'abord refusé, mais a fini par reconnaitre que cela pouvait aussi faire partie de ses attributions, tant que ça restait entre eux deux. Il s'est donc assis sur le bord du lit et l'a donc invité à s'agenouiller pour qu'elle découvre l'anatomie masculine. Au début de ses mains maladroites, puis d'une langue timide, et enfin d'une bouche curieuse. Si elle veut voir à quoi ressemble la semence d'un homme, elle doit le faire jouir sur ses seins et en récupérer une goutte avec le doigt.",
+    minPresentation: 3,
+    minCaresses: 1,
+    minExploration: 2,
+    minOral: 1,
+    minEjaculation: 2,
+    minSperme: 2
+  },
+  {
+    nom: "L'expérience culinaire",
+    id: 46,
+    pitch: "{prenom} a besoin de sperme pour sa nouvelle recette. C'est une idée novatrice qui pourrait fonctionner, elle en est sûre, mais ça demande une matière première plutôt difficile à obtenir en grande quantité. Depuis sa cuisine, elle appelle donc son commis et lui demande de se déshabiller et se mettre à quatre pattes au-dessus d'un récipient. Elle le trait sans douceur. Comme c'est un peu trop brutal et qu'elle sait qu'elle doit obtenir un bon produit, elle s'occupe en même temps de ses couilles productrices en les caressant, les léchant et les suçant.",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 1
+  },
+  {
+    nom: "La douche dorée",
+    id: 47,
+    pitch: "Alors que son copain est sous la douche, {prenom} la rejoint et lui avoue qu'elle a un fantasme inavouée : elle aimerait qu'il lui pisse dessus pendant qu'elle se caresse. Il est surpris, mais vu qu'ils sont sous la douche, il se laisse tenter. Elle se met à la hauteur qu'elle désire et lui indique où viser. Pendant se temps, elle se caresse. Si elle est d'humeur, elle peut aussi le sucer pour goutter un peu le fruit défendu et finir par le faire éjaculer.",
+    minPresentation: 4,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 2,
+    minSperme: 1
+  },
+  {
+    nom: "La punition",
+    id: 48,
+    pitch: "{prenom} est punie. Elle ne dira pas à Monsieur qu'elle a fait exprès de faire tomber le vase en nettoyant la salle de reception. Elle ne dira pas à Monsieur qu'elle aime quand elle est assise sur ce fauteuil luxueux et qu'il déboutonne son pantalon pour sortir sa queue en prenant un ton sévère. Elle ne lui dira pas non plus qu'elle aime se sentir utilisée. Elle gardera pour elle qu'elle sait qu'il ne fait pas ça pour la punir mais pour son plaisir personnel. Elle se retiendra de sourire quand il frottera son sexe sur son visage. Elle se retiendra aussi de gémir lorsqu'il s'enfoncera entre ses lèvres. Mais quand la punition viendra, il sera si occupé à lui baiser la bouche pour se vider sur son front qu'il ne fera pas attention à ses doigts sur son clitoris.",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 5,
+    minEjaculation: 5,
+    minSperme: 1
+  },
+  {
+    nom: "L'assistante à domicile",
+    id: 49,
+    pitch: "{prenom} rend visite à son patient spécial. D'ordinaire, elle doit s'occuper de soins tout à fait courants, mais ici ce n'est pas le cas. Il souffre d'une maladie qui requiert qu'il décharge quotidiennement. Au début, elle venait juste pour lui rappeler de le faire chaque jour, mais rapidement elle s'est rendue compte qu'il oubliait ou n'y parvenait pas. Aussi, elle a finit par assister à ses masturbations pour être certaine qu'il les faisait. Et de fil en aiguille, elle s'est mise à l'aider plus directement. C'est ainsi qu'elle se retrouve aujourd'hui à le sucer et caresser ses couilles pour le faire jouir dans sa bouche.",
+    minPresentation: 1,
+    minCaresses: 2,
+    minExploration: 2,
+    minOral: 1,
+    minEjaculation: 4,
+    minSperme: 1
+  },
+  {
+    nom: "Le pacte sacré",
+    id: 50,
+    pitch: "Tous les ans, un guerrier et une guerrière de chaque tribu doivent se lier par un pacte, dans un rituel tenu secret des sages. C'est le prix à payer pour éviter la guerre. {prenom} a été choisie pour sa tribu. Elle observe celui qui se liera avec elle par la semence. Elle renifle, mais elle doit le faire. Elle s'allonge à ses côtés, nue comme lui, tête bêche. Tous deux observent le sexe de l'autre. Il commence à la caresser maladroitement, elle fait de même. Elle a bien écouté les sages et s'applique à sucer ce sexe dur pour en extraire la semence. Quand elle est dans sa bouche, elle se lève et embrasse son nouveau partenaire pour sceller le pacte.",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 4,
+    minSperme: 5
+  },
+  {
+    nom: "La masseuse personnelle",
+    id: 51,
+    pitch: "{prenom} est une masseuse à domicile. Mais selon les tarifs indiqués, elle peut pratiquer différents types de massage. Ce client a payé un prix élevé, aussi elle va bien s'occuper de lui. Elle va commencer par le masser partout, sur tout le corps, mais elle sait d'expérience que le client n'a envie que d'une chose : qu'elle se concentre entre ses jambes. Nue, elle va se frotter à lui, lui cajoler sa petite queue toute dure, ses petites boules bien pleines qui roulent sous sa langue, ce gros gland gonflé qui sursaute quand elle y passe les lèvres. Elle va y aller doucement, tout en suçotages et léchages. Elle ne fait jamais rentrer de pénis en elle, dans aucun de ses orifices, c'est la seule règle qu'elle s'est fixée. Mais il en aura pour son argent et elle continuera à le masser avec son propre sperme quand il aura bien joui.",
+    minPresentation: 4,
+    minCaresses: 2,
+    minExploration: 3,
+    minOral: 2,
+    minEjaculation: 2,
+    minSperme: 1
+  },
+  {
+    nom: "La préparatrice de compétitions",
+    id: 52,
+    pitch: "{prenom} est préparatrice sportive. Un des joueurs de l'équipe qu'elle suit a l'air d'accuser moralement le coup. Elle sait comment obtenir de lui ses meilleures performances : un bon massage et il va faire des miracles. Un massage génitale, bien sûr, avec ses mains, ses lèvres, sa bouche, jusqu'à ce qu'il se relâche sur sa langue. Meilleure méthode !",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 4,
+    minSperme: 1
+  },
+  {
+    nom: "La secrétaire prévenante",
+    id: 53,
+    pitch: "{prenom} sait exactement ce dont son patron a besoin avant de commencer cette journée qui s'annonce éprouvante. Très sexy dans son petit tailleur cintré, lunettes sur le nez, cheveux attachés, elle passe sous le bureau sans un mot. Il ne la regarde même pas. À peine gémit-il lorsqu'elle sort sa queue et commence à la caresser. Elle masse bien ses couilles et tète doucement son gland. Elle parle pour deux, l'encourageant des mots et de la langue à jouir sur son visage de salope.",
+    minPresentation: 2,
+    minCaresses: 2,
+    minExploration: 2,
+    minOral: 1,
+    minEjaculation: 5,
+    minSperme: 1
+  },
+  {
     nom: "nom",
+    id: 5,
     pitch: "",
     minPresentation: 1,
     minCaresses: 1,

@@ -7,7 +7,21 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>Crée ton personnage</h1>
+  <div id="disclaimer" class="overlay">
+    <div class="disclaimer-box">
+      <h2>Avertissement</h2>
+      <p>Ce générateur de scénario est destiné à un public averti.</p>
+      <p>Les scénarios proposés sont souvent très courts, à dessein. Ce sont des lignes directrices auxquels vous pouvez ajouter vos propres idées.</p>
+      <button id="continuer">Continuer</button>
+    </div>
+  </div>
+  <div id="result-modal" class="overlay" style="display: none;">
+    <div class="disclaimer-box">
+      <div id="resultat-content"></div>
+      <button id="fermer-resultat">Fermer</button>
+    </div>
+  </div>
+  <h1>Génère ton scénario</h1>
   <form id="formulaire">
     <label for="prenom">Choisis un prénom :</label>
     <select id="prenom" name="prenom">
