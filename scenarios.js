@@ -595,6 +595,61 @@ const scenarios = [
     minSperme: 1
   },
   {
+    nom: "La parente d'élève investie",
+    id: 54,
+    pitch: "{prenom} veut absolument que son fils ait les meilleures notes à l'école. Et pour cela, elle est prête à s'investir à fond. C'est pourquoi elle a demandé un entretien avec le professeur qui ne comprends pas bien ce qu'elle attend de lui, vu que son fils est au CP. Mais {prenom} insiste tant qu'elle finit à genoux devant lui, les seins autour de sa queue qu'elle tète goulûment. Elle le masturbe avec détermination en faisant monter et descendre ses nichons le long du membre dur, jusqu'à ce qu'il recouvre sa gorge et sa poitrine.",
+    minPresentation: 3,
+    minCaresses: 1,
+    minExploration: 2,
+    minOral: 1,
+    minEjaculation: 2,
+    minSperme: 1
+  },
+  {
+    nom: "La botaniste de l'extrême",
+    id: 55,
+    pitch: "{prenom} a découvert une nouvelle plante dans la forêt amazonienne. Après l'avoir étudié, elle pense avoir trouvé le plus puissant aphrodiaque naturel existant. Pour vérifier ça, elle choisit un de ses collègues, mignon mais timide. Elle lui fait boire sa potion en lui disant qu'il allait avoir une surprise. Quelques minutes plus tard, il s'est déjà mis nu et est prêt à lui sauter dessus. Elle le réfrenne : son but est de voir à quel point le produit le rend plus docile. Elle lui demande donc de se mettre sur le dos, les jambes pliées et relevées au maximum pour qu'elle puisse avoir accès à sa queue, ses couilles et son anus. Elle va s'amuser avec tout ça jusqu'à le faire jouir et le barbouiller de son propre sperme.",
+    minPresentation: 1,
+    minCaresses: 5,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 5
+  },
+  {
+    nom: "La servante dévouée",
+    id: 56,
+    pitch: "{prenom} n'a qu'un seul rôle : obéir au maître des lieux. Que soit pour nettoyer ses appartements ou lorsqu'il a besoin de se vider. Ce soir-là, elle est agenouillée entre ses jambes, il la tient par les cheveux et lui baise la bouche sans tendresse. Elle bave abondemment, mais attend patiemment qu'il soit proche de la fin pour se retirer adroitement.",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 5,
+    minEjaculation: 1,
+    minSperme: 1
+  },
+  {
+    nom: "La répétition",
+    id: 57,
+    pitch: "{prenom} a peut-être un peu exagéré, mais c'est tellement bon. Elle a un crush sur son meilleur ami et a inventé un prétexte pour le baiser. Elle est comédienne et elle lui a expliqué qu'elle devait répéter une scène de sexe sur un prochain tournage et qu'elle aimerait bien s'entrainer avec lui d'abord, si il le voulait bien. Il a un peu rechigné, mais il s'est vite retrouvé avec la chatte de son amie sur le nez et sa queue entre ses lèvres. Elle lui a dit qu'elle doit jouer une femme très excitée, aussi elle n'a pas grand chose à simuler tant elle est trempée. Elle se frotte sur sa bouche comme si c'est la dernière fois qu'ils se voient et le suce avec gourmandise. Quand il jouit dans sa bouche, elle recrache tout pour recouvrir son sexe et l'observer avec un petit sourire coquin.",
+    minPresentation: 5,
+    minCaresses: 1,
+    minExploration: 2,
+    minOral: 3,
+    minEjaculation: 4,
+    minSperme: 2
+  },
+  {
+    nom: "La courtisane renommée",
+    id: 58,
+    pitch: "{prenom} est une courtisane très respectée à la cour de l'empereur. Mais la nuit venue, elle devient une redoutable espionne usant de ses charmes et de son expertise dans les relations charnelles. Le dignitaire qui est ce soir-là face à elle n'est pas prêt à lui révéler ses secrets, mais elle est patiente et persévérante. Elle caresse doucement l'homme sur ses couilles lourdes, les soulève, les masse, puis ses doigts dessinent de petits rond un peu plus bas, à la base du périnée. Elle se glisse entre ses jambes pour continuer son oeuvre avec sa langue, alternant la base de la queue, les boules et le pli de peau sensible. Le final est toujours efficace : d'une bouche avide et baveuse, elle pompe le membre tendu qu'elle branle d'une main et masse en-dessous de l'autre.",
+    minPresentation: 1,
+    minCaresses: 3,
+    minExploration: 4,
+    minOral: 4,
+    minEjaculation: 1,
+    minSperme: 1
+  },
+  {
     nom: "nom",
     id: 5,
     pitch: "",
