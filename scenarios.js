@@ -157,7 +157,7 @@ const scenarios = [
   {
     nom: "Sorcière en quête de puissance",
     id: 14,
-    pitch: "{prenom} est une sorcière et pour combattre le mal qui étend ses racines partout dans le monde, elle a besoin de puissance. Elle a lu dans un ancien grimoire que la semence de l'homme le plus idiot du village pouvait devenir le plus efficace des breuvages. C'est pourquoi elle le pompe avec avidité, jusqueà ce qu'il jouisse au fond de sa gorge et qu'elle se régale de son nectar.",
+    pitch: "{prenom} est une sorcière et pour combattre le mal qui étend ses racines partout dans le monde, elle a besoin de puissance. Elle a lu dans un ancien grimoire que la semence de l'homme le plus idiot du village pouvait devenir le plus efficace des breuvages. C'est pourquoi elle le pompe avec avidité, jusqu'à ce qu'il jouisse au fond de sa gorge et qu'elle se régale de son nectar.",
     minPresentation: 1,
     minCaresses: 1,
     minExploration: 1,
@@ -366,7 +366,7 @@ const scenarios = [
   {
     nom: "Le prélèvement manuel",
     id: 33,
-    pitch: "{prenom} est préleveuse dans une clinique qui s'occupe de la fertilité. Le patient regarde un film porno assis sur un fauteuil tandis qu'elle doit s'occuper d'extraire son sperme. Elle reste habillée, très professionnelle, et ses gestes n'ont rien de sensuels, elle doit juste prélever sa semence dans ce récipient.",
+    pitch: "{prenom} est préleveuse dans une clinique qui s'occupe de la fertilité. Le patient regarde un film porno assis sur un fauteuil tandis qu'elle doit s'occuper d'extraire son sperme. Elle reste habillée, très professionnelle, et ses gestes n'ont rien de sensuels, elle doit juste prélever sa semence dans ce récipient, à la force du poignet ou de ses lèvres.",
     minPresentation: 1,
     minCaresses: 1,
     minExploration: 1,
@@ -650,8 +650,129 @@ const scenarios = [
     minSperme: 1
   },
   {
+    nom: "La directrice d'école autoritaire",
+    id: 59,
+    pitch: "{prenom} n'est pas contente du tout de son surveillant. Il a laissé les choses s'envenimer et elles ont prises une tournure très désagréable. Il va devoir être puni. Ils connaissent tous la sentence. Personne n'y échappe, il ne fera pas exception. Elle est en petite tenue, jamais nue, ils ne méritent pas cette vision. Lui, par contre, est nu comme un ver et allongée sur ses genoux, le cul tourné vers le ciel. Il a les bras croisés sous sa tête et attend sa punition. Elle prend plaisir à alterner caresses et fessées, à le branler, à le serrer, à masser ses couilles puis le pincer. Elle se caresse quand elle enfonce un doigt dans son cul. S'il jouit, elle le fait juter sur ses cuisses pour se branler avec.",
+    minPresentation: 2,
+    minCaresses: 5,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 1
+  },
+  {
+    nom: "La concubine dévouée",
+    id: 60,
+    pitch: "{prenom} est la quatrième concubine du Roi. Les trois premières ayant échoué à lui donner un héritier, c'était à son tour de le combler. Elle appliqua les leçons apprises à l'académie des plaisirs. D'abord l'exciter en se déshabillant sensuellement. Ensuite l'aguicher en le caressant de ses seins, de ses mains. Le rendre dur en lui faisant sentir son humidité, du nez et de la bouche. Le tendre encore en lui caressant le sexe d'une main douce. Puis le sucer, tendrement, lentement, en le regardant dans les yeux. Le faire monter avec des mots crus. Lui expliquer comment la semence royale doit couler en elle et la manière dont elle va s'y prendre. Le faire jouir.",
+    minPresentation: 4,
+    minCaresses: 1,
+    minExploration: 2,
+    minOral: 1,
+    minEjaculation: 3,
+    minSperme: 1
+  },
+  {
+    nom: "La stagiaire ingénue",
+    id: 61,
+    pitch: "Quand son maître de stage lui avait proposé d'expérimenter sur leur propre corps, {prenom} n'avait pas bronché, persuadée que c'était une étape importante de son apprentissage. C'est ainsi qu'elle avait appris à le masturber et découvert l'intensité d'un cunnilingus. Cette fois, la leçon portait sur \"faire l'amour à sa bouche\". Elle était curieuse, il était ravi. Elle fut donc installée nue, allongée, et vit arriver le pénis de son tuteur droit sur sa bouche qu'elle ouvrit consciencieusement.",
+    minPresentation: 4,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 5,
+    minEjaculation: 4,
+    minSperme: 1
+  },
+  {
+    nom: "La jeune fille au pair",
+    id: 62,
+    pitch: "{prenom} ne comprenait pas bien le français. Depuis qu'elle était arrivée en France, elle avait progressé, mais elle avait des lacunes dans une certaine partie du vocabulaire qui l'intéresser : tout ce qui avait trait à la sexualité. Elle avait demandé conseil à la maîtresse de maison qui lui avait proposé d'obtenir un cours particulier auprès de son mari, ce que ce dernier accepta sans hésiter. C'est ainsi qu'elle se retrouva entre ses jambes à observer avec curiosité - et un peu de naïveté - l'appareil génital masculin. Elle comptait bien tout connaitre du vocabulaire et pour cela n'hésiterait pas à donner un coup de main et de langue. S'il fallait lui lécher les couilles pour en apprendre plus, elle le ferait. S'il fallait goûter son sperme aussi...",
+    minPresentation: 1,
+    minCaresses: 2,
+    minExploration: 2,
+    minOral: 2,
+    minEjaculation: 1,
+    minSperme: 2
+  },
+  {
+    nom: "L'apprentie masseuse",
+    id: 63,
+    pitch: "{prenom} veut tester sur son mari les différentes méthodes et points de pression érotiques qu'elle a apprise dans ses cours de massage. Pendant qu'elle le caresse, le masturbe, tourne autour de ses couilles et de son anus, elle va lui raconter innocemment sur combien d'hommes différents elle a appris durant son stage. Est-ce que lui aussi, va lui jouir sur ses habits sans prévenir ?",
+    minPresentation: 2,
+    minCaresses: 4,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 1
+  },
+  {
+    nom: "L'actrice amatrice",
+    id: 64,
+    pitch: "Dans le prochain film qu'elle va tourner, {prenom} a une scène de fellation qui l'inquiète. Elle n'a pas suffisamment pratiqué et c'est la première fois qu'elle tourne une scène de sexe. Elle demande à un ami de l'aider à se préparer. Elle se mettra seins nus pour ne pas se tâcher et prendra le temps qu'il faut pour apprendre à s'enfoncer la queue tendue le plus profondement possible. Quand il lui demande s'il peut jouir, elle lui expliquera que ce n'est pas prévu au scénario mais que vu la situation, elle comprendrait que ça finisse par arriver...",
+    minPresentation: 3,
+    minCaresses: 1,
+    minExploration: 2,
+    minOral: 4,
+    minEjaculation: 2,
+    minSperme: 1
+  },
+  {
+    nom: "La prêtresse novice",
+    id: 65,
+    pitch: "{prenom} galère à réaliser le rituel sacré des Déesses du Plaisir qui lui permettrait d'obtenir le grade de Grande Prêtresse. Mais aujourd'hui est le bon jour et son cobaye le donneur parfait. Ce qu'il faut pour réussir, c'est prendre son temps, être patiente, faire monter la sauce au fond de ses bourses doucement, l'exciter avec son corps et ses seins, le sucer avec délectation et en bavant abondemment, jusqu'à obtenir sa semence et se recouvrir le corps et le sexe avec.",
+    minPresentation: 4,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 3,
+    minEjaculation: 3,
+    minSperme: 3
+  },
+  {
+    nom: "La nouvelle au club de lecture érotique",
+    id: 66,
+    pitch: "{prenom} vient par curiosité, ne pensant pas que les textes seraient si explicites. Chaque lecture la fait rougir, mais elle pose des questions très sérieuses, si bien que l'un des lecteurs lui propose une approche plus pédagogique. Timidement, elle demande alors à ce qu'il lui explique des termes et des pratiques comme : couilles, fellation, suçage de boules, gorge profonde, éjaculation faciale...",
+    minPresentation: 1,
+    minCaresses: 2,
+    minExploration: 3,
+    minOral: 4,
+    minEjaculation: 5,
+    minSperme: 1
+  },
+  {
+    nom: "La fée égarée",
+    id: 67,
+    pitch: "{prenom} s'est perdue dans le monde des humains. Curieuse, elle les espionne pour les comprendre. Elle les trouve fascinant. Surtout ceux qui ont un truc qui pend entre les jambes quand ils sont tout nus. Là, elle en a repéré un qui tire dessus tous les soirs, seul dans le noir. Elle veut comprendre, elle se faufile par la fenêtre et le fait sursauter. Elle lui explique et vu comme il la regarde, il est très vite convaincu de lui fournir une éducation basique sur les plaisirs du sexe. Surtout le sien. Il lui explique comment le branler, le sucer, le faire jouir sur ces gros seins et bien nettoyer sa queue avec la langue à la fin.",
+    minPresentation: 3,
+    minCaresses: 1,
+    minExploration: 2,
+    minOral: 1,
+    minEjaculation: 2,
+    minSperme: 3
+  },
+  {
+    nom: "La bonne épouse",
+    id: 68,
+    pitch: "Quand son mari rentre, {prenom} sait ce qu'elle doit faire. Il s'installe dans son fauteuil et elle lui apporte son verre de vin. Une fois bu, elle lui tend le journal qu'il lit sans un mot. Elle pose un coussin au pied du fauteuil, s'y installe à genoux, écarte les jambes de son mari et lui déboutonne le pantalon. Elle sort son pénis et commence à le masturber doucement. Il ne lui a dit qu'une fois, mais elle fait attention à bien respecter ses désirs. Les premières minutes sont lentes, elle ne doit pas le prendre en bouche mais se contenter de le sucer longuement, partout, chaque morceau de peau, plusieurs fois. Une fois qu'il est prêt, il pose son journal. Et là, elle n'a plus rien à faire si ce n'est se pencher et ouvrir grand la bouche pour qu'il la lui baise et se vide en elle.",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 5,
+    minEjaculation: 4,
+    minSperme: 1
+  },
+  {
+    nom: "La nouvelle domestique",
+    id: 69,
+    pitch: "{prenom} prend ses nouvelles fonctions dans l'immense manoir. Monsieur a exigé une tenue très légère comme vêtements de fonction. Quand elle se rend le premier jour dans la chambre de Monsieur, elle ne s'attendait pas à le trouver dans le plus simple appareil sur son lit. Ni à ce qu'il commence à se caresser en l'observant faire le ménage. Il lui demande de se tourner, de se pencher, de se mettre à quatre pattes, et bizarrement, elle obéit. Quand il lui demande de s'approcher et de frotter ses fesses quasi nues à son pénis, elle obéit. Quand il lui demande de faire sa toilette, et surtout de nettoyer son sexe, elle obéit. Quand il lui dit de continuer le nettoyage avec la langue, elle obéit. Et quand il jouit et qu'il lui demande de nettoyer encore, elle obéit.",
+    minPresentation: 2,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 3,
+    minSperme: 3
+  },
+  {
     nom: "nom",
-    id: 5,
+    id: 6,
     pitch: "",
     minPresentation: 1,
     minCaresses: 1,
