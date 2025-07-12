@@ -608,7 +608,7 @@ const scenarios = [
   {
     nom: "La botaniste de l'extrême",
     id: 55,
-    pitch: "{prenom} a découvert une nouvelle plante dans la forêt amazonienne. Après l'avoir étudié, elle pense avoir trouvé le plus puissant aphrodiaque naturel existant. Pour vérifier ça, elle choisit un de ses collègues, mignon mais timide. Elle lui fait boire sa potion en lui disant qu'il allait avoir une surprise. Quelques minutes plus tard, il s'est déjà mis nu et est prêt à lui sauter dessus. Elle le réfrenne : son but est de voir à quel point le produit le rend plus docile. Elle lui demande donc de se mettre sur le dos, les jambes pliées et relevées au maximum pour qu'elle puisse avoir accès à sa queue, ses couilles et son anus. Elle va s'amuser avec tout ça jusqu'à le faire jouir et le barbouiller de son propre sperme.",
+    pitch: "{prenom} a découvert une nouvelle plante dans la forêt amazonienne. Après l'avoir étudiée, elle pense qu'elle vient d'inventer le plus puissant aphrodiaque naturel existant. Pour vérifier son efficacité, elle choisit un de ses collègues, mignon mais timide. Elle lui fait boire sa potion en lui disant qu'il allait avoir une surprise. Quelques minutes plus tard, il s'est déjà mis nu et est prêt à lui sauter dessus. Elle le réfrenne : son but est de voir à quel point le produit le rend plus docile. Elle lui demande donc de se mettre sur le dos, les jambes pliées et relevées au maximum pour qu'elle puisse avoir accès à sa queue, ses couilles et son anus. Elle va s'amuser avec tout ça jusqu'à le faire jouir et le barbouiller de son propre sperme.",
     minPresentation: 1,
     minCaresses: 5,
     minExploration: 1,
@@ -630,7 +630,7 @@ const scenarios = [
   {
     nom: "La répétition",
     id: 57,
-    pitch: "{prenom} a peut-être un peu exagéré, mais c'est tellement bon. Elle a un crush sur son meilleur ami et a inventé un prétexte pour le baiser. Elle est comédienne et elle lui a expliqué qu'elle devait répéter une scène de sexe sur un prochain tournage et qu'elle aimerait bien s'entrainer avec lui d'abord, si il le voulait bien. Il a un peu rechigné, mais il s'est vite retrouvé avec la chatte de son amie sur le nez et sa queue entre ses lèvres. Elle lui a dit qu'elle doit jouer une femme très excitée, aussi elle n'a pas grand chose à simuler tant elle est trempée. Elle se frotte sur sa bouche comme si c'est la dernière fois qu'ils se voient et le suce avec gourmandise. Quand il jouit dans sa bouche, elle recrache tout pour recouvrir son sexe et l'observer avec un petit sourire coquin.",
+    pitch: "{prenom} a peut-être un peu exagéré, mais c'est tellement bon. Elle a un crush sur son meilleur ami et a inventé un prétexte pour le baiser. Elle est comédienne et elle lui a expliqué qu'elle devait répéter une scène de sexe sur un prochain tournage et qu'elle aimerait bien s'entrainer avec lui d'abord, si il le voulait bien. Il a un peu rechigné, mais il s'est vite retrouvé avec la chatte de son amie sur le nez et sa queue entre ses lèvres. Elle lui a dit qu'elle devait jouer une femme très excitée, aussi elle n'a pas eu beaucoup à simuler tant elle est trempée. Elle se frotte sur sa bouche comme si c'est la dernière fois qu'ils se voient et le suce avec gourmandise. Quand il jouit dans sa bouche, elle recrache tout pour recouvrir son sexe et l'observer avec un petit sourire coquin.",
     minPresentation: 5,
     minCaresses: 1,
     minExploration: 2,
@@ -641,7 +641,7 @@ const scenarios = [
   {
     nom: "La courtisane renommée",
     id: 58,
-    pitch: "{prenom} est une courtisane très respectée à la cour de l'empereur. Mais la nuit venue, elle devient une redoutable espionne usant de ses charmes et de son expertise dans les relations charnelles. Le dignitaire qui est ce soir-là face à elle n'est pas prêt à lui révéler ses secrets, mais elle est patiente et persévérante. Elle caresse doucement l'homme sur ses couilles lourdes, les soulève, les masse, puis ses doigts dessinent de petits rond un peu plus bas, à la base du périnée. Elle se glisse entre ses jambes pour continuer son oeuvre avec sa langue, alternant la base de la queue, les boules et le pli de peau sensible. Le final est toujours efficace : d'une bouche avide et baveuse, elle pompe le membre tendu qu'elle branle d'une main et masse en-dessous de l'autre.",
+    pitch: "{prenom} est une courtisane très respectée à la cour de l'empereur. Mais la nuit venue, elle devient une redoutable espionne usant de ses charmes et de son expertise dans les relations charnelles. Le dignitaire qui est ce soir-là face à elle n'est pas prêt à lui révéler ses secrets, mais elle est patiente et persévérante. Elle caresse doucement l'homme sur ses lourdes couilles, les soulève, les masse, puis ses doigts dessinent de petits rond un peu plus bas, à la base du périnée. Elle se glisse entre ses jambes pour continuer son oeuvre avec sa langue, alternant la base de la queue, les boules et le pli de peau sensible. Le final est toujours efficace : d'une bouche avide et baveuse, elle pompe le membre tendu qu'elle branle d'une main et masse en-dessous de l'autre.",
     minPresentation: 1,
     minCaresses: 3,
     minExploration: 4,
@@ -652,7 +652,7 @@ const scenarios = [
   {
     nom: "La directrice d'école autoritaire",
     id: 59,
-    pitch: "{prenom} n'est pas contente du tout de son surveillant. Il a laissé les choses s'envenimer et elles ont prises une tournure très désagréable. Il va devoir être puni. Ils connaissent tous la sentence. Personne n'y échappe, il ne fera pas exception. Elle est en petite tenue, jamais nue, ils ne méritent pas cette vision. Lui, par contre, est nu comme un ver et allongée sur ses genoux, le cul tourné vers le ciel. Il a les bras croisés sous sa tête et attend sa punition. Elle prend plaisir à alterner caresses et fessées, à le branler, à le serrer, à masser ses couilles puis le pincer. Elle se caresse quand elle enfonce un doigt dans son cul. S'il jouit, elle le fait juter sur ses cuisses pour se branler avec.",
+    pitch: "{prenom} n'est pas contente du tout de son surveillant. Il a laissé les choses s'envenimer et elles ont prises une tournure très désagréable. Il doit être puni. Ils connaissent tous la sentence. Personne n'y échappe, il ne fera pas exception. Elle est en petite tenue, jamais nue, ils ne méritent pas cette vision. Lui, par contre, est nu comme un ver et allongée sur ses genoux, le cul tourné vers le ciel. Il a les bras croisés sous sa tête et attend sa punition. Elle prend plaisir à alterner caresses et fessées, à le branler, à le serrer, à masser ses couilles puis le pincer. Elle se caresse quand elle enfonce un doigt dans son cul. S'il jouit, elle le fait juter sur ses cuisses et sa chatte pour se branler avec.",
     minPresentation: 2,
     minCaresses: 5,
     minExploration: 1,
@@ -663,7 +663,7 @@ const scenarios = [
   {
     nom: "La concubine dévouée",
     id: 60,
-    pitch: "{prenom} est la quatrième concubine du Roi. Les trois premières ayant échoué à lui donner un héritier, c'était à son tour de le combler. Elle appliqua les leçons apprises à l'académie des plaisirs. D'abord l'exciter en se déshabillant sensuellement. Ensuite l'aguicher en le caressant de ses seins, de ses mains. Le rendre dur en lui faisant sentir son humidité, du nez et de la bouche. Le tendre encore en lui caressant le sexe d'une main douce. Puis le sucer, tendrement, lentement, en le regardant dans les yeux. Le faire monter avec des mots crus. Lui expliquer comment la semence royale doit couler en elle et la manière dont elle va s'y prendre. Le faire jouir.",
+    pitch: "{prenom} est la quatrième concubine du Roi. Les trois premières ayant échoué à lui donner un héritier, c'est à son tour de le combler. Elle applique les leçons apprises à l'académie des plaisirs. D'abord l'exciter en se déshabillant sensuellement. Ensuite l'aguicher en le caressant de ses seins, de ses mains. Le rendre dur en lui faisant sentir son humidité, du nez et de la bouche. Le tendre encore en lui caressant le sexe d'une main douce. Puis le sucer, tendrement, lentement, en le regardant dans les yeux. Le faire monter avec des mots crus. Lui expliquer comment la semence royale doit couler en elle et la manière dont elle va s'y prendre. Le faire jouir.",
     minPresentation: 4,
     minCaresses: 1,
     minExploration: 2,
@@ -674,7 +674,7 @@ const scenarios = [
   {
     nom: "La stagiaire ingénue",
     id: 61,
-    pitch: "Quand son maître de stage lui avait proposé d'expérimenter sur leur propre corps, {prenom} n'avait pas bronché, persuadée que c'était une étape importante de son apprentissage. C'est ainsi qu'elle avait appris à le masturber et découvert l'intensité d'un cunnilingus. Cette fois, la leçon portait sur \"faire l'amour à sa bouche\". Elle était curieuse, il était ravi. Elle fut donc installée nue, allongée, et vit arriver le pénis de son tuteur droit sur sa bouche qu'elle ouvrit consciencieusement.",
+    pitch: "Quand son maître de stage lui a proposé d'expérimenter sur leur propre corps, {prenom} n'a pas bronché, persuadée que c'était une étape importante de son apprentissage. C'est ainsi qu'elle a appris à le masturber et découvert l'intensité d'un cunnilingus. Cette fois, la leçon portait sur \"faire l'amour à sa bouche\". Elle était curieuse, il était ravi. Elle fut donc installée nue, allongée, et vit arriver le pénis de son tuteur droit sur sa bouche qu'elle ouvrit consciencieusement.",
     minPresentation: 4,
     minCaresses: 1,
     minExploration: 1,
@@ -685,7 +685,7 @@ const scenarios = [
   {
     nom: "La jeune fille au pair",
     id: 62,
-    pitch: "{prenom} ne comprenait pas bien le français. Depuis qu'elle était arrivée en France, elle avait progressé, mais elle avait des lacunes dans une certaine partie du vocabulaire qui l'intéresser : tout ce qui avait trait à la sexualité. Elle avait demandé conseil à la maîtresse de maison qui lui avait proposé d'obtenir un cours particulier auprès de son mari, ce que ce dernier accepta sans hésiter. C'est ainsi qu'elle se retrouva entre ses jambes à observer avec curiosité - et un peu de naïveté - l'appareil génital masculin. Elle comptait bien tout connaitre du vocabulaire et pour cela n'hésiterait pas à donner un coup de main et de langue. S'il fallait lui lécher les couilles pour en apprendre plus, elle le ferait. S'il fallait goûter son sperme aussi...",
+    pitch: "{prenom} ne comprend pas bien le français. Depuis qu'elle est arrivée en France, elle a progressé, mais elle a des lacunes dans une certaine partie du vocabulaire qui l'intéresse : tout ce qui a trait à la sexualité. Elle a demandé conseil à la maîtresse de maison qui lui a proposé d'obtenir un cours particulier auprès de son mari, ce que ce dernier accepte sans hésiter. C'est ainsi qu'elle se retrouve entre ses jambes à observer avec curiosité - et un peu de naïveté - l'appareil génital masculin. Elle compte bien tout connaitre du vocabulaire et pour cela n'hésite pas à donner un coup de main et de langue. S'il faut lui lécher les couilles pour en apprendre plus, elle le fera. S'il faut goûter son sperme aussi...",
     minPresentation: 1,
     minCaresses: 2,
     minExploration: 2,
@@ -696,7 +696,7 @@ const scenarios = [
   {
     nom: "L'apprentie masseuse",
     id: 63,
-    pitch: "{prenom} veut tester sur son mari les différentes méthodes et points de pression érotiques qu'elle a apprise dans ses cours de massage. Pendant qu'elle le caresse, le masturbe, tourne autour de ses couilles et de son anus, elle va lui raconter innocemment sur combien d'hommes différents elle a appris durant son stage. Est-ce que lui aussi, va lui jouir sur ses habits sans prévenir ?",
+    pitch: "{prenom} veut tester sur son mari les différentes méthodes et points de pression érotiques qu'elle a apprise dans ses cours de massage. Pendant qu'elle le caresse, le masturbe, tourne autour de ses couilles et de son anus, elle va lui raconter innocemment sur combien d'hommes différents elle a pratiqué durant son stage. Est-ce que lui aussi, il va lui jouir sur ses habits sans prévenir ?",
     minPresentation: 2,
     minCaresses: 4,
     minExploration: 1,
@@ -707,7 +707,7 @@ const scenarios = [
   {
     nom: "L'actrice amatrice",
     id: 64,
-    pitch: "Dans le prochain film qu'elle va tourner, {prenom} a une scène de fellation qui l'inquiète. Elle n'a pas suffisamment pratiqué et c'est la première fois qu'elle tourne une scène de sexe. Elle demande à un ami de l'aider à se préparer. Elle se mettra seins nus pour ne pas se tâcher et prendra le temps qu'il faut pour apprendre à s'enfoncer la queue tendue le plus profondement possible. Quand il lui demande s'il peut jouir, elle lui expliquera que ce n'est pas prévu au scénario mais que vu la situation, elle comprendrait que ça finisse par arriver...",
+    pitch: "Dans le prochain film qu'elle va tourner, {prenom} a une scène de fellation qui l'inquiète. Elle n'a pas suffisamment pratiqué et c'est la première fois qu'elle tourne une scène de sexe. Elle demande à un ami de l'aider à se préparer. Elle se mettra seins nus pour ne pas se tâcher et prendra le temps qu'il faut pour apprendre à s'enfoncer la queue tendue le plus profondement possible. Quand il lui demandera s'il peut jouir, elle lui expliquera que ce n'est pas prévu au scénario mais que vu la situation, elle comprendrait que ça finisse par arriver...",
     minPresentation: 3,
     minCaresses: 1,
     minExploration: 2,
@@ -718,7 +718,7 @@ const scenarios = [
   {
     nom: "La prêtresse novice",
     id: 65,
-    pitch: "{prenom} galère à réaliser le rituel sacré des Déesses du Plaisir qui lui permettrait d'obtenir le grade de Grande Prêtresse. Mais aujourd'hui est le bon jour et son cobaye le donneur parfait. Ce qu'il faut pour réussir, c'est prendre son temps, être patiente, faire monter la sauce au fond de ses bourses doucement, l'exciter avec son corps et ses seins, le sucer avec délectation et en bavant abondemment, jusqu'à obtenir sa semence et se recouvrir le corps et le sexe avec.",
+    pitch: "{prenom} galère à réaliser le rituel sacré des Déesses du Plaisir qui lui permettrait d'obtenir le grade de Grande Prêtresse. Mais aujourd'hui est le bon jour et son cobaye le donneur parfait. Ce qu'il faut pour réussir, c'est prendre son temps, être patiente, faire monter la sauce au fond de ses bourses, l'exciter avec son corps et ses seins, le sucer avec délectation et en bavant abondemment, jusqu'à obtenir sa semence et se recouvrir le corps et le sexe avec.",
     minPresentation: 4,
     minCaresses: 1,
     minExploration: 1,
@@ -740,7 +740,7 @@ const scenarios = [
   {
     nom: "La fée égarée",
     id: 67,
-    pitch: "{prenom} s'est perdue dans le monde des humains. Curieuse, elle les espionne pour les comprendre. Elle les trouve fascinant. Surtout ceux qui ont un truc qui pend entre les jambes quand ils sont tout nus. Là, elle en a repéré un qui tire dessus tous les soirs, seul dans le noir. Elle veut comprendre, elle se faufile par la fenêtre et le fait sursauter. Elle lui explique et vu comme il la regarde, il est très vite convaincu de lui fournir une éducation basique sur les plaisirs du sexe. Surtout le sien. Il lui explique comment le branler, le sucer, le faire jouir sur ces gros seins et bien nettoyer sa queue avec la langue à la fin.",
+    pitch: "{prenom} s'est perdue dans le monde des humains. Curieuse, elle les espionne pour les comprendre. Elle les trouve fascinant. Surtout ceux qui ont un truc qui pend entre les jambes quand ils sont tout nus. Là, elle en a repéré un qui tire dessus tous les soirs, seul dans le noir. Elle veut comprendre, elle se faufile par la fenêtre et le fait sursauter. Elle lui explique la situation. Vu comme il la regarde, il est très vite convaincu de lui fournir une éducation basique sur les plaisirs du sexe. Surtout le sien. Il lui explique comment le branler, le sucer, le faire jouir sur ces gros seins et bien nettoyer sa queue avec la langue à la fin.",
     minPresentation: 3,
     minCaresses: 1,
     minExploration: 2,
@@ -751,7 +751,7 @@ const scenarios = [
   {
     nom: "La bonne épouse",
     id: 68,
-    pitch: "Quand son mari rentre, {prenom} sait ce qu'elle doit faire. Il s'installe dans son fauteuil et elle lui apporte son verre de vin. Une fois bu, elle lui tend le journal qu'il lit sans un mot. Elle pose un coussin au pied du fauteuil, s'y installe à genoux, écarte les jambes de son mari et lui déboutonne le pantalon. Elle sort son pénis et commence à le masturber doucement. Il ne lui a dit qu'une fois, mais elle fait attention à bien respecter ses désirs. Les premières minutes sont lentes, elle ne doit pas le prendre en bouche mais se contenter de le sucer longuement, partout, chaque morceau de peau, plusieurs fois. Une fois qu'il est prêt, il pose son journal. Et là, elle n'a plus rien à faire si ce n'est se pencher et ouvrir grand la bouche pour qu'il la lui baise et se vide en elle.",
+    pitch: "Quand son mari rentre, {prenom} sait ce qu'elle doit faire. Il s'installe dans son fauteuil et elle lui apporte son verre de vin. Une fois bu, elle lui tend le journal qu'il lit sans un mot. Elle pose un coussin au pied du fauteuil, s'y installe à genoux, écarte les jambes de son mari et lui déboutonne le pantalon. Elle sort son pénis et commence à le masturber doucement. Il ne lui a dit qu'une fois, mais elle fait attention à bien respecter ses désirs. Les premières minutes sont lentes, elle ne doit pas le prendre en bouche mais se contenter de le lécher longuement, partout, chaque morceau de peau, plusieurs fois. Une fois qu'il est prêt, il pose son journal. Et là, elle n'a plus rien à faire si ce n'est se pencher et ouvrir grand la bouche pour qu'il la lui baise et se vide en elle.",
     minPresentation: 1,
     minCaresses: 1,
     minExploration: 1,
@@ -773,7 +773,7 @@ const scenarios = [
   {
     nom: "Le dilemme de la directrice",
     id: 70,
-    pitch: "{prenom} a trouvé une technique très efficace pour faire gagner de l'argent à son patron. En temps que directrice des ressources humaines, elle propose aux employés mâles qui ne lui déplaisent pas trop, de troquer leur augmentation annuelle contre une demi-heure de soumission. Elle est plutôt canon, dans son petit tailleur, derrière ses lunettes de cochonne, aussi beaucoup acceptent et elle se soumet à leur désir. Celui du jour s'est approché d'elle, lui a demandé de se mettre à genoux, d'ouvrir la bouche et il lui baise en l'agrippant par les cheveux. Il répète sans cesse qu'il va finir sur son visage de bourgeoise...",
+    pitch: "{prenom} a trouvé une technique très efficace pour faire gagner de l'argent à son patron. En temps que directrice des ressources humaines, elle propose aux employés mâles qui ne lui déplaisent pas trop, de troquer leur augmentation annuelle contre une demi-heure de sa propre soumission. Elle est plutôt canon, dans son petit tailleur, derrière ses lunettes de cochonne, aussi beaucoup acceptent et elle se soumet à leur désir. Celui du jour s'est approché d'elle, lui a demandé de se mettre à genoux, d'ouvrir la bouche et il lui baise en l'agrippant par les cheveux. Il répète sans cesse qu'il va finir sur son visage de bourgeoise et qu'il en aura pour son argent...",
     minPresentation: 1,
     minCaresses: 1,
     minExploration: 1,
@@ -784,7 +784,7 @@ const scenarios = [
   {
     nom: "Le défi entre amies",
     id: 71,
-    pitch: "Il y a un défi entre {prenom} et ses copines qui tournent depuis des mois : qui arrivera à faire le faire bander et encore mieux, le faire jouir ? Il parle sans cesse de ses problèmes sexuels et elles ont toutes envie de relever ce défi. Certaines s'y sont déjà cassés les dents, manière de parler... {prenom} profite qu'il soit resté après la soirée, devant son match de basket, pour se glisser près de lui sur le canapé. Sans un mot, elle déboutonne son pantalon. Il la regarde avec étonnement et elle lui fait un clin d'oeil. Elle sort le paquet tout mou, il hausse les épaules. Elle s'évertue à sucer l'escargot enroulé et ses deux petites coquilles bien rondes. Miracle, il prend de l'envol, {prenom} est très fière d'elle. Reste plus qu'à aller jusqu'au bout, ce qu'elle compte bien faire. Cela prendra le temps qu'il faudra, mais elle sera la première à faire couler son sperme entre ses lèvres...",
+    pitch: "Il y a un défi entre {prenom} et ses copines qui tournent depuis des mois : qui arrivera à le faire bander et encore mieux, le faire jouir ? Il parle sans cesse de ses problèmes sexuels et elles ont toutes envie de relever ce défi. Certaines s'y sont déjà cassés les dents, manière de parler... {prenom} profite qu'il soit resté après la soirée, devant son match de basket, pour se glisser près de lui sur le canapé. Sans un mot, elle déboutonne son pantalon. Il la regarde avec étonnement et elle lui fait un clin d'oeil. Elle sort le paquet tout mou, il hausse les épaules. Elle s'évertue à sucer l'escargot enroulé et ses deux petites coquilles bien rondes. Miracle, il prend de l'envol, {prenom} est très fière d'elle. Reste plus qu'à aller jusqu'au bout, ce qu'elle compte bien faire. Cela prendra le temps qu'il faudra, mais elle sera la première à faire couler son sperme entre ses lèvres...",
     minPresentation: 1,
     minCaresses: 2,
     minExploration: 3,
@@ -945,6 +945,17 @@ const scenarios = [
     minOral: 1,
     minEjaculation: 5,
     minSperme: 1
+  },
+  {
+    nom: "L'hypnotiseuse",
+    id: 86,
+    pitch: "{prenom} est une spécialiste dans son domaine. Elle a réglé bon nombre de troubles chez ses patients et son expertise est reconnue internationalement. Pourtant, elle n'a jamais eu cas aussi... étrange. Ce patient aimerait contenter les désirs sexuels de son épouse mais il n'arrive pas à y accéder. Il aimerait qu'elle l'aide à s'ouvrir à certaines pratiques. Sous hypnose, complètement nu, à quatre pattes, il se laissera doigter le cul délicatement. {prenom} n'a jamais fait ça jusque là, mais elle y prend un certain plaisir. Elle profite qu'il soit sous hypnose pour se caresser et sucer cette belle queue pendue. Elle espère bien le faire jouir dans un verre et lui faire goûter sa propre semence. Ou peut-être qu'elle le fera éjaculer sur elle, qui sait...",
+    minPresentation: 1,
+    minCaresses: 5,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 5
   },
   {
     nom: "nom",
