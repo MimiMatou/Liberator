@@ -245,7 +245,7 @@ const scenarios = [
   {
     nom: "Le stage à la dure",
     id: 22,
-    pitch: "{prenom} a pris un jeune stagiaire très mignon pour faire la vente dans sa boutique et elle lui a fait croire que pour obtenir une bonne mention il doit passer un test important. Debout derrière le comptoir (accoudé au bar par exemple), il devra réussir à rester stoïc et ne pas révéler ce qu'il se passe en-dessous à la clientèle. {prenom} est à genoux, la queue du stagiaire dans la bouche et se l'enfonce autant qu'elle le peut. Elle lui masse les couilles et lui caresse le petit trou pour augmenter son plaisir et tenter de le faire défaillir. Quand il jouit, elle le laisse venir sur ses habits.",
+    pitch: "{prenom} a pris un jeune stagiaire très mignon pour faire la vente dans sa boutique et elle lui a fait croire que pour obtenir une bonne note il devait passer un test important. Debout derrière le comptoir (accoudé au bar par exemple), il devra réussir à rester stoïc et ne pas révéler à la clientèle ce qu'il se passe en-dessous. {prenom} est à genoux, la queue du stagiaire dans la bouche et se l'enfonce autant qu'elle le peut. Elle lui masse les couilles et lui caresse le petit trou pour augmenter son plaisir et tenter de le faire défaillir. Quand il jouit, elle le laisse venir sur ses habits.",
     minPresentation: 1,
     minCaresses: 4,
     minExploration: 3,
@@ -278,7 +278,7 @@ const scenarios = [
   {
     nom: "Le jeu truqué",
     id: 25,
-    pitch: "{prenom} est ravie, son plan a marché comme elle le voulait : inviter le mec sur lequel elle fantasme mais qui est déjà en couple, organiser une soirée entre potes, faire couler l'alcool, sa meilleure amie qui propose innocemment de jouer à des jeux coquins, encore plus d'alcool, des jeux de plus en plus chauds, et le défi qui tombe au bon moment sur les deux bonnes personnes, comme par hasard. Les deux doivent s'isoler et ne revenir que lorsqu'il y aura une preuve qu'un rapprochement sexuel ait eu lieu. {prenom} joue l'ingénue, mais propose à son crush qui ne sait plus où se mettre que ce soit un peu de sperme sur ses lèvres...",
+    pitch: "{prenom} est ravie, son plan a marché comme elle le voulait : inviter le mec sur lequel elle fantasme mais qui est déjà en couple, organiser une soirée entre potes, faire couler l'alcool, sa meilleure amie qui propose innocemment de jouer à des jeux coquins, encore plus d'alcool, des jeux de plus en plus chauds, et le défi qui tombe au bon moment sur les deux bonnes personnes, comme par hasard. Tous deux doivent s'isoler et ne revenir que lorsqu'il y aura une preuve qu'un rapprochement sexuel a eu lieu. {prenom} joue l'ingénue, mais propose à son crush qui ne sait plus où se mettre que la preuve soit sous forme d'un peu de sperme sur ses lèvres...",
     minPresentation: 1,
     minCaresses: 2,
     minExploration: 2,
@@ -289,7 +289,7 @@ const scenarios = [
   {
     nom: "La thérapeute de couple",
     id: 26,
-    pitch: "{prenom} utilise des méthodes atypiques mais qui donnent des résultats. Lors de cette session, elle va faire la démonstration d'une pratique manuelle et orale que madame ne sait pas comment faire. Elle va expliquer les différentes zones à caresser, à lécher, à sucer, en s'y pretant allégremment (sauf les bourses, qu'elle n'aime pas trop lécher). Pour l'éjaculation, elle explique qu'il est possible d'avaler ou de recracher. Et pour donner l'exemple, elle prend tout dans la bouche et propose à madame et monsieur d'y gouter en partageant un baiser avec elle.",
+    pitch: "{prenom} utilise des méthodes atypiques mais qui donnent des résultats. Lors de cette session, elle va faire la démonstration d'une pratique manuelle et orale pour monsieur. Elle va expliquer les différentes zones à caresser, à lécher, à sucer, en s'y pretant allégremment (sauf les bourses, qu'elle n'aime pas trop lécher). Pour l'éjaculation, elle explique qu'il est possible d'avaler ou de recracher. Et pour donner l'exemple, elle prend tout dans la bouche et propose à madame et monsieur d'y gouter en partageant un baiser avec elle.",
     minPresentation: 1,
     minCaresses: 3,
     minExploration: 2,
@@ -333,7 +333,7 @@ const scenarios = [
   {
     nom: "Le Bat-Signal",
     id: 30,
-    pitch: "{prenom} est Batwoman. Elle a trouvé un Batman dans cette soirée déguisée. Il a l'air pas mal du tout, même si elle ne le voit pas derrière ce masque ridicule. C'était le signe qu'elle attendait. Elle l'a trainé sur le balcon pour boire et discuter de tout et de rien, jusqu'à ce qu'elle sorte sa question préférée \"Tu veux que je te suce ?\". Il n'a pas refusé. Et c'est ainsi que vous vous êtes retrouvés dans ce cagibi, serrés, lui debout, toi accroupie à lui pomper la queue.",
+    pitch: "{prenom} est Batwoman. Elle a trouvé un Batman dans cette soirée déguisée. Il a l'air pas mal du tout, même si elle ne le voit pas derrière ce masque ridicule. C'était le signe qu'elle attendait. Elle l'a trainé sur le balcon pour boire et discuter de tout et de rien, jusqu'à ce qu'elle sorte sa question préférée \"Tu veux que je te suce ?\". Il n'a pas refusé. Et c'est ainsi qu'ils se sont retrouvés dans ce cagibi, serrés, lui debout, elle accroupie à lui pomper la queue.",
     minPresentation: 2,
     minCaresses: 1,
     minExploration: 1,
@@ -388,7 +388,7 @@ const scenarios = [
   {
     nom: "La terrible vision",
     id: 35,
-    pitch: "Ce n'est pas la première vision de {prenom}, mais c'est la plus terrifiante. Elle sait que si ce type qu'elle n'a jamais vu sort de cette pièce, l'enchainement des circonstances entrainera le monde à sa perte. Elle doit absolument le retenir un peu. Suffisamment longtemps pour que cette vision cesse de la hanter. Elle fera tout pour l'empêcher de sortir. Quitte à donner d'elle-même. Il ne devrait pas resister à la vue de ses seins, même s'il ne la connait pas. Et si ça ne marche pas, quel homme refuse de se faire tailler une pipe ? Et de jouir sur ses gros seins ?",
+    pitch: "Ce n'est pas la première vision de {prenom}, mais c'est la plus terrifiante. Elle sait que si ce type qu'elle n'a jamais vu sort de cette pièce, l'enchainement des circonstances entrainera le monde à sa perte. Elle doit absolument le retenir un peu. Suffisamment longtemps pour que cette vision cesse de la hanter. Elle fera tout pour l'empêcher de partir. Quitte à donner d'elle-même. Il ne devrait pas resister à la vue de ses seins, même s'il ne la connait pas. Et si ça ne marche pas, quel homme refuse de se faire tailler une pipe ? Et de jouir sur ses gros seins ?",
     minPresentation: 3,
     minCaresses: 1,
     minExploration: 1,
@@ -410,7 +410,7 @@ const scenarios = [
   {
     nom: "La créatrice de cyborgs",
     id: 37,
-    pitch: "{prenom} est une inventrice extraordinaire. Sa dernière idée : un cyborg plus vrai que nature. Son problème : elle n'a que très peu fréquenté d'humains, encore moins d'hommes. Elle a perfectionné son modèle au mieux qu'elle pouvait, mais tout ce qui est organes génitaux n'est pas du tout au point. Elle embauche donc un homme, humain, pour découvrir avec lui les sensations qu'elle doit ajouter à son invention. Il lui faudra donc toucher sa bite, ses couilles, prendre des notes sur la texture du gland, le goût du pré-sperme et du sperme.",
+    pitch: "{prenom} est une inventrice extraordinaire. Sa dernière idée : un cyborg plus vrai que nature. Son problème : elle n'a que très peu fréquenté d'humains, encore moins d'hommes. Elle a perfectionné son modèle au mieux qu'elle pouvait, mais tout ce qui est organes génitaux n'est pas du tout au point. Elle embauche donc un homme, humain, pour découvrir avec lui les sensations qu'elle doit ajouter à son invention. Il lui faudra donc toucher sa bite, ses couilles, prendre des notes sur la texture du gland, le goût du pré-sperme et du sperme...",
     minPresentation: 1,
     minCaresses: 2,
     minExploration: 2,
@@ -421,7 +421,7 @@ const scenarios = [
   {
     nom: "La piqûre",
     id: 38,
-    pitch: "{prenom} s'est faite piquer par une méduse à un endroit bien délicat. Problème, elle est seule sur cette plage et si la piqûre n'est pas traitée rapidement, elle risque d'être dangereuse. Il y a bien cet inconnu, mais va-t-il accepter le remède qu'elle lit, effarée, sur internet ? Est-ce qu'il va être d'accord pour lui éjaculer sur l'endroit où elle s'est faite piquée, c'est à dire pile poil entre les deux fesses ? Il va falloir qu'elle soit très persuasive.",
+    pitch: "{prenom} s'est faite piquer par une méduse à un endroit bien délicat. Problème, elle est seule sur cette plage et si la piqûre n'est pas traitée rapidement, cela risque de devenir dangereuse. Il y a bien cet inconnu, mais va-t-il accepter le remède qu'elle lit, effarée, sur internet ? Est-ce qu'il va être d'accord pour lui éjaculer sur l'endroit où elle s'est faite piquée, c'est à dire pile poil entre les deux fesses ? Il va falloir qu'elle soit très persuasive.",
     minPresentation: 5,
     minCaresses: 1,
     minExploration: 1,
@@ -443,7 +443,7 @@ const scenarios = [
   {
     nom: "La riche veuve",
     id: 40,
-    pitch: "{prenom} a perdu son mari beaucoup trop tôt. Elle n'a pas eu le temps d'avoir un enfant. Et ne veut pas se remarier. Alors elle se paye des prostitués en espérant trouver un géniteur adéquat. Elle en profite pour assouvir ses envies. Le procédé est toujours le même : le prostitué est allongé, nu. Elle le branle et le suce en même temps, en le regardant dans les yeux. De temps en temps, elle l'excite par ses mots crus. Jusqu'à ce qu'il jouisse dans sa bouche. Là elle recrache toute la semence sur le pénis encore dur, puis vient se frotter le clitoris dessus, tant pour s'imprégner de sperme que pour se faire jouir à son tour.",
+    pitch: "{prenom} a perdu son mari beaucoup trop tôt. Elle n'a pas eu le temps d'avoir un enfant. Et ne veut pas se marier de nouveau. Alors elle se paye des prostitués en espérant trouver un géniteur adéquat. Elle en profite pour assouvir ses envies. Le procédé est toujours le même : le prostitué est allongé, nu. Elle le branle et le suce en même temps, en le regardant dans les yeux. De temps en temps, elle l'excite par ses mots crus. Jusqu'à ce qu'il jouisse dans sa bouche. Là elle recrache toute la semence sur le pénis encore dur, puis vient se frotter le clitoris dessus, tant pour s'imprégner de sperme que pour se faire jouir à son tour.",
     minPresentation: 4,
     minCaresses: 1,
     minExploration: 1,
@@ -454,7 +454,7 @@ const scenarios = [
   {
     nom: "L'employée de maison docile",
     id: 41,
-    pitch: "{prenom} obéit toujours à Madame. Elle veut toujours obtenir la plus grande satisfaction de sa maîtresse. Et aujourd'hui, elle lui ordonne d'obtenir le plaisir de monsieur. Apparemment, Madame n'a pas la tête à ça et lui délègue le boulot. {prenom} rejoint donc Monsieur dans son bureau et demande poliment à passer sous le bureau tandis qu'il travaille à ses choses importantes. Elle n'a pas souvent vu de pénis, aussi elle est un peu intimidée. Elle découvre de ses doigts, lèche un peu le gland, puis se met au travail.",
+    pitch: "{prenom} obéit toujours à Madame. Elle veut toujours obtenir la plus grande satisfaction de sa maîtresse. Et aujourd'hui, elle lui ordonne d'obtenir le plaisir de monsieur. Apparemment, Madame n'a pas la tête à ça et lui délègue la tâche. {prenom} rejoint donc Monsieur dans son office et demande poliment à passer sous le bureau tandis qu'il travaille à ses choses importantes. Elle n'a pas souvent vu de pénis, aussi elle est un peu intimidée. Elle découvre de ses doigts, lèche un peu le gland, puis se met au travail.",
     minPresentation: 2,
     minCaresses: 2,
     minExploration: 2,
@@ -923,6 +923,17 @@ const scenarios = [
     minOral: 1,
     minEjaculation: 1,
     minSperme: 5
+  },
+  {
+    nom: "Le leçon de l'instructeur",
+    id: 84,
+    pitch: "Il lui a tout appris : le combat à l'épée, l'étiquette, le déchiffrage de certains codes militaires, l'infiltration, tout. {prenom} a une confiance aveugle en son instructeur. Le roi, son père, lui a confié son éducation et il fait ça très bien. Une grande complicité est née entre eux deux. Si bien que, quand il lui propose de lui apprendre à faire une masturbation, elle est tout aussi partante que s'il lui proposait de monter à dos de tigre. Comme à son habitude, il va prendre le temps de lui expliquer chaque détail, chaque manipulation. Elle découvre la queue de son instructeur avec un peu de rose aux joues et se sent plus intimidée qu'avec une épée à la main, mais elle écoute ses instructions avec application. Surtout qu'il lui a bien expliqué que le but était qu'il y prenne du plaisir...",
+    minPresentation: 4,
+    minCaresses: 2,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 1
   },
   {
     nom: "nom",
