@@ -509,11 +509,11 @@ const scenarios = [
   {
     nom: "L'expérience culinaire",
     id: 46,
-    pitch: "{prenom} a besoin de sperme pour sa nouvelle recette. C'est une idée novatrice qui pourrait fonctionner, elle en est sûre, mais ça demande une matière première plutôt difficile à obtenir en grande quantité. Depuis sa cuisine, elle appelle donc son commis et lui demande de se déshabiller et se mettre à quatre pattes au-dessus d'un récipient. Elle le trait sans douceur. Comme c'est un peu trop brutal et qu'elle sait qu'elle doit obtenir un bon produit, elle s'occupe en même temps de ses couilles productrices en les caressant, les léchant et les suçant.",
+    pitch: "{prenom} a besoin de sperme pour sa nouvelle recette. C'est une idée novatrice qui pourrait fonctionner, elle en est sûre, mais ça demande une matière première plutôt difficile à obtenir en grande quantité. Depuis sa cuisine, elle appelle donc son commis et lui demande de se déshabiller et se mettre à quatre pattes au-dessus d'un récipient. Elle le trait sans douceur, comme une vache. Elle pense que pour obtenir un bon produit, elle doit s'occuper en même temps de ses couilles productrices en les caressant, les léchant et les suçant.",
     minPresentation: 1,
-    minCaresses: 1,
-    minExploration: 1,
-    minOral: 1,
+    minCaresses: 2,
+    minExploration: 3,
+    minOral: 2,
     minEjaculation: 1,
     minSperme: 1
   },
@@ -542,7 +542,7 @@ const scenarios = [
   {
     nom: "L'assistante à domicile",
     id: 49,
-    pitch: "{prenom} rend visite à son patient spécial. D'ordinaire, elle doit s'occuper de soins tout à fait courants, mais ici ce n'est pas le cas. Il souffre d'une maladie qui requiert qu'il décharge quotidiennement. Au début, elle venait juste pour lui rappeler de le faire chaque jour, mais rapidement elle s'est rendue compte qu'il oubliait ou n'y parvenait pas. Aussi, elle a finit par assister à ses masturbations pour être certaine qu'il les faisait. Et de fil en aiguille, elle s'est mise à l'aider plus directement. C'est ainsi qu'elle se retrouve aujourd'hui à le sucer et caresser ses couilles pour le faire jouir dans sa bouche.",
+    pitch: "{prenom} rend visite à un patient spécial. D'ordinaire, elle doit s'occuper de soins tout à fait courants, mais ici ce n'est pas le cas. Il souffre d'une maladie qui requiert qu'il décharge quotidiennement. Au début, elle venait juste pour lui rappeler de le faire chaque jour, mais rapidement elle s'est rendue compte qu'il oubliait ou n'y parvenait pas. Aussi, elle a finit par assister à ses masturbations pour être certaine qu'il les effectuait. Et de fil en aiguille, elle s'est mise à l'aider plus directement. C'est ainsi qu'elle se retrouve aujourd'hui à le sucer et caresser ses couilles pour le faire jouir dans sa bouche.",
     minPresentation: 1,
     minCaresses: 2,
     minExploration: 2,
@@ -553,7 +553,7 @@ const scenarios = [
   {
     nom: "Le pacte sacré",
     id: 50,
-    pitch: "Tous les ans, un guerrier et une guerrière de chaque tribu doivent se lier par un pacte, dans un rituel tenu secret des sages. C'est le prix à payer pour éviter la guerre. {prenom} a été choisie pour sa tribu. Elle observe celui qui se liera avec elle par la semence. Elle renifle, mais elle doit le faire. Elle s'allonge à ses côtés, nue comme lui, tête bêche. Tous deux observent le sexe de l'autre. Il commence à la caresser maladroitement, elle fait de même. Elle a bien écouté les sages et s'applique à sucer ce sexe dur pour en extraire la semence. Quand elle est dans sa bouche, elle se lève et embrasse son nouveau partenaire pour sceller le pacte.",
+    pitch: "Tous les ans, un guerrier et une guerrière de chaque tribu doivent se lier par un pacte, dans un rituel tenu secret des sages. C'est le prix à payer pour éviter la guerre. {prenom} a été choisie pour sa tribu. Elle observe celui qui se liera avec elle par la semence. Elle soupire, mais elle doit le faire. Elle s'allonge à ses côtés, nue comme lui, tête bêche. Tous deux observent le sexe de l'autre. Lui commence à la caresser maladroitement, elle fait de même. Elle a bien écouté les sages et s'applique à sucer ce sexe dur pour en extraire la semence. Quand elle est dans sa bouche, elle se lève et embrasse son nouveau partenaire pour sceller le pacte.",
     minPresentation: 1,
     minCaresses: 1,
     minExploration: 1,
@@ -575,7 +575,7 @@ const scenarios = [
   {
     nom: "La préparatrice de compétitions",
     id: 52,
-    pitch: "{prenom} est préparatrice sportive. Un des joueurs de l'équipe qu'elle suit a l'air d'accuser moralement le coup. Elle sait comment obtenir de lui ses meilleures performances : un bon massage et il va faire des miracles. Un massage génitale, bien sûr, avec ses mains, ses lèvres, sa bouche, jusqu'à ce qu'il se relâche sur sa langue. Meilleure méthode !",
+    pitch: "{prenom} est préparatrice sportive. Un des joueurs de l'équipe qu'elle suit a l'air d'accuser moralement le coup. Elle sait comment obtenir de lui ses meilleures performances : un bon massage et il va faire des miracles. Un massage génitale, bien sûr, avec ses mains, ses lèvres, sa bouche, jusqu'à ce qu'il se relâche sur sa langue. C'est de loin la meilleure méthode !",
     minPresentation: 1,
     minCaresses: 1,
     minExploration: 1,
@@ -933,6 +933,17 @@ const scenarios = [
     minExploration: 1,
     minOral: 1,
     minEjaculation: 1,
+    minSperme: 1
+  },
+  {
+    nom: "La journaliste infiltrée",
+    id: 85,
+    pitch: "Quand {prenom} s'est infitrée dans le camp de ce candidat à la présidentielle, elle ne s'imaginait pas finir sous son bureau. Mais pour faire un bon article, il faut y mettre du sien. Aussi, quand elle a vu l'occasion de s'immiscer davantage dans son intimité, elle a foncé. Au début, c'était juste des jeux de séduction. Elle écartait ses jambes par inadvertance, lui dévoilant ses dessous. Ensuite, il n'y avait plus de dessous. Et là, tout s'est emballée et c'est elle qui a fini dessous. C'est le meilleur spot pour obtenir des informations. Elle l'entend discuter avec ses collaborateurs tandis qu'elle le masturbe lentement. Elle espionne ses coups de fil avec sa queue entre les lèvres. Elle récupère des secrets de campagne le visage plein de sperme.",
+    minPresentation: 2,
+    minCaresses: 1,
+    minExploration: 2,
+    minOral: 1,
+    minEjaculation: 5,
     minSperme: 1
   },
   {
