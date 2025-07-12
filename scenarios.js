@@ -25,7 +25,7 @@ const scenarios = [
   {
     nom: "La femme de ménage consciencieuse",
     id: 3,
-    pitch: "Madame lui a demandé de bien s'occuper de la maison et de son mari pendant son absence. Aussi, {prenom} s'applique à bien faire son travail. Tous les matins, elle se rend dans la suite parentale et, sans un mot, branle consciencieusement monsieur qui la regarde à moitié endormi. Cela peut prendre du temps, aussi elle est patiente et par moment dépose légèrement ses lèvres sur le gland bombé pour le téter. Elle ne fait pas ça par plaisir, mais par professionnalisme. Pour faire venir la jouissance, elle lui explique qu'elle nettoiera la semence avec sa bouche (optionnel).",
+    pitch: "Madame lui a demandé de bien s'occuper de la maison et de son mari pendant son absence. Aussi, {prenom} s'applique à bien faire son travail. Tous les matins, elle se rend dans la suite parentale et, sans un mot, branle consciencieusement monsieur qui la regarde à moitié endormi. Cela peut prendre du temps, aussi elle est patiente et par moment dépose légèrement ses lèvres sur le gland bombé pour le téter. Elle ne fait pas ça par plaisir, mais par professionnalisme. Pour faire venir la jouissance, elle l'excite en lui disant qu'elle nettoiera la semence avec sa bouche.",
     minPresentation: 2,
     minCaresses: 1,
     minExploration: 2,
@@ -58,7 +58,7 @@ const scenarios = [
   {
     nom: "L'hôtesse de luxe",
     id: 5,
-    pitch: "{prenom} est hôtesse dans un établissement de luxe. Son rôle : obtenir la meilleure note de satisfaction client. Ça tombe bien, elle a très envie de satisfaire ce client-ci. Après lui avoir servi de guide et d'assistante toute la journée, elle se présente le soir à la porte de sa chambre en tenue beaucoup plus sexy. Il n'a pas besoin de lui demander ce qu'il veut, il a déjà rempli le formulaire requis et elle sait très bien ce qui le fera jouir. Elle à genoux, toujours habillée, lui debout, totalement nu. Elle le caresse et le suce doucement, lentement, jusqu'à ce qu'il soit bien tendu. Là, elle commencera à s'enfoncer la queue du client dans la gorge, de plus en plus profond, en respirant lentement et en le regardant dans les yeux. Puis elle lui dira \"c'est le moment, monsieur, de me baiser la bouche et de vous vider sur mon visage\" et elle n'aura plus qu'à le laisser s'en occuper.",
+    pitch: "{prenom} est hôtesse dans un établissement de luxe. Son rôle : obtenir la meilleure note de satisfaction client. Cela tombe bien, elle a très envie de satisfaire ce client-ci. Après lui avoir servi de guide et d'assistante toute la journée, elle se présente le soir à la porte de sa chambre en tenue beaucoup plus sexy. Il n'a pas besoin de lui demander ce qu'il veut, il a déjà rempli le formulaire requis et elle sait très bien ce qui le fera jouir. Elle à genoux, toujours habillée, lui debout, totalement nu. Elle le caresse et le suce doucement, lentement, jusqu'à ce qu'il soit bien tendu. Là, elle commencera à s'enfoncer la queue du client dans la gorge, de plus en plus profond, en respirant lentement et en le regardant dans les yeux. Puis elle lui dira \"c'est le moment, monsieur, de me baiser la bouche et de vous vider sur mon visage\" et elle n'aura plus qu'à le laisser s'en occuper.",
     minPresentation: 2,
     minCaresses: 2,
     minExploration: 1,
@@ -113,7 +113,7 @@ const scenarios = [
   {
     nom: "L'impératrice tyrannique",
     id: 10,
-    pitch: "{prenom} ne veut pas d'amants. Elle continuera à diriger cet empire seule. Elle a juste besoin d'assurer une descendance, une fille, pour qu'elle puisse reprendre sa suite. Elle ne veut donc pas d'amants, elle veut juste un esclave et sa semence. Elle en a sélectionné un nouveau, en espérant qu'il soit moins incapable que les autres. Il s'allonge et elle vient directement placer sa chatte sa bouche ouverte et se frotte contre lui. Elle lui attrape la queue et la fait durcir. Elle prend son temps, elle adore ça. Elle le branle, le suce, bave abondemment sur cette queue pathétique qui veut probablement la pénétrer mais qui ne le fera jamais. Il n'en est pas digne. Elle veut juste qu'il abandonne sa semence. Elle se frottera la chatte sur son sexe demandeur, mais sans jamais le faire entrer. Elle le fera jouir par tous les moyens s'il le faut.",
+    pitch: "{prenom} ne veut pas d'amants et encore moins d'époux. Elle continuera à diriger cet empire seule. Elle a juste besoin d'assurer une descendance, une fille, pour qu'elle puisse reprendre sa suite. Elle ne veut donc pas d'amants, elle veut juste un esclave et sa semence. Elle en a sélectionné un nouveau, en espérant qu'il soit moins incapable que les autres. Il s'allonge et elle vient directement placer sa chatte sur sa bouche et se frotte contre lui. Elle lui attrape la queue et la fait durcir. Elle prend son temps, elle adore ça. Elle le branle, le suce, bave abondemment sur cette queue pathétique qui veut probablement la pénétrer mais qui ne le fera jamais puisqu'il n'en est pas digne. Elle veut juste qu'il abandonne sa semence. Elle se frottera la chatte sur son sexe suppliant, mais sans jamais le faire entrer. Elle le fera jouir par tous les moyens s'il le faut.",
     minPresentation: 5,
     minCaresses: 1,
     minExploration: 1,
@@ -124,18 +124,18 @@ const scenarios = [
   {
     nom: "La directrice d'hôtel",
     id: 11,
-    pitch: "{prenom} ",
+    pitch: "{prenom} a un pépin ce soir, l'une de ses filles est absente et elle n'a personne pour la remplacer. Surtout qu'elle tient à ce client. Elle décide donc de prendre sa place au pied levé. Ça ne doit pas être bien compliqué, si ces idiotes peuvent le faire, elle aussi. Le client parait un peu surpris de la voir, mais se met à l'aise très rapidement en se déshabillant. {prenom} fait mine de rien, professionnelle, mais elle commence à regretter de s'être mis dans cet embarras quand le client lui explique qu'il a l'habitude de se branler entre les seins de son habituée jusqu'à les recouvrir de son sperme et de la regarder nettoyer avec la langue...",
     minPresentation: 2,
-    minCaresses: 2,
+    minCaresses: 1,
     minExploration: 1,
     minOral: 1,
-    minEjaculation: 1,
+    minEjaculation: 2,
     minSperme: 3
   },
   {
     nom: "La meilleure amie insistante",
     id: 12,
-    pitch: "{prenom} a besoin de son meilleur ami pour lui demander une faveur délicate. Elle a suffisamment insisté pour qu'il finisse par accepter. Non pas qu'il n'en ait pas envie, mais parce qu'il a peur que ça change leur relation. Mais il a fini par se laisser tenter. {prenom} voudrait faire plaisir à son mec en lui faisant une gorge profonde et elle lui a laissé entendre qu'elle était experte. Elle aimerait donc s'entrainer avant. Elle reste habillée, elle ne veut pas que son meilleur ami la voit nue. Voir sa bite et la mettre dans sa bouche est déjà beaucoup. Et surtout, qu'il ne lui touche rien, pas même les cheveux, elle a juste besoin de sa bite. S'il jouit, ce sera au fond de sa gorge. Peut-être qu'alors elle avalera, elle verra.",
+    pitch: "{prenom} a besoin de son meilleur ami pour lui demander une faveur délicate. Elle a suffisamment insisté pour qu'il finisse par accepter. Non pas qu'il n'en ait pas envie, mais parce qu'il a peur que ça change leur relation. Pourtant, il a fini par se laisser tenter. {prenom} voudrait faire plaisir à son mec en lui faisant une gorge profonde parce qu'elle s'est vanté être experte en la matière, ce qui est complètement faux. Elle aimerait donc s'entrainer. Ses règles : elle reste habillée et surtout il ne touche rien, elle a juste besoin de sa bite. S'il jouit, ce sera au fond de sa gorge. Peut-être qu'alors elle avalera, elle verra.",
     minPresentation: 1,
     minCaresses: 1,
     minExploration: 1,
@@ -168,7 +168,7 @@ const scenarios = [
   {
     nom: "La tenancière d'un salon de thé d'exception",
     id: 15,
-    pitch: "C'est l'heure de la récolte. Le salon de thé de {prenom} est connu dans tout le royaume pour la saveur délicate de ses thés et tisanes. Et tout ça grâce à un ingrédient dont elle a le secret de mère en fille. Elle paye un employé à plein temps uniquement pour qu'il s'entretienne, suive un régime précis et lui donne secrètement une dose quotidienne de sa semence. Pour l'extraire, une petite formule magique sur ses couilles, sans oublier de les masser, les huiler, les lécher et les sucer longuement. En pratiquant correctement, avec un bon coup de poignet sur le manche, on peut récupérer une crème idéale pour ses concoctions.",
+    pitch: "C'est l'heure de la récolte. Le salon de thé de {prenom} est connu dans tout le royaume pour la saveur délicate de ses thés et tisanes. Et tout ça, grâce à un ingrédient dont elle a le secret de mère en fille. Elle paye un employé à plein temps uniquement pour qu'il s'entretienne, suive un régime alimentaire strict et lui donne secrètement une dose quotidienne de sa semence. Pour l'extraire, une petite formule magique sur ses couilles, sans oublier de les masser, les huiler, les lécher et les sucer longuement. En pratiquant correctement, avec un bon coup de poignet sur le manche, on peut récupérer une crème idéale pour ses concoctions.",
     minPresentation: 1,
     minCaresses: 2,
     minExploration: 3,
@@ -890,6 +890,39 @@ const scenarios = [
     minOral: 1,
     minEjaculation: 1,
     minSperme: 2
+  },
+  {
+    nom: "La camgirl en détresse",
+    id: 81,
+    pitch: "{prenom} est en panique. Elle avait plannifié un show en direct devant ses abonnés ce soir, mais elle vient de larguer son mec. C'est un con. Elle se console auprès d'un couple de bons amis, et raconte qu'elle risque de perdre beaucoup d'argent. Sa meilleure amie lui propose alors de faire la scène avec son propre mec. Celui-ci, bizarrement, n'est pas opposé à l'idée. {prenom} râle un peu quand elle découvre sa queue tendue : elle est bien plus longue que celle de son ex et pour la scène prévue, il la faut au repos. Il va donc se soulager avant et revient, mou. Elle s'allonge sur le lit, la tête à moitié dans le vide, et il s'approche d'elle, queue centrée sur la caméra. Après une présentation de la camgirl, celle-ci commence à lécher doucement le gland, la hampe, les boules, tout en douceur et en lenteur, pendant de longues minutes. Elle ne le sucera pas, mais continuera à le lécher tout en le branlant, jusqu'à obtenir une belle éjaculation sur sa bouche et ses joues.",
+    minPresentation: 2,
+    minCaresses: 1,
+    minExploration: 3,
+    minOral: 1,
+    minEjaculation: 5,
+    minSperme: 1
+  },
+  {
+    nom: "La prof d'espagnol perfectionniste",
+    id: 82,
+    pitch: "{prenom} aime beaucoup son nouvel élève. Si bien que, sans qu'elle ne s'en rende vraiment compte, elle le drague et l'aguiche. Elle s'habille souvent très sexy, lui donne des mots de vocabulaire précis, comme \"décolleté\" ou \"langoureux\". Il ne dit rien et reste très concentré sur ses notes. Lorsqu'elle lui propose de lui décrire le vocabulaire du corps humain, il commence enfin à rougir. {prenom} fait semblant de rester très professionnelle quand elle retire ses sous-vêtements pour lui expliquer par l'exemple comment on dit \"téton\" en espagnol ou \"clitoris\". Lors de sa dernière leçon, elle ne veut pas le laisser partir sans une séance mémorable, aussi elle lui propose de passer à l'anatomie masculine. Une fois à poil, sa sublime prof entre ses jambes, il ne peut plus dissimuler son trouble et sa queue durcit rapidement sous les doigts faussement scolaires. Elle donne alors des explications précises sur le sexe masculin, puis sur les termes qui entourent la masturbation et la fellation...",
+    minPresentation: 2,
+    minCaresses: 2,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 1
+  },
+  {
+    nom: "L'étrange deal",
+    id: 83,
+    pitch: "{prenom} est un peu en manque de sexe. Mais elle en a marre de ne tomber que sur des tocards. Après avoir demandé conseil à sa meilleure amie, celle-ci lui propose une solution plutôt peu commune, avec l'accord de son mec. Celui-ci, ne voulant pas tromper sa copine, va prendre un cachet de somnifère et laisser son corps à la disposition de [prenom} qui pourra en faire ce qu'elle veut. C'est donc avec un peu d'appréhension, mais aussi beaucoup d'excitation, qu'elle commence à lui prendre la main pour la passer sur son corps nu, se caresser avec. Elle fait de même avec sa bouche endormie. Elle manque de jouir en se frottant sur ses lèvres de beau barbu, mais se retient pour s'occuper de la queue qu'elle devine grossir sous le drap. Elle a trop envie de tester ses fantasmes, dont celui de partager sa semence avec un homme...",
+    minPresentation: 5,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 5
   },
   {
     nom: "nom",
