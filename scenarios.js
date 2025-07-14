@@ -916,7 +916,7 @@ const scenarios = [
   {
     nom: "L'étrange deal",
     id: 83,
-    pitch: "{prenom} est un peu en manque de sexe. Mais elle en a marre de ne tomber que sur des tocards. Après avoir demandé conseil à sa meilleure amie, celle-ci lui propose une solution plutôt peu commune, avec l'accord de son mec. Celui-ci, ne voulant pas tromper sa copine, va prendre un cachet de somnifère et laisser son corps à la disposition de [prenom} qui pourra en faire ce qu'elle veut. C'est donc avec un peu d'appréhension, mais aussi beaucoup d'excitation, qu'elle commence à lui prendre la main pour la passer sur son corps nu, se caresser avec. Elle fait de même avec sa bouche endormie. Elle manque de jouir en se frottant sur ses lèvres de beau barbu, mais se retient pour s'occuper de la queue qu'elle devine grossir sous le drap. Elle a trop envie de tester ses fantasmes, dont celui de partager sa semence avec un homme...",
+    pitch: "{prenom} est un peu en manque de sexe. Mais elle en a marre de ne tomber que sur des tocards. Après avoir demandé conseil à sa meilleure amie, celle-ci lui propose une solution plutôt peu commune, avec l'accord de son mec. Ce dernier, ne voulant pas tromper sa copine, va prendre un cachet de somnifère et laisser son corps à la disposition de {prenom} qui pourra en faire ce qu'elle veut. C'est donc avec un peu d'appréhension, mais aussi beaucoup d'excitation, qu'elle commence à lui prendre la main pour la passer sur son corps nu, se caresser avec. Elle fait de même avec sa bouche endormie. Elle manque de jouir en se frottant sur ses lèvres de beau barbu, mais se retient pour s'occuper de la queue qu'elle devine grossir sous le drap. Elle a trop envie de tester ses fantasmes, dont celui de partager sa semence avec un homme...",
     minPresentation: 5,
     minCaresses: 1,
     minExploration: 1,
@@ -955,6 +955,39 @@ const scenarios = [
     minExploration: 1,
     minOral: 1,
     minEjaculation: 1,
+    minSperme: 5
+  },
+  {
+    nom: "Le gage revanchard",
+    id: 87,
+    pitch: "Elle est très contente de sa revanche. Déjà, il lui avait lancé le gage de montrer ses seins à tous les amis présents. Plus tard dans la soirée, {prenom} avait dû montrer son cul et sa chatte. Elle était trop gênée, mais aussi terriblement excitée. Il le savait, il en jouait. Mais elle devait se venger. Alors quand les esprits se sont échauffés, quand quelques bites ont été tirées, elle a exigé de l'une d'elle de la pénétrée et de jouir en elle (simulé par votre partenaire), pour ensuite demander à son mec de lui bouffer la chatte et lui donner un orgasme devant tous ses potes.",
+    minPresentation: 5,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 3,
+    minSperme: 5
+  },
+  {
+    nom: "La cheffe de projet motivante",
+    id: 88,
+    pitch: "{prenom} a promis à sa direction de terminer le projet ce soir. Aussi, quand tout les developpeurs sont partis, elle a commencé à paniquer. Tous ? Sauf un. Le meilleur. Elle le connait, il est capable d'en venir à bout dans la nuit. Elle se transforme donc en assistante particulière. Elle lui amène du café, à boire, lui commande à manger, et surtout l'aide à ne pas se distraire de son objectif. Quand elle remarque qu'il lance des coups d'oeil sur son décolleté, elle lui propose directement de se vider entre ses lèvres pour qu'il puisse revenir à sa tâche.",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 4,
+    minEjaculation: 4,
+    minSperme: 4
+  },
+  {
+    nom: "L'épouse dominatrice",
+    id: 89,
+    pitch: "Chaque soir, {prenom} rentre tard et attend de son mari qu'il se soit bien occupé de la maison. Elle dépose ses affaires dans ses bras qu'il s'empresse de ranger, puis lui sert son repas chaud, un bon verre de vin tandis qu'elle relate les affres de son travail fastidieux. Tout le long, il est à poil. Tout le long, il écoute et ne dit pas un mot. Quand elle a fini, elle désigne le sol. Il s'y allonge sur le dos, elle se lève, retire sa culotte, et s'accroupi au-dessus de sa bouche pour s'y frotter. Elle raconte alors à qui appartient la semence qu'il est en train de boire en même temps que de la faire jouir.",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 3,
     minSperme: 5
   },
   {
