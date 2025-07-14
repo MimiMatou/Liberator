@@ -861,7 +861,7 @@ const scenarios = [
   {
     nom: "La passagère clandestine",
     id: 78,
-    pitch: "{prenom}} s’est introduite à bord clandestinement. Mais le capitaine la découvert. Il compte la laisser au prochain port, à moins qu'elle veuille bien agrémenter son voyage en restant avec lui le soir dans sa cabine. Au début, il lui a demandé de lui montrer ses seins, ce qui l'amusait. Elle jouait de ses attraits avec humour. Les jours passant, il augmentait ses demandes à chaque port. Désormais, le rituel était bien huilé, comme la queue qu'elle suçait en l'enfonçant profondément tandis qu'il se tenait assis sur sa couchette, un verre à la main. Il la regardait s'acharner à le faire jouir avec un petit sourire satisfait. Son plaisir était comblé lorsqu'elle léchait d'une langue taquine le sperme qui coulait sur ses seins.",
+    pitch: "{prenom} s’est introduite à bord clandestinement. Mais le capitaine la découverte. Il compte la laisser au prochain port, à moins qu'elle veuille bien agrémenter son voyage en restant avec lui le soir dans sa cabine. Au début, il lui a demandé de lui montrer ses seins, ce qui l'amusait. Elle jouait de ses attraits avec humour. Les jours passant, il augmentait ses demandes à chaque port. Désormais, le rituel était bien huilé, comme la queue qu'elle suçait en l'enfonçant profondément tandis qu'il se tenait assis sur sa couchette, un verre à la main. Il la regardait s'acharner à le faire jouir avec un petit sourire satisfait. Son plaisir était comblé lorsqu'elle léchait d'une langue taquine le sperme qui coulait sur ses seins.",
     minPresentation: 3,
     minCaresses: 1,
     minExploration: 1,
@@ -872,7 +872,7 @@ const scenarios = [
   {
     nom: "La soirée arrosée entre collègues",
     id: 79,
-    pitch: "La soirée est bien avancée et un jeu a été proposé. Il s'agit pour {prenom} de deviner qui est le collègue sous le drap dont seule la queue dépasse. Elle doit deviner parmi la vingtaine présente qui est dissimulée. Elle n'a pas le droit de soulever les linges, uniquement de toucher le sexe qui se présente à elle. Au mieux, elle peut espérer faire gémir le partenaire inconnu pour obtenir des indices sonores. Chaque fois qu'elle pense avoir une idée, elle propose un nom et s'il n'y a pas de réponse, c'est que c'est un echec, et {prenom} se remet au turbin, essayant de la bouche et des mains d'obtenir des réponses.",
+    pitch: "La soirée est bien avancée et un jeu a été proposé. Il s'agit pour {prenom} de deviner qui est le collègue sous le drap dont seule la queue dépasse. Elle doit deviner parmi la vingtaine présente qui est dissimulé. Elle n'a pas le droit de soulever les linges, uniquement de toucher le sexe qui se présente à elle. Au mieux, elle peut espérer faire gémir le partenaire inconnu pour obtenir des indices sonores. Chaque fois qu'elle pense avoir une idée, elle propose un nom et s'il n'y a pas de réponse, c'est que c'est un echec, et {prenom} se remet au turbin, essayant de la bouche et des mains d'obtenir des indices.",
     minPresentation: 2,
     minCaresses: 1,
     minExploration: 1,
