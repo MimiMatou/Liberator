@@ -991,8 +991,30 @@ const scenarios = [
     minSperme: 5
   },
   {
+    nom: "La coursière spéciale",
+    id: 90,
+    pitch: "{prenom} est coursière. Elle parcourt de longues distances pour passer un message envoyé par ses clients. Sauf que les messages qu'elle transmet sont agrémentés d'activités supplémentaires. Ce peut être un effeuillage, requis comme remerciement envers un artiste qui a pleinement tenu ses engagements. Ce peut être un tendre baiser pour une discussion romantique. Ce peut être une torride chevauchée pour un noble espiègle. Et ce peut être, comme aujourd'hui, la rondeur de ses seins et de ses lèvres sur la queue d'un acheteur hésitant.",
+    minPresentation: 3,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 3,
+    minEjaculation: 2,
+    minSperme: 1
+  },
+  {
+    nom: "Le couronnement de la princesse elfe",
+    id: 91,
+    pitch: "Aujourd'hui est un grand jour pour {prenom}, princesse elfe. Son couronnement est le début d'une grande ère de paix. Elle va enfin sceller cette alliance tant attendue entre son peuple et le royaume des humains, après des décennies de guerre et d'assassinats. Il ne s'agit pas d'un mariage d'amour, mais peut-être que cela pourrait finir par arriver... L'union doit se concrétiser dans la salle du trône, sur un lit transporté au centre de la pièce pour l'occasion. Douze témoins sont installés autour de la couche sacrée. {prenom} est nue, magnifique, d'une beauté féérique. Son futur époux n'est pas trop mal non plus, plutôt bien charpenté, des bras et de la queue. C'est elle qui sera dessus, comme pour le reste de son règne. Elle se glisse tête bêche et écrase sa chatte délicate sur la bouche de son allié, tandis que ses lèvres viennent gober le sexe tendu. L'alliance ne sera validé que lorsque les témoins pourront assurer que les deux ont joui. Il n'y a plus qu'à se mettre à l'ouvrage pour obtenir des cris et du sperme.",
+    minPresentation: 5,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 5,
+    minEjaculation: 4,
+    minSperme: 1
+  },
+  {
     nom: "nom",
-    id: 8,
+    id: 9,
     pitch: "",
     minPresentation: 1,
     minCaresses: 1,
