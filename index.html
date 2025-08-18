@@ -24,10 +24,12 @@
     <button id="continuer">Continuer</button>
     </div>
   </div>
-  <div id="result-modal" class="overlay" style="display: none;">
+  <div id="scenarioModal" class="overlay" style="display: none;">
     <div class="disclaimer-box">
-      <div id="resultat-content"></div>
-      <button id="fermer-resultat">Fermer</button>
+      <h2 id="scenarioTitre"></h2>
+      <p id="scenarioTexte"></p>
+      <button id="nouveauScenario">Autre scénario</button>
+      <button id="fermerScenario">Fermer</button>
     </div>
   </div>
   <h1>Génère ton scénario</h1>
@@ -39,7 +41,7 @@
     <div id="jauges"></div>
     <button type="submit">Valider</button>
   </form>
-  <div id="resultat"></div>
+  <div id="resultat"></div>  
 
   <script src="scenarios.js"></script>
   <script src="jauges.js"></script>

@@ -1012,15 +1012,4 @@ const scenarios = [
     minEjaculation: 4,
     minSperme: 1
   },
-  {
-    nom: "nom",
-    id: 9,
-    pitch: "",
-    minPresentation: 1,
-    minCaresses: 1,
-    minExploration: 1,
-    minOral: 1,
-    minEjaculation: 1,
-    minSperme: 1
-  },
 ];

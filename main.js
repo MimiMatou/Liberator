@@ -7,19 +7,22 @@ window.addEventListener("DOMContentLoaded", () => {
   const jaugesContainer = document.getElementById("jauges");
   const resultat = document.getElementById("resultat");
 
-    // Liste de prénoms sexy/glamour
+  const disclaimer = document.getElementById("disclaimer");
+  const continuerBtn = document.getElementById("continuer");
+
+  // Liste de prénoms sexy/glamour
   const prenomsSexy = [
-  "Adriana", "Alba", "Alyssa", "Ambre", "Anya", "Bella", "Bianca", "Brenda", "Bettina",
-  "Calypso", "Carmen", "Cassie", "Chloé", "Cleo", "Dahlia", "Dakota", "Daisy", "Delilah", "Dita",
-  "Electra", "Elsa", "Emilia", "Esmée", "Eva", "Fatima", "Fanny", "Freya", "Gaïa",
-  "Giulia", "Gloria", "Hailey", "Hanaé", "Hazel", "Heidi", "Indira", "Inès", "Isis",
-  "Ivana", "Jade", "Jasmine", "Jenna", "Juliet", "Katia", "Kenza", "Kim", "Kira", "Lana",
-  "Lilou", "Lior", "Lola", "Lucia", "Malika", "Maya", "Megan", "Nahia",
-  "Naomi", "Naya", "Nina", "Noa", "Océane", "Ophélie", "Oriana", "Orlane", "Paloma", "Pénélope",
-  "Perla", "Quinn", "Raïssa", "Rita", "Ruby", "Roxane", "Salma", "Sasha", "Savana",
-  "Soraya", "Talia", "Talya", "Tess", "Tina", "Uma", "Ursula", "Valentina", "Vanessa", "Vera",
-  "Violette", "Wanda", "Wendy", "Xéna", "Yara", "Yasmin", "Zara", "Zelda", "Zoé"
-];
+    "Adriana","Alba","Alyssa","Ambre","Anya","Bella","Bianca","Brenda","Bettina",
+    "Calypso","Carmen","Cassie","Chloé","Cleo","Dahlia","Dakota","Daisy","Delilah","Dita",
+    "Electra","Elsa","Emilia","Esmée","Eva","Fatima","Fanny","Freya","Gaïa",
+    "Giulia","Gloria","Hailey","Hanaé","Hazel","Heidi","Indira","Inès","Isis",
+    "Ivana","Jade","Jasmine","Jenna","Juliet","Katia","Kenza","Kim","Kira","Lana",
+    "Lilou","Lior","Lola","Lucia","Malika","Maya","Megan","Nahia",
+    "Naomi","Naya","Nina","Noa","Océane","Ophélie","Oriana","Orlane","Paloma","Pénélope",
+    "Perla","Quinn","Raïssa","Rita","Ruby","Roxane","Salma","Sasha","Savana",
+    "Soraya","Talia","Talya","Tess","Tina","Uma","Ursula","Valentina","Vanessa","Vera",
+    "Violette","Wanda","Wendy","Xéna","Yara","Yasmin","Zara","Zelda","Zoé"
+  ];
 
   // Remplir dynamiquement la liste des prénoms
   const selectPrenom = document.getElementById("prenom");
@@ -30,6 +33,7 @@ window.addEventListener("DOMContentLoaded", () => {
     selectPrenom.appendChild(option);
   });
 
+  // Génération des jauges
   jauges.forEach(jauge => {
     const container = document.createElement("div");
     container.classList.add("jauge");
@@ -43,7 +47,7 @@ window.addEventListener("DOMContentLoaded", () => {
     input.type = "range";
     input.min = 0;
     input.max = jauge.niveaux.length - 1;
-    input.value = 0; // valeur par défaut au centre
+    input.value = 0; 
     input.name = jauge.nom;
     input.id = jauge.nom;
 
@@ -60,6 +64,7 @@ window.addEventListener("DOMContentLoaded", () => {
     jaugesContainer.appendChild(container);
   });
 
+  // --- Gestion du formulaire ---
   form.addEventListener("submit", e => {
     e.preventDefault();
     const prenom = document.getElementById("prenom").value.trim();
@@ -70,26 +75,24 @@ window.addEventListener("DOMContentLoaded", () => {
       values[j.nom] = parseInt(input.value, 10);
     });
 
-    // 1. On filtre les scénarios respectant toutes les contraintes (min <= valeur joueur + 1)
+    // 1. Filtrage des scénarios compatibles
     const compatibles = scenarios.filter(sc =>
       jauges.every(j => {
-        const joueurValue = values[j.nom] + 1; // +1 car les jauges commencent à 0
+        const joueurValue = values[j.nom] + 1;
         const critere = sc[`min${capitalize(j.nom)}`] || 0;
         return joueurValue >= critere;
       })
     );
 
-    // 2. On calcule un score de "proximité" pour chaque scénario compatible
+    // 2. Score de proximité
     const scored = compatibles.map(sc => {
       let distance = 0;
-
       jauges.forEach(j => {
         const joueurValue = values[j.nom] + 1;
         const scenarioValue = sc[`min${capitalize(j.nom)}`] || 0;
         distance += Math.abs(joueurValue - scenarioValue);
       });
-
-      const weight = 1 / (1 + distance); // moins la distance est grande, plus le poids est fort
+      const weight = 1 / (1 + distance);
       return { ...sc, weight };
     });
 
@@ -97,24 +100,15 @@ window.addEventListener("DOMContentLoaded", () => {
     function weightedRandomChoice(items) {
       const totalWeight = items.reduce((sum, item) => sum + item.weight, 0);
       let random = Math.random() * totalWeight;
-
       for (const item of items) {
         if (random < item.weight) return item;
         random -= item.weight;
       }
-      return items[items.length - 1]; // fallback
+      return items[items.length - 1];
     }
 
-    // 4. Affichage
-    // if (scored.length === 0) {
-    //   resultat.textContent = "Aucun scénario ne correspond à ce profil.";
-    // } else {
-    //   const choix = weightedRandomChoice(scored);
-    //   const pitchFinal = choix.pitch.replace(/{prenom}/gi, prenom);
-    //   resultat.innerHTML = `<strong>[${choix.id}] ${choix.nom}</strong> (parmi ${scored.length} scénarios compatibles)<br><br>${pitchFinal}`;
-    // }
+    // 4. Affichage dans la modale
     const resultModal = document.getElementById("result-modal");
-    const resultatContent = document.getElementById("resultat-content");
     const fermerResultatBtn = document.getElementById("fermer-resultat");
 
     fermerResultatBtn.addEventListener("click", () => {
@@ -122,29 +116,17 @@ window.addEventListener("DOMContentLoaded", () => {
     });
 
     if (scored.length === 0) {
-      resultatContent.innerHTML = "<p>Aucun scénario ne correspond à ce profil.</p>";
+      resultat.textContent = "Aucun scénario ne correspond à ce profil.";
     } else {
-      const choix = weightedRandomChoice(scored);
-      const pitchFinal = choix.pitch.replace(/{prenom}/gi, prenom);
-      resultatContent.innerHTML = `<strong>[${choix.id}] ${choix.nom}</strong> (parmi ${scored.length} scénarios compatibles)<br><br>${pitchFinal}`;
+      afficherScenario(scored, prenom);
     }
 
-    // Affiche la modale
     resultModal.style.display = "flex";
-
   });
-});
 
-window.addEventListener("DOMContentLoaded", () => {
-  const disclaimer = document.getElementById("disclaimer");
-  const continuerBtn = document.getElementById("continuer");
-  const formulaire = document.getElementById("formulaire");
-
+  // --- Gestion disclaimer ---
   continuerBtn.addEventListener("click", () => {
     disclaimer.style.display = "none";
-    formulaire.style.display = "block";
+    form.style.display = "block";
   });
-
-  // Le reste de ton code ici ↓
 });
-
