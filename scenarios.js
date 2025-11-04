@@ -69,7 +69,7 @@ const scenarios = [
   {
     nom: "La fan d'un auteur érotique",
     id: 6,
-    pitch: "{prenom} n'en croit pas ses yeux. Elle a devant elle la queue dure de son auteur fétiche. Lui, l'auteur érotique à succès. Elle a tout lu de lui, elle sait tout de sa vie, elle sait exactement ce qu'il faut qu'elle fasse pour le faire jouir. Et elle a bien l'intention de sentir couler son sperme sur sa peau ou dans sa bouche. Elle sait par exemple qu'il adore les gros seins comme les siens. Elle sait aussi qu'il aime qu'on lui caresse les couilles et l'entrée de l'anus. Comme elle adore ça, elle va bien lui sucer les couilles tout en le branlant. Il va pouvoir jouir sur ses gros seins et peut-être qu'elle récupérera un peu du sperme sacré pour le gouter d'un doigt gourmand.",
+    pitch: "{prenom} n'en croit pas ses yeux. Elle a devant elle la queue dure de son auteur fétiche. Lui, l'auteur érotique à succès. Elle a tout lu de lui, elle sait tout de sa vie, elle sait exactement ce qu'il faut qu'elle fasse pour le faire jouir. Et elle a bien l'intention de sentir couler son sperme sur sa peau ou dans sa bouche. Elle sait par exemple qu'il adore les gros seins comme les siens. Elle sait aussi qu'il aime qu'on lui caresse les couilles et l'entrée de l'anus. Comme elle adore ça, elle va bien lui sucer les couilles tout en le branlant. Il va pouvoir jouir sur ses seins et peut-être qu'elle récupérera un peu du sperme sacré pour le gouter d'un doigt gourmand.",
     minPresentation: 3,
     minCaresses: 4,
     minExploration: 3,
@@ -228,13 +228,13 @@ const scenarios = [
     minCaresses: 1,
     minExploration: 1,
     minOral: 5,
-    minEjaculation: 5,
+    minEjaculation: 4,
     minSperme: 1
   },
   {
     nom: "La cocue vengeresse",
     id: 21,
-    pitch: "{prenom} a découverte que son mec le trompait et elle veut se venger. Elle a rencontré ce type dont elle n'a même pas retenu le prénom mais qui fera parfaitement l'affaire, tant qu'il a une bite opérationnelle. Elle n'a jamais voulu faire une éjaculation faciale avec son ex et il lui a souvent reproché. Alors même si ça la dégoute un peu, elle va laisser cet inconnu lui jouir sur son beau visage et ses gros seins pour lui envoyer une photo qu'il n'est pas prêt d'oublier : elle, couverte de sperme d'un autre homme, un doigt sur ses lèvres comme pour en avaler un peu.",
+    pitch: "{prenom} a découverte que son mec le trompait et elle veut se venger. Elle a rencontré ce type dont elle n'a même pas retenu le prénom mais qui fera parfaitement l'affaire, tant qu'il a une bite opérationnelle. Elle n'a jamais voulu faire une éjaculation faciale avec son ex et il lui a souvent reproché. Alors même si ça la dégoute un peu, elle va laisser cet inconnu lui jouir sur son beau visage et ses seins pour lui envoyer une photo qu'il n'est pas prêt d'oublier : elle, couverte de sperme d'un autre homme, un doigt sur ses lèvres comme pour en avaler un peu.",
     minPresentation: 3,
     minCaresses: 1,
     minExploration: 1,
@@ -322,7 +322,7 @@ const scenarios = [
   {
     nom: "The good cop",
     id: 29,
-    pitch: "{prenom} a carte blanche pour faire avouer le suspect. Après la brutalité de son partenaire, elle tente une approche plus douce, plus persuasive pour lui faire cracher le morceau. Il est assis à une chaise, les mains attachées dans le dos. Elle lui promet ses seins s'il coopère. Elle lui promet ses mains sur sa queue. Peut-être sa bouche. Peut-être même qu'il pourrait se finir sur ses gros seins. Peut-être...",
+    pitch: "{prenom} a carte blanche pour faire avouer le suspect. Après la brutalité de son partenaire, elle tente une approche plus douce, plus persuasive pour lui faire cracher le morceau. Il est assis à une chaise, les mains attachées dans le dos. Elle lui promet ses seins s'il coopère. Elle lui promet ses mains sur sa queue. Peut-être sa bouche. Peut-être même qu'il pourrait se finir sur sa poitrine. Peut-être...",
     minPresentation: 3,
     minCaresses: 1,
     minExploration: 1,
@@ -333,7 +333,7 @@ const scenarios = [
   {
     nom: "Le Bat-Signal",
     id: 30,
-    pitch: "{prenom} est Batwoman. Elle a trouvé un Batman dans cette soirée déguisée. Il a l'air pas mal du tout, même si elle ne le voit pas derrière ce masque ridicule. C'était le signe qu'elle attendait. Elle l'a trainé sur le balcon pour boire et discuter de tout et de rien, jusqu'à ce qu'elle sorte sa question préférée \"Tu veux que je te suce ?\". Il n'a pas refusé. Et c'est ainsi qu'ils se sont retrouvés dans ce cagibi, serrés, lui debout, elle accroupie à lui pomper la queue.",
+    pitch: "{prenom} est Batwoman. Elle a trouvé un Batman dans cette soirée déguisée. Il a l'air pas mal du tout, même si elle ne le voit pas derrière ce masque ridicule. C'est le signe qu'elle attendait. Elle le traine sur le balcon pour boire et discuter de tout et de rien, jusqu'à ce qu'elle sort sa question préférée \"Tu veux que je te suce ?\". Il ne refuse pas. Et c'est ainsi qu'ils se retrouvent dans ce cagibi, serrés, lui debout, elle accroupie. Elle pompe la bite et veut sentir son sperme sur son décolleté.",
     minPresentation: 2,
     minCaresses: 1,
     minExploration: 1,
@@ -388,7 +388,7 @@ const scenarios = [
   {
     nom: "La terrible vision",
     id: 35,
-    pitch: "Ce n'est pas la première vision de {prenom}, mais c'est la plus terrifiante. Elle sait que si ce type qu'elle n'a jamais vu sort de cette pièce, l'enchainement des circonstances entrainera le monde à sa perte. Elle doit absolument le retenir un peu. Suffisamment longtemps pour que cette vision cesse de la hanter. Elle fera tout pour l'empêcher de partir. Quitte à donner d'elle-même. Il ne devrait pas resister à la vue de ses seins, même s'il ne la connait pas. Et si ça ne marche pas, quel homme refuse de se faire tailler une pipe ? Et de jouir sur ses gros seins ?",
+    pitch: "Ce n'est pas la première vision de {prenom}, mais c'est la plus terrifiante. Elle sait que si ce type qu'elle n'a jamais vu sort de cette pièce, l'enchainement des circonstances entrainera le monde à sa perte. Elle doit absolument le retenir un peu. Suffisamment longtemps pour que cette vision cesse de la hanter. Elle fera tout pour l'empêcher de partir. Quitte à donner d'elle-même. Il ne devrait pas resister à la vue de ses seins, même s'il ne la connait pas. Et si ça ne marche pas, quel homme refuse de se faire tailler une pipe ? Et de jouir sur ses seins ?",
     minPresentation: 3,
     minCaresses: 1,
     minExploration: 1,
@@ -674,7 +674,7 @@ const scenarios = [
   {
     nom: "La stagiaire ingénue",
     id: 61,
-    pitch: "Quand son maître de stage lui a proposé d'expérimenter sur leur propre corps, {prenom} n'a pas bronché, persuadée que c'était une étape importante de son apprentissage. C'est ainsi qu'elle a appris à le masturber et découvert l'intensité d'un cunnilingus. Cette fois, la leçon portait sur \"faire l'amour à sa bouche\". Elle était curieuse, il était ravi. Elle fut donc installée nue, allongée, et vit arriver le pénis de son tuteur droit sur sa bouche qu'elle ouvrit consciencieusement.",
+    pitch: "Quand son maître de stage lui a proposé d'expérimenter sur leur propre corps, {prenom} n'a pas bronché, persuadée que c'était une étape importante de son apprentissage. C'est ainsi qu'elle a appris à le masturber et découvert l'intensité d'un cunnilingus. Cette fois, la leçon porte sur \"faire l'amour à sa bouche\". Elle est curieuse, il est ravi. Elle est donc installée nue, allongée, et voit arriver le pénis de son tuteur droit sur sa bouche qu'elle ouvre consciencieusement.",
     minPresentation: 4,
     minCaresses: 1,
     minExploration: 1,
@@ -718,7 +718,7 @@ const scenarios = [
   {
     nom: "La prêtresse novice",
     id: 65,
-    pitch: "{prenom} galère à réaliser le rituel sacré des Déesses du Plaisir qui lui permettrait d'obtenir le grade de Grande Prêtresse. Mais aujourd'hui est le bon jour et son cobaye le donneur parfait. Ce qu'il faut pour réussir, c'est prendre son temps, être patiente, faire monter la sauce au fond de ses bourses, l'exciter avec son corps et ses seins, le sucer avec délectation et en bavant abondemment, jusqu'à obtenir sa semence et se recouvrir le corps et le sexe avec.",
+    pitch: "{prenom} a du mal à réaliser le rituel sacré des Déesses du Plaisir qui lui permettrait d'obtenir le grade de Grande Prêtresse. Mais aujourd'hui est le bon jour et son cobaye le donneur parfait. Ce qu'il faut pour réussir, c'est prendre son temps, être patiente, faire monter la sauce au fond de ses bourses, l'exciter avec son corps et ses seins, le sucer avec délectation et en bavant abondemment, jusqu'à obtenir sa semence et se recouvrir le corps et le sexe avec.",
     minPresentation: 4,
     minCaresses: 1,
     minExploration: 1,
@@ -773,7 +773,7 @@ const scenarios = [
   {
     nom: "Le dilemme de la directrice",
     id: 70,
-    pitch: "{prenom} a trouvé une technique très efficace pour faire gagner de l'argent à son patron. En temps que directrice des ressources humaines, elle propose aux employés mâles qui ne lui déplaisent pas trop, de troquer leur augmentation annuelle contre une demi-heure de sa propre soumission. Elle est plutôt canon, dans son petit tailleur, derrière ses lunettes de cochonne, aussi beaucoup acceptent et elle se soumet à leur désir. Celui du jour s'est approché d'elle, lui a demandé de se mettre à genoux, d'ouvrir la bouche et il lui baise en l'agrippant par les cheveux. Il répète sans cesse qu'il va finir sur son visage de bourgeoise et qu'il en aura pour son argent...",
+    pitch: "{prenom} a trouvé une technique très efficace pour faire gagner de l'argent à son patron. En temps que directrice des ressources humaines, elle propose aux employés mâles qui ne lui déplaisent pas trop, de troquer leur augmentation annuelle contre une demi-heure de sa propre soumission. Elle est plutôt canon, dans son petit tailleur, derrière ses lunettes de cochonne, aussi beaucoup acceptent et elle se soumet à leur désir. Le chanceux du jour s'approche d'elle. Il lui demande de se mettre à genoux, d'ouvrir la bouche et il lui baise en l'agrippant par les cheveux. Il répète sans cesse qu'il va finir sur son visage de bourgeoise et qu'il en aura pour son argent...",
     minPresentation: 1,
     minCaresses: 1,
     minExploration: 1,
@@ -916,7 +916,7 @@ const scenarios = [
   {
     nom: "L'étrange deal",
     id: 83,
-    pitch: "{prenom} est un peu en manque de sexe. Mais elle en a marre de ne tomber que sur des tocards. Après avoir demandé conseil à sa meilleure amie, celle-ci lui propose une solution plutôt peu commune, avec l'accord de son mec. Ce dernier, ne voulant pas tromper sa copine, va prendre un cachet de somnifère et laisser son corps à la disposition de {prenom} qui pourra en faire ce qu'elle veut. C'est donc avec un peu d'appréhension, mais aussi beaucoup d'excitation, qu'elle commence à lui prendre la main pour la passer sur son corps nu, se caresser avec. Elle fait de même avec sa bouche endormie. Elle manque de jouir en se frottant sur ses lèvres de beau barbu, mais se retient pour s'occuper de la queue qu'elle devine grossir sous le drap. Elle a trop envie de tester ses fantasmes, dont celui de partager sa semence avec un homme...",
+    pitch: "{prenom} est un peu en manque de sexe. Mais elle en a marre de ne tomber que sur des tocards. Après avoir demandé conseil à sa meilleure amie, celle-ci lui propose une solution plutôt peu commune, avec l'accord de son mec. Ce dernier, ne voulant pas tromper sa copine, va prendre un cachet de somnifère et laisser son corps à la disposition de {prenom} qui pourra en faire ce qu'elle veut. C'est donc avec un peu d'appréhension, mais aussi beaucoup d'excitation, qu'elle commence à lui prendre la main pour la passer sur son corps nu, se caresser avec. Elle fait de même avec sa bouche endormie. Elle manque de jouir en se frottant sur ses lèvres de bel homme, mais se retient pour s'occuper de la queue qu'elle devine grossir sous le drap. Elle a trop envie de tester ses fantasmes, dont celui de partager sa semence avec un homme...",
     minPresentation: 5,
     minCaresses: 1,
     minExploration: 1,
@@ -960,7 +960,7 @@ const scenarios = [
   {
     nom: "Le gage revanchard",
     id: 87,
-    pitch: "Elle est très contente de sa revanche. Déjà, il lui avait lancé le gage de montrer ses seins à tous les amis présents. Plus tard dans la soirée, {prenom} avait dû montrer son cul et sa chatte. Elle était trop gênée, mais aussi terriblement excitée. Il le savait, il en jouait. Mais elle devait se venger. Alors quand les esprits se sont échauffés, quand quelques bites ont été tirées, elle a exigé de l'une d'elle de la pénétrée et de jouir en elle (simulé par votre partenaire), pour ensuite demander à son mec de lui bouffer la chatte et lui donner un orgasme devant tous ses potes.",
+    pitch: "Elle est très contente de sa revanche. D'abord, il lui avait lancé le gage de montrer ses seins à tous les amis présents. Plus tard dans la soirée, {prenom} avait dû montrer son cul et sa chatte. Elle était trop gênée, mais aussi terriblement excitée. Il le savait, il en jouait. Mais elle devait se venger. Alors quand les esprits se sont échauffés, quand quelques bites ont été tirées, elle a exigé de l'une d'elle de la pénétrer et de jouir en elle (simulé par votre partenaire), pour ensuite demander à son mec de lui bouffer la chatte et lui donner un orgasme devant tous ses potes.",
     minPresentation: 5,
     minCaresses: 1,
     minExploration: 1,
@@ -1008,7 +1008,7 @@ const scenarios = [
     minPresentation: 5,
     minCaresses: 1,
     minExploration: 1,
-    minOral: 5,
+    minOral: 3,
     minEjaculation: 4,
     minSperme: 1
   },
@@ -1210,13 +1210,68 @@ const scenarios = [
     minEjaculation: 1,
     minSperme: 1
   },
+  {
+    nom: "Le voleur de la princesse",
+    id: 110,
+    pitch: "{prenom}, fille du roi du plus puissant royaume des mondes connus, a droit de vie ou de mort sur celui qui a tenté de lui dérober ses bijoux. Son père lui a donné carte blanche. Il est nu et a les mains attachées dans le dos. Elle est avec ses amies dans ses appartements, se demandant ce qu'elle va lui faire subir. Elles l'observent toutes en riant. Il a honte. Il ne peut pas s'enfuir, la pièce est cernée de gardes royaux. L'une des courtisanes proposent alors d'en profiter pour voir un peu à quoi ressemble un homme excité. C'est une bonne idée. {prenom} s'évertue alors à le caresser, pas toujours adroitement, devant les autres dames hilares et curieuses. Voyant qu'elle n'y arrive pas, elle demande au brigand des conseils. Celui-ci, embarassé mais excité, lui parle d'utiliser sa bouche et ses seins, sur lesquels il finira par exploser.",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 2,
+    minSperme: 1
+  },
+  {
+    nom: "L'espionne minutieuse",
+    id: 111,
+    pitch: "{prenom} veut que sa couverture soit la plus crédible possible. Elle veut se faire passer pour une prostituée crasseuse des bas-fonds de Génésis, la capitale de l'empire ennemi. Sa cible passera dans le bordel dans la soirée et il doit absolument jeter son dévolu sur elle. Elle y veillera. Mais pour cela, elle doit se préparer. Elle exige donc de son apprenti espion qu'il se vide les couilles sur sa chatte. Elle doit avoir du sperme dans les poils et les plis de son sexe. Elle le regarde se masturber en silence. Pour l'aider, elle écarte de deux doigts ses lèvres excitées. Elle lui dit des saletés, préparant par la même son rôle à venir. Elle l'autorise même à branler son gland contre son propre clitoris. Pourquoi ne pas prendre un peu de plaisir en même temps...",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 3,
+    minSperme: 1
+  },
+  {
+    nom: "La critique gastronomique",
+    id: 112,
+    pitch: "'C'est du sperme ?' s'exclame {prenom} après avoir gouté le plat spécial du grand chef parisien qu'elle est venue découvrir en personne. Heureusement, pour le cuisinier gêné, il n'y a qu'elle à cette séance de dégustation particulière. Il commence par nier, mais elle l'accuse d'avoir mis du sperme dans son plat. Aussi, il lui propose de vérifier elle-même, si elle tient tant à l'humilier. {prenom} est bien déterminée à le prouver, aussi elle s'accroupit devant le chef et se met à le sucer sans ménagement, dans le but d'obtenir et de goûter le fameux ingrédient secret et de pouvoir le démasquer.",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 4,
+    minSperme: 4
+  },
+  {
+    nom: "Le jeu qui dérape",
+    id: 113,
+    pitch: "Ce devait être un jeu d'alcool innocent entre amis. C'est devenu un jeu pervers avec son colloc. {prenom} a promis de lécher n'importe quel liquide qu'il lui versera dans les mains. Ça a commencé par du lait, du rhum, du pinard. C'est à la fois sale et amusant. Mais quand il se met à retirer son pantalon, elle rigole à s'en rouler au sol. Mais elle ne veut pas se débiner. Aussi, quand il débute sa branlette, elle sourit en voyant qu'il est davantage gêné qu'elle et ne la regarde pas dans les yeux. Elle le taquine, les mains tendues en réceptacles, avec des mots crus pour l'exciter. Elle lui dit même que si son sperme a bon goût, elle en redemandera...",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 3
+  },
+  {
+    nom: "La démone du goût",
+    id: 114,
+    pitch: "{prenom} tire sa puissance de la semence humaine. Chaque nouvelle lune, elle se rend sur terre et choisit sa proie. La plupart du temps, il lui suffit de prendre les formes d'une belle femme aguicheuse pour que le mâle choisi ne se doute de rien. Elle le suce avidemment jusqu'à obtenir le précieux nectar. Il lui donnera des semaines d'une puissance inimaginable, mais videra l'homme de toute énergie vitale. C'est son dernier orgasme et elle s'en délecte avec plaisir.",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 4
+  },
 ];
 
 
 /* 
   {
     nom: "nom",
-    id: 10,
+    id: 110,
     pitch: "",
     minPresentation: 1,
     minCaresses: 1,
