@@ -1298,6 +1298,17 @@ const scenarios = [
     minEjaculation: 1,
     minSperme: 3
   },
+  {
+    nom: "Devoir conjugual",
+    id: 118,
+    pitch: "{prenom} est la meilleure épouse possible. Et pour obtenir ce prix et garder son homme fidèle, elle n'a qu'une chose à faire. Le ménage ? La femme de ménage s'en charge. La cuisine ? Pareil, ils ont un chef personnel. L'éducation des enfants ? Que nenni, nounou ! Rien de tout cela. Elle se contente de se lever lorsqu'il est prêt à partir au boulot, l'embrasse tendrement, se glisse à genoux à ses pieds, libère sa bite et ses boules, et les lèches ou les suces tandis qu'il se masturbe mécaniquement, jusqu'à ce qu'il s'éparpille sur son visage. Ainsi, pas de pensées parasites pour le reste de la journée.",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 3,
+    minOral: 2,
+    minEjaculation: 5,
+    minSperme: 1
+  },
 ];
 
 
