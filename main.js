@@ -9,17 +9,32 @@ window.addEventListener("DOMContentLoaded", () => {
 
     // Liste de prénoms sexy/glamour
   const prenomsSexy = [
-  "Adriana", "Alba", "Alyssa", "Ambre", "Anya", "Bella", "Bianca", "Brenda", "Bettina",
-  "Calypso", "Carmen", "Cassie", "Chloé", "Cleo", "Dahlia", "Dakota", "Daisy", "Delilah", "Dita",
-  "Electra", "Elsa", "Emilia", "Esmée", "Eva", "Fatima", "Fanny", "Freya", "Gaïa",
-  "Giulia", "Gloria", "Hailey", "Hanaé", "Hazel", "Heidi", "Indira", "Inès", "Isis",
-  "Ivana", "Jade", "Jasmine", "Jenna", "Juliet", "Katia", "Kenza", "Kim", "Kira", "Lana",
-  "Lilou", "Lior", "Lola", "Lucia", "Malika", "Maya", "Megan", "Nahia",
-  "Naomi", "Naya", "Nina", "Noa", "Océane", "Ophélie", "Oriana", "Orlane", "Paloma", "Pénélope",
-  "Perla", "Quinn", "Raïssa", "Rita", "Ruby", "Roxane", "Salma", "Sasha", "Savana",
-  "Soraya", "Talia", "Talya", "Tess", "Tina", "Uma", "Ursula", "Valentina", "Vanessa", "Vera",
-  "Violette", "Wanda", "Wendy", "Xéna", "Yara", "Yasmin", "Zara", "Zelda", "Zoé"
-];
+  "Adriana", "Alba", "Alyssa", "Ambre", "Anya", "Ariane", "Astrid",
+  "Bella", "Bianca", "Brenda", "Bettina", "Brune",
+  "Calypso", "Carmen", "Cassie", "Chloé", "Cleo", "Cléophée", "Cyria",
+  "Dahlia", "Dakota", "Daisy", "Delilah", "Dita", "Daphné", "Dione",
+  "Electra", "Elsa", "Emilia", "Esmée", "Eva", "Eden", "Elora", "Elyne",
+  "Fatima", "Fanny", "Freya", "Gaïa", "Gala", "Gisèle",
+  "Giulia", "Gloria", "Grace", "Hailey", "Hanaé", "Hazel", "Heidi", "Helena",
+  "Indira", "Inès", "Isis", "Isaure",
+  "Ivana", "Jade", "Jasmine", "Jenna", "Juliet", "June",
+  "Katia", "Kenza", "Kim", "Kira", "Kyra", "Kaïa",
+  "Lana", "Lilou", "Lior", "Lola", "Lucia", "Luz", "Lys",
+  "Malika", "Maya", "Megan", "Mira", "Moïra", "Mylène",
+  "Nahia", "Naomi", "Naya", "Nina", "Noa", "Nola", "Noor",
+  "Océane", "Ophélie", "Oriana", "Orlane", "Ornella",
+  "Paloma", "Pénélope", "Perla", "Phoebe", "Prune",
+  "Quinn",
+  "Raïssa", "Rita", "Ruby", "Roxane", "Romée", "Romy",
+  "Salma", "Sasha", "Savana", "Sibyl", "Soline", "Sienna",
+  "Soraya", "Talia", "Talya", "Tess", "Tina", "Thaïs", "Thea",
+  "Uma", "Ursula", "Ulla",
+  "Valentina", "Vanessa", "Vera", "Violette", "Viviane", "Vanya",
+  "Wanda", "Wendy", "Willow",
+  "Xéna", "Xylia",
+  "Yara", "Yasmin", "Ysé",
+  "Zara", "Zelda", "Zoé", "Zia", "Zina"
+  ];
 
   // Remplir dynamiquement la liste des prénoms
   const selectPrenom = document.getElementById("prenom");

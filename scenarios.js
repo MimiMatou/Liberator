@@ -1013,6 +1013,39 @@ const scenarios = [
     minSperme: 1
   },
   {
+    nom: "Le professeur de chant",
+    id: 92,
+    pitch: "Avant chaque concert, {prenom} a besoin d'un moment seule à seul avec son professeur de chant. Pour préparer ses cordes vocales, il lui a appris une technique très particulière dont ils gardent le secret tous les deux. Elle est assise sur le fauteuil de sa loge, il sort sa queue, pose une jambe sur l'un des accoudoirs, et lui fait gober son sexe encore mou. Elle a l'habitude. Elle sait qu'il fait ça pour se vider dans la bouche de la star qu'elle est devenue, elle se doute bien que ça n'a pas d'effet révolutionnaire sur la qualité de son timbre, mais c'est un rituel quasi superstitieux qu'elle tient à effectuer à chaque fois. Elle s'enfonce dans son fauteuil tandis que la queue du prof prend ses aises entre ses lèvres. Elle la sent gonfler. Il lui attrape la tête, elle ferme les yeux, suçote doucement le gland qui s'incruste, puis se laisse faire quand il commence à avancer puis reculer son bassin. Il n'a pas un sexe très long, ce qui fait qu'elle peut prendre le temps de méditer sans difficulté jusqu'à ce qu'il lui arrose les amygdales.",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 5,
+    minEjaculation: 4,
+    minSperme: 4
+  },
+  {
+    nom: "Le recensement",
+    id: 93,
+    pitch: "{prenom} est gestionnaire des stocks médicaux au CHU. Cette année, elle organise un grand recensement des dons disponibles parmi le personnel hospitalier. Elle a fait prélever le sang de chacun, les plaquettes, et maintenant elle s'occupe de prélever le sperme elle-même. Ainsi, elle fait rentrer son collaborateur dans son bureau amenagé pour l'occasion. Il s'installe sur la table d'auscultation, les genoux pliés et écartés, la queue à l'air, et d'une démarche machinale le branle en lui expliquant qu'elle doit récupérer une dose importante pour la congeler. Elle lui demande s'il a bien respecté ses consignes de ne pas se vider une semaine avant et s'il n'a pas écouté elle est obligée d'augmenter un peu son excitation en lui tétant le gland en plus de lui caresser les bourses. Quand il éjacule, elle récupère le tout dans un récipient et en goutte un peu.",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 2,
+    minOral: 3,
+    minEjaculation: 1,
+    minSperme: 2
+  },
+  {
+    nom: "Le parvenu",
+    id: 94,
+    pitch: "En sa qualité de Maîtresse de la cour royale, {prenom} est chargée d'accueillir cet inconnu comme le noble qu'il prétend être. S'il a bien un arbre généalogique pour le prouver, il n'en a aucune manière ni l'apparat. Le roi lui a demandé de le vêtir comme il se doit et {prenom} s'exécute. Elle lui demande de se déshabiller entièrement pour vérifier sa toilette intime et prendre ses mesures. Elle n'hésitera pas à tout inspecter.",
+    minPresentation: 2,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 1
+  },
+  {
     nom: "nom",
     id: 9,
     pitch: "",
