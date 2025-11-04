@@ -1037,7 +1037,7 @@ const scenarios = [
   {
     nom: "Le parvenu",
     id: 94,
-    pitch: "En sa qualité de Maîtresse de la cour royale, {prenom} est chargée d'accueillir cet inconnu comme le noble qu'il prétend être. S'il a bien un arbre généalogique pour le prouver, il n'en a aucune manière ni l'apparat. Le roi lui a demandé de le vêtir comme il se doit et {prenom} s'exécute. Elle lui demande de se déshabiller entièrement pour vérifier sa toilette intime et prendre ses mesures. Elle n'hésitera pas à tout inspecter.",
+    pitch: "En sa qualité de Maîtresse de la cour royale, {prenom} est chargée d'accueillir cet inconnu comme le noble qu'il prétend être. S'il a bien un arbre généalogique pour le prouver, il n'en a aucune manière ni l'apparat. Le roi lui a demandé de le vêtir comme il se doit et {prenom} s'exécute. Elle lui demande froidement de se déshabiller entièrement pour vérifier sa toilette intime et prendre ses mesures. Elle n'hésitera pas à tout inspecter.",
     minPresentation: 2,
     minCaresses: 1,
     minExploration: 1,
@@ -1046,8 +1046,177 @@ const scenarios = [
     minSperme: 1
   },
   {
+    nom: "La cyber-ingénieure",
+    id: 95,
+    pitch: "2042, {prenom} est une cyber-ingénieure réputée. Ses créations sont reconnues comme les plus réalistes au monde. Perfectionniste, elle refuse de se reposer sur ses lauriers et s'attaque au défaut le plus pénible de son dernier cyborg : la mauvaise qualité de ses interactions amoureuses. Il bande à peine, ses éjaculations sont difficiles à obtenir, les sensations ne sont pas terribles et ses réactions assez mièvres. Heureusement, elle pense avoir fait une mise à jour qui va tout changer...",
+    minPresentation: 2,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 1
+  },
+  {
+    nom: "La métamorphose",
+    id: 96,
+    pitch: "{prenom} n'en revient pas. Sa meilleure amie a vraiment réussi. À force de sorcelleries ou de sciences occultes incompréhensibles, elle a finit par se métamorphoser en homme. C'était son rêve depuis des années : être dans la peau d'un mâle. Curiosité et fantasme réunis. Alors, quand {prenom} lui a proposé de l'aider à découvrir ce nouveau corps, elle n'a pas hésité un instant. Alors que {prenom} reste habillée, son amie est nue. Et elles touchent à tout, jusqu'à éveiller son désir, ses sensations, son plaisir et même sa semence qu'elles goûteront avec intérêt.",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 5
+  },
+  {
+    nom: "L'ange de la rédemption",
+    id: 97,
+    pitch: "{prenom} se présente à lui lors d'une nuit agitée et brumeuse. Elle est là, nue, irréelle, comme un ange onirique. Elle ne dit pas un mot, ses mains parlent pour elle. Sa bouche aussi, son corps tout entier. Elle est comme animée d'une mission : lui redonner le goût de l'amour et des sens. Elle le fera jouir et disparaitra aussi vite, le laissant douter de la réalité de ce moment.",
+    minPresentation: 4,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 1
+  },
+  {
+    nom: "La sexothérapeute",
+    id: 98,
+    pitch: "{prenom} est connue pour ses méthodes très particulières. Quand un patient sort de son cabinet, il ne dira jamais ce qui s'est passé à l'intérieur, si ce n'est que c'était... très particulier. Son nouveau client lui explique donc ses blocages, ses angoisses, ses frustrations. Il n'a plus eu de relations, amoureuses ou sexuelles, depuis des années. Il se met la pression, il n'ose plus, les dernières fois étaient catastrophiques, il a peur de ne plus bander ou pouvoir jouir. C'est alors que {prenom} lui propose de se caresser en observant son corps offert de femme nue. Elle se déshabille entièrement sur son divan et promet de ne pas dire un mot. Il est autorisé à se branler et la toucher uniquement avec sa queue, jusqu'à lui jouir sur les seins.",
+    minPresentation: 5,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 2,
+    minSperme: 1
+  },
+  {
+    nom: "La psychomancienne",
+    id: 99,
+    pitch: "Son patient semble totalement amnésique. Il ne se rappelle pas même son prénom. {prenom} interroge ses grimoires et les astres pour trouver comment le guérir. Elle découvre un rituel étonnant, qui consiste à embrumer et émerveiller le malade jusqu'à l'orgasme. Elle le fait boire une mixture à la fois aphrodisiaque et hypnotique. Il se laisse déshabiller sans un mot et commence à bander quand elle s'engage dans une danse sensuelle. Pour le faire jouir, elle l'aguiche avec son cul, ses seins, sa chatte. Quand elle voit qu'il n'a pas l'initiative de se branler, elle l'aide du mieux qu'elle peut. Ce qu'elle ne ferait pas pour ses patients...",
+    minPresentation: 5,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 1
+  },
+  {
+    nom: "La biologiste extrastellaire",
+    id: 100,
+    pitch: "Elle vient d'une lointaine galaxie pour étudier la faune et la flore de cette planète que les explorateurs ont récemment découvertes. Ils ont même capturé ce que les autochtones appellent sur place un homme. Il est dans un état second, parfaitement docile. {prenom} lui retire donc ses différentes couches pour analyser son anatomie. Elle utilise le polymorpho 10.2 pour obtenir l'apparence d'une humaine à son tour et ainsi pouvoir profiter des capacités receptives de cette espèce. Ainsi, elle peut toucher avec ces extensions étranges qu'ils appellent doigts et les introduire partout sur l'humain. Elle peut même faire pareille avec l'appendice langue. Elle espère trouver ainsi comment faire reproduire deux unités humaines ensemble.",
+    minPresentation: 1,
+    minCaresses: 2,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 1
+  },
+  {
+    nom: "L'érudite scrupuleuse",
+    id: 101,
+    pitch: "Afin de terminer son éminent manifeste sur la biologie humaine, {prenom} a besoin de cobaye docile. La cour impériale lui fait livrer un homme comme elle l'a demandé : parfaitement normal et utilisable. Elle lui ordonne de se mettre nu et dans différentes positions pour prendre notes et croquis. Elle s'attarde principalement sur ses zones érogènes afin de combler les précédents ouvrages qui n'étaient que peu dissert sur le sujet. Elle décrit donc chaque zone du corps masculin après l'avoir tâté, caressé, massé. En particulier le pénis, le scrotum, le périnée et l'anus.",
+    minPresentation: 1,
+    minCaresses: 4,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 1
+  },
+  {
+    nom: "La sexologue qui met la main à la pâte",
+    id: 102,
+    pitch: "Le couple qui se présente à {prenom} n'est pas bien différent des nombreux autres qu'elle a reçus dans son cabinet. Il ont accepté la méthode la plus efficace, mais aussi la plus gênante : la démonstration par l'exemple. Madame est assise près de {prenom} et observe tandis que la spécialiste lui montre comment utilises ses doigts et sa bouche pour obtenir le plaisir masculin. Monsieur est sur le dos, les bras sous les jambes pour bien donner accès à son intimité, et {prenom} passe une main sur son périnée, ses couilles, son membre et son gland. Elle donne de nombreuses explications et précisions, tant sur le rythme des caresses que sur leur diversité.",
+    minPresentation: 1,
+    minCaresses: 3,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 1
+  },
+  {
+    nom: "L'analyste organoleptique",
+    id: 103,
+    pitch: "{prenom} a un métier au nom très compliqué, mais dont la définition est assez simple : elle met au point les différents arômes et goûts des produits intimes et sexuels. Aujourd'hui, elle teste des crèmes qui doivent faire office de lubrifiants, mais sans pour autant dénaturer le plaisir buccal. Elle demande donc à l'un de ses collègues de lui présenter son gland et elle y dépose tour à tour une noix des nombreux échantillons à tester. Chaque fois, elle tète le gland avec un grand professionnalisme et note sur son calepin son ressenti.",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 2,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 1
+  },
+  {
+    nom: "Le marquis excentrique",
+    id: 104,
+    pitch: "{prenom} est ravie de sa situation. Monsieur le Marquis est très généreux avec elle. Il lui a proposé de la sortir de la misère pour l'assister dans ses tâches quotidiennes. Il n'est pas un homme très compliqué et elle a beaucoup de temps de repos. Il lui donne même un salaire conséquent qu'elle peut faire parvenir à sa famille. Sa seule excentricité a lieu une fois par mois, le dimanche en fin de matinée, avant que ses invités dominicaux ne se présentent au chateau. Il l'invite alors à s'installer de tout son long sur son lit, toujours habillée. Lui se dévêt avec lenteur, puis vient s'accroupir au-dessus du délicat visage de {prenom}. Elle connait son rôle et lui suce les boules tandis qu'il se masturbe patiemment. Il grogne alors des insanités qu'il ne se permet pas d'ordinaire et se vide dans son décolleté.",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 3,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 1
+  },
+  {
+    nom: "La compagne expérimentatrice",
+    id: 105,
+    pitch: "{prenom} pense savoir comment aider son compagnon. Elle a lu dans un magazine que le périnée est une zone très érogène, même chez l'homme. Elle lui demande donc ce soir de bien se nettoyer le cul et lui annonce qu'elle va essayer de le faire bander et jouir, lui qui n'y arrive plus depuis quelques semaines. Il accepte à reculons, et se demande bien où elle veut en venir lorsqu'elle lui demande de se mettre à quatre pattes. Mais il aime profondément {prenom} et lui fait confiance. Elle pense que dans cette position il lui sera plus facile de le masturber et lui lécher couilles et périné en même temps.",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 4,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 1
+  },
+  {
+    nom: "La vengeance de la sorcière",
+    id: 106,
+    pitch: "{prenom} en a attrapé un très mignon. Il est tout apeuré, il croit que sa foi va le protéger, il la traite de démone, de diablesse. Elle lui jette un sort de silence. Elle peut voir dans ses yeux qu'il est inquiet. Elle va le convertir au plaisir du sexe qu'il s'interdit. Elle va lui montrer qu'il est faible, humain. Elle l'oblige magiquement à l'obéissance et il essaie de crier quand elle lui ordonne de se déshabiller et de se branler. Il a honte, mais il bande rapidement. Et quand elle lui lèche les couilles et même son petit cul de saint intouché, il bande encore plus fort. Elle le fera jouir et lui fera signer un pacte de stupre.",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 5,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 1
+  },
+  {
+    nom: "La dernière volonté",
+    id: 107,
+    pitch: "{prenom} est l'une des exauceuses du vaisseau Eclipse. Cet immense navire spatial dérive depuis des siècles dans l'espace. Pour réguler sa population toujours grandissante, une vieille tradition veut que quiconque peut choisir de se sacrifier dans l'immensité vide en échange d'un dernier voeu. {prenom} est celle qui offre les dernières volontés sexuelles aux hommes et aux femmes courageuses qui décident d'agir pour le bien de la communauté. Elle y trouve un plaisir étrange et délicat. Comme un dernier baiser. Ce jour-là, l'homme lui demande simplement de lui sucer les couilles. Elle ne se déshabille pas, elle s'accroupit et lui sourit. Elle le regarde dans les yeux tandis qu'il se masturbe une dernière fois, les boules entre les lèvres de l'exauceuse de son ultime fantasme.",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 2,
+    minEjaculation: 1,
+    minSperme: 1
+  },
+  {
+    nom: "Le chauffeur particulier",
+    id: 108,
+    pitch: "{prenom} est une femme importante. Très importante. Elle passe de réunions d'affaires en dîners diplomatiques, de conseils stratégiques en soirées caricatives. Elle n'a jamais le temps. Elle ne se pose jamais. Son chauffeur est devenu son unique compagnon, son dernier confident. Il écoute sans un mot, obéit sans hésitation. Même quand, parfois, elle lui ordonne qu'il se gare sur la bas-côté d'une route déserte et qu'il fasse pivoter son fauteuil vers l'intérieur de l'habitacle. Elle se débarasse avidement de sa ceinture et de son pantalon pour sortir son sexe rapidement tendu. Il n'est qu'une bite qu'elle a besoin de sucer goulûment et de pomper jusqu'à la moëlle.",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 3,
+    minEjaculation: 1,
+    minSperme: 1
+  },
+  {
+    nom: "La nouvelle mode",
+    id: 109,
+    pitch: "Son chevalier servant n'a pas l'air convaincu, mais il a accepté par loyauté. {prenom} lui a parlé de cette nouvelle mode lors des soirées de l'impératrice et elle veut absolument s'exercer avant d'y participer. Elle a reçu une invitation et a à peine eu le temps de préparer ses affaires avant de lancer sa calèche au galop. Elle profite donc du long voyage pour s'entrainer. Malgré les soubresauts des routes mal entretenues, elle parvient à retirer le bas de l'armure du chevalier qui se laisse faire. Elle a déjà vu son pénis pour ses précédentes initiations, mais cette fois la mode est à l'embouchage en profondeur. Elle va donc prendre son temps, durant les longues heures du trajet, pour s'enfoncer la hampe durcie le plus loin possible dans la gorge. Elle se doit d'être exemplaire devant l'impératrice.",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 4,
+    minEjaculation: 1,
+    minSperme: 1
+  },
+];
+
+
+/* 
+  {
     nom: "nom",
-    id: 9,
+    id: 10,
     pitch: "",
     minPresentation: 1,
     minCaresses: 1,
@@ -1056,4 +1225,4 @@ const scenarios = [
     minEjaculation: 1,
     minSperme: 1
   },
-];
+  */
