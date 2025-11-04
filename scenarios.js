@@ -1255,7 +1255,7 @@ const scenarios = [
     minSperme: 3
   },
   {
-    nom: "La démone du goût",
+    nom: "La démone du vice",
     id: 114,
     pitch: "{prenom} tire sa puissance de la semence humaine. Chaque nouvelle lune, elle se rend sur terre et choisit sa proie. La plupart du temps, il lui suffit de prendre les formes d'une belle femme aguicheuse pour que le mâle choisi ne se doute de rien. Elle le suce avidemment jusqu'à obtenir le précieux nectar. Il lui donnera des semaines d'une puissance inimaginable, mais videra l'homme de toute énergie vitale. C'est son dernier orgasme et elle s'en délecte avec plaisir.",
     minPresentation: 1,
@@ -1264,6 +1264,39 @@ const scenarios = [
     minOral: 1,
     minEjaculation: 1,
     minSperme: 4
+  },
+  {
+    nom: "La marchande d'épices",
+    id: 115,
+    pitch: "{prenom} vend toutes sortes d'épices aux propriétés diverses. Elle vient de recevoir une toute nouvelle marchandise qui promet de changer le goût du sperme. Elle veut absolument vérifier ça. Elle attend de croiser un client plutôt à son goût pour lui proposer d'essayer. Elle use de termes directs et crus : elle veut juste qu'il se branle dans un verre après avoir mangé de ces épices pour vérifier le goût que son sperme.",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 4
+  },
+  {
+    nom: "Le bizutage",
+    id: 116,
+    pitch: "{prenom} se retrouve avec un inconnu pour le rite de passage de cette société secrète. Les autres membres attendent en discutant à l'extérieur qu'ils aient fini leur épreuves. Ce qu'elle doit faire est simple : faire l'amour avec l'homme en face d'elle. Il est plutôt à son goût, mais elle ne se sent pas capable d'aller au bout. Ils en discutent avec embarras. Pour tromper les autres qui ne manqueront pas de vérifier, l'inconnu propose de se masturber pour répandre un peu de sperme dans la culotte de {prenom}. Elle est d'accord, mais pour montrer sa bonne volonté elle dévoile sa jolie poitrine et accepte de le masturber elle-même. Au moment de jouir, elle tire sur l'elastique de ses sous-vêtements pour qu'il se vide sur son sexe. Et pour terminer la manoeuvre, elle récupère un peu de la semence pour s'en étaler sur la joue.",
+    minPresentation: 3,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 3,
+    minSperme: 1
+  },
+  {
+    nom: "Le bel au gland dormant",
+    id: 117,
+    pitch: "{prenom} est amoureuse d'un homme. Il est amoureux d'elle aussi. Il lui a souvent fait des avances, mais elle ne se sent pas prête. Ce soir-là, ils ont fait la fête, pas mal bu et il finit en caleçon sur le lit de {prenom}, ronflant comme jamais. Lorsqu'elle va pour s'endormir, elle se glisse près de lui. C'est l'occasion de découvrir son corps sans la pression de son regard et de ses attentes. Après avoir vérifié qu'il ne se réveillera pas, elle en profite même pour tirer sur l'élastique de son caleçon et découvrir la bite de son amoureux. Elle la tâte doucement, puis s'enhardit et caresse aussi ses couilles. Elle malaxe ce sexe jusqu'à ce qu'il se tende. Elle est de plus en plus excitée et décide de goûter le gland bombé. Rien de plus, juste le bout. Et sa main pour le branler. Si bien qu'il finit par exploser sur son ventre devant le regard ravi de {prenom}. Afin de cacher son larcin, elle lèche les traces de sperme jusqu'à ce qu'il n'y en ait plus.",
+    minPresentation: 1,
+    minCaresses: 2,
+    minExploration: 2,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 3
   },
 ];
 
