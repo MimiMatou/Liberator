@@ -8,7 +8,7 @@ const scenarios = [
     minCaresses: 1,
     minExploration: 1,
     minOral: 1,
-    minEjaculation: 1,
+    minEjaculation: 5,
     minSperme: 1
   },
   {
@@ -190,7 +190,7 @@ const scenarios = [
   {
     nom: "L'épouse partageuse",
     id: 17,
-    pitch: "{prenom} a décidé d'offir à son mari un cadeau un peu particulier. Elle lui bande les yeux et lui demande de s'allonger sur un table ou au sol. Là, elle va lui raconter ce qui va se passer à son oreille. Elle a invité une autre femme qui préfère rester anonyme et qui va lui donner du plaisir jusqu'à ce qu'il jouisse.",
+    pitch: "{prenom} a décidé d'offir à son mari un cadeau un peu particulier. Elle lui bande les yeux et lui demande de s'allonger sur un table ou au sol. Là, elle va lui raconter ce qui va se passer à son oreille. Elle a invité une autre femme (jouée par toi) qui préfère rester anonyme et qui va lui donner du plaisir jusqu'à ce qu'il jouisse.",
     minPresentation: 1,
     minCaresses: 1,
     minExploration: 1,
@@ -1309,13 +1309,90 @@ const scenarios = [
     minEjaculation: 5,
     minSperme: 1
   },
+  {
+    nom: "La journaliste débutante",
+    id: 119,
+    pitch: "Quand sa direction lui avait dit qu'elle devait extirper un maximum du candidat à la mairie, {prenom} ne pensait pas qu'il fallait le faire à la main. Quand on lui avait demandé de pomper tout ce qu'elle pouvait, la journaliste n'imaginait pas le faire avec la bouche. Elle n'a jamais fait ça et se laisse guider par le politicien qui lui explique comment lui donner du plaisir et obtenir les informations qu'elle désire.",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 1
+  },
+  {
+    nom: "La jeune noble curieuse",
+    id: 120,
+    pitch: "{prenom} ordonne à son garde du corps de se déshabiller. Il a juré fidélité et loyauté à son père, il n'a pas le droit de refuser. Quand il est entièrement nu, elle montre le tapis du doigt et exige qu'il s'y allonge. Elle s'accroupit alors et se met en quête de connaissance. D'une main curieuse, elle caresse le pénis du garde qui tente de se retenir de bander. Elle lui demande alors de se faire du bien, pour ensuite l'imiter. {prenom} veut voir sa semence, mais il lui explique que ce n'est pas si simple. Peut-être en léchant son sexe, propose-t-il. D'abord révoltée, la jeune noble se laisse tenter. Sous les directives du garde, elle finit par le prendre en bouche maladroitement. Finira-t-elle par observer la jouissance jaillir ?",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 1
+  },
+  {
+    nom: "La criminelle survivante",
+    id: 121,
+    pitch: "Pour ses crimes, {prenom} aurait dû être pendue. Mais l'Empereur a été magnanime et elle est désormais demi-citoyenne. La moitié de la semaine elle est libre, l'autre moitié elle est l'avaleuse officielle de la cour. Elle n'est alors plus considérée comme une personne, mais juste comme une bouche offerte. Elle est installée sur une table basse du salon des diplomates. Son corps est recouvert d'un drap, seule sa tête apparait, réhaussée d'un coussin brodée. Durant les dîners mondains, les nobles présents attendent patiemment leur tour en discutant. Certains continuent même leur conversation alors qu'ils enfoncent leur queue entre les lèvres soumises. Ils ont alors le droit de baiser sa bouche tant qu'ils le veulent, mais interdiction de jouir sur ou en elle, uniquement sur le drap.",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 2,
+    minOral: 5,
+    minEjaculation: 1,
+    minSperme: 1
+  },
+  {
+    nom: "La supportrice zélée",
+    id: 122,
+    pitch: "{prenom} avait promis d'offrir sa bouche à toute l'équipe s'ils parvenaient à gagner. C'était le mieux qu'elle pouvait faire pour les motiver. Elle voulait qu'ils gagnent et ils se sont surpassés. Quand ils lui demandent d'honorer sa promesse, lors de la troisième mi-temps, elle les invite à la rejoindre dans un petit salon privatif. Ils lui demandent de se déshabiller, mais elle ne leur a rien promis de tel. Juste sa bouche. Elle s'allonge sur une banquette, dans sa petite robe sexy, et ouvre la bouche. Chacun leur tour, ils viennent la lui baiser. Certains tendrement, d'autres sans douceur. Et tous se vident les couilles sur son visage.",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 2,
+    minOral: 5,
+    minEjaculation: 5,
+    minSperme: 1
+  },
+  {
+    nom: "Le rituel de la cheffe de meute",
+    id: 123,
+    pitch: "{prenom} est la cheffe de sa meute depuis deux décennies maintenant. Chaque année, quelques guerriers ou guerrières courageuses tentent de la défier, mais finissent toujours le nez dans la poussière. Surperstitieuse, elle pense que sa puissance vient du rituel qu'elle organise en début de chaque mois : seins nus, allongée sur une paillasse de fortune, elle accueille la queue des mâles de sa tribu une à une au creux de ses lèvres. Il la baise comme des petits chiens en chaleur, puis lui éjacule sur la poitrine, le ventre, le cou ou les bras. Un à un, elle reçoit leur semence comme une offrande à son autorité.",
+    minPresentation: 3,
+    minCaresses: 1,
+    minExploration: 2,
+    minOral: 5,
+    minEjaculation: 2,
+    minSperme: 1
+  },
+  {
+    nom: "L'esthéticienne compréhensive",
+    id: 124,
+    pitch: "{prenom} ne voit pas souvent passer d'hommes dans son cabinet. Quand il y en a un, elle fait son maximum pour qu'il ne soit pas gêné et se sente à l'aise. Elle flatte son ego, le rassure sur son apparence, caresse son corps, prend soin de ses parties intimes. Si elle le trouve à son goût, elle peut même caresser son pénis tandis qu'elle en retire la toison. Aujourd'hui, elle est d'humeur joueuse et très compréhensive. Aussi, quand ce bel homme s'allonge entièrement nu, elle lui offre sa meilleure prestation : rasage, caresses, puis masturbation. Au début, il est embarassé, mais elle l'invite à se laisser aller et lui propose même de le sucer et de le laisser se vider dans sa bouche.",
+    minPresentation: 2,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 4,
+    minSperme: 1
+  },
+  {
+    nom: "L'étudiante' naïve",
+    id: 125,
+    pitch: "Au début, quand son professeur lui a dit qu'elle devait se déshabiller, {prenom} ne voyait pas trop le rapport avec ses études. Mais quand elle a vu que ça améliorait grandement sa notation, elle y a mis davantage d'entrain. Chaque fois, il attend la fin de journée pour lui demander de rester dans son bureau. Elle dévoile sa poitrine, se met à genoux près de lui, tire sur son pantalon et s'applique à lui prodiguer une masturbation délicate. Les premières fois, ce n'était pas facile, mais elle s'est améliorée et elle l'entend gémir désormais. Pourtant, ce soir, il en veut plus et lui demande de pratiquer une fellation. Elle ne sait pas ce que c'est et il va la guider jusqu'à jouir entre ses lèvres.",
+    minPresentation: 3,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 4,
+    minSperme: 1
+  },
 ];
 
 
 /* 
   {
     nom: "nom",
-    id: 110,
+    id: 120,
     pitch: "",
     minPresentation: 1,
     minCaresses: 1,
