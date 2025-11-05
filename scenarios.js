@@ -1397,13 +1397,68 @@ const scenarios = [
     minEjaculation: 3,
     minSperme: 5
   },
+  {
+    nom: "L'invocatrice",
+    id: 127,
+    pitch: "{prenom} a invoqué un pantin humanoïde pour son petit plaisir personnel. Elle n'a jamais été très douée avec les hommes, tant amoureusement que sexuellement. Au moins, lui, il ne dit pas un mot et lui offre ses meilleurs orgasmes. Elle en profite pour peaufiner son apprentissage de la manipulation masculine en testant différentes manières de le masturber. Elle s'amuse à lécher aussi ce membre tout dur et très réactif, mais l'essentiel est d'obtenir son plaisir.",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 1
+  },
+  {
+    nom: "Le survivant de l'apocalypse",
+    id: 128,
+    pitch: "{prenom} veut prendre son temps. Elle sait que si elle veut donner une chance à l'humanité, elle va devoir enfanter avec l'unique survivant du terrible apocalypse nucléaire qui a ravagé la planète, mais elle ne se sent pas prête. Elle n'a jamais été attiré par le sexe et ces rites bestiaux. Il est patient, à l'écoute, et se contente de faire comme elle dit : il se masturbe doucement à ses côtés. Elle reste habillée, trop intimidée. Et il éjacule sur une partie de son corps qu'elle décide, jusqu'à ce qu'elle soit mentalement prête à le recevoir sur son sexe.",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 2,
+    minSperme: 1
+  },
+  {
+    nom: "Démasquer le menteur",
+    id: 129,
+    pitch: "{prenom} est persuadée que son meilleur ami lui ment quand il dit qu'il n'a aucune attirance envers elle. Elle est déterminée à le démasquer. Il refuse d'avouer, mais elle le sent, elle le sait, depuis toutes ces années. Elle lui lance un défi : se retenir de jouir. Il fait comme si ça n'était pas un problème et le soir même, il est sur le canapé, jambes nues et écartées. Elle sait que ça ne va pas être facile s'il se retient, aussi elle va prendre son temps et faire monter la pression petit à petit. Elle reste habillée, à ses genoux, et commence d'une main délicate, puis de deux, sur la bite qui se met à durcir. Il prétexte une réaction mécanique et elle ne se laisse pas déconcentrer. Elle compte utiliser sa bouche, mais étape par étape, d'abord de petits baisers partout sur le membre, sur le gland, et sa langue qui frétille un peu partout pendant de longues minutes. Pour obtenir la victoire, elle prendra le temps qu'il faudra, elle utilisera des mots crus, des regards cochons, une bouche de plus en plus avide. Elle veut qu'il jouisse.",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 2,
+    minEjaculation: 1,
+    minSperme: 1
+  },
+  {
+    nom: "Curiosité gustative",
+    id: 130,
+    pitch: "\"Ça a quel goût, le sperme ?\" Quand {prenom} a demandé ça à son précepteur, il a semblé peu surpris. La jeune femme s'était montrée jusque là très avide de connaissance, et durant les mois passés elle a plusieurs fois fait la requête de pouvoir observer son pénis. Il lui a montré en tentant de garder un ton parfaitement professionnel. Les leçons défilaient et il faisait comme si ces étranges sessions étaient habituelles. Dès qu'il abordait la biologie humaine, elle voulait absolument avoir des exemples concrets. Il lui a ainsi montré l'entièreté de son appareil génital et lui en a expliqué le fonctionnement. Aussi, quand elle a demandé à pouvoir goûter son sperme, il a fait comme si ce n'était qu'une question pédagogique : il s'est branlé devant elle. Il a jouit sur son ventre et l'a invité à lécher les traces.",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 2
+  },
+  {
+    nom: "L'ingrédient du masseur",
+    id: 131,
+    pitch: "{prenom} est venu dans ce cabinet parce que toutes ses copines lui en ont parlé. Le masseur est plutôt mignon et il semblerait qu'il ait un ingrédient secret pour pratiquer d'excellents massages revigorants. Elle s'allonge donc en sous-vêtements sur la table professionnelle et il commence à opérer. Quand il lui demande si elle veut l'ingrédient spécial, elle accepte et par souci de confidentialité il lui place un masque sur les yeux. Pendant quelques minutes, elle discute avec lui mais il ne la touche plus, prétextant la préparation de sa recette. Tandis qu'elle ne le voit pas, il a baissé son pantalon et se branle à ses côtés, jusqu'à lui éjaculer sur le dos et une partie des fesses pour ainsi reprendre son massage.",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 2,
+    minSperme: 1
+  },
 ];
 
 
 /* 
   {
     nom: "nom",
-    id: 120,
+    id: 130,
     pitch: "",
     minPresentation: 1,
     minCaresses: 1,
