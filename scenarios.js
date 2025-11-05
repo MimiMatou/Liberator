@@ -3,7 +3,7 @@ const scenarios = [
   {
     nom: "La démonstratrice en produits de beauté",
     id: 1,
-    pitch: "{prenom} est démonstratrice pour une marque très luxueuse. Elle vient chez un couple pour un nouveau produit révolutionnaire. {prenom} explique qu'elle doit s'isoler avec monsieur pour récolter sa semence. Seuls, elle le caressera et le sucera en lui expliquant qu'une fois qu'il aura éjaculé, elle plongera son visage dans les flaques de sperme pour s'en recouvrir.",
+    pitch: "{prenom} est démonstratrice pour une marque très luxueuse. Elle vient chez un couple pour un nouveau produit révolutionnaire. {prenom} explique qu'elle doit s'isoler avec monsieur pour récolter sa semence. Seuls, elle le caresse et le lèche en lui expliquant qu'une fois qu'il aura éjaculé, elle plongera son visage dans les flaques de sperme pour s'en recouvrir.",
     minPresentation: 1,
     minCaresses: 1,
     minExploration: 1,
@@ -14,7 +14,7 @@ const scenarios = [
   {
     nom: "La cliente au fantasme inavouable", 
     id: 2,
-    pitch: "{prenom} engage un prostitué à qui elle demande de jouer le rôle de jouet sexuel obéissant. Elle va le branler et le sucer tout en lui expliquant ce qu'elle attend de lui. Elle a toujours voulu réaliser ce fantasme mais son mari refuse. Elle veut qu'il jouisse dans ou sur sa chatte puis s'accroupir au-dessus du visage du prostitué qui devra la faire jouir en léchant son propre sperme.",
+    pitch: "{prenom} engage un prostitué à qui elle demande de jouer le rôle de jouet sexuel obéissant. Elle va le branler tout en lui expliquant ce qu'elle attend de lui. Elle a toujours voulu réaliser ce fantasme mais son mari refuse. Elle veut qu'il jouisse dans ou sur sa chatte puis s'accroupir au-dessus du visage du prostitué qui devra la faire jouir en léchant son propre sperme.",
     minPresentation: 5,
     minCaresses: 1,
     minExploration: 1,
@@ -40,7 +40,7 @@ const scenarios = [
     minPresentation: 4,
     minCaresses: 1,
     minExploration: 1,
-    minOral: 1,
+    minOral: 2,
     minEjaculation: 3,
     minSperme: 4
   },
@@ -51,7 +51,7 @@ const scenarios = [
     minPresentation: 5,
     minCaresses: 2,
     minExploration: 3,
-    minOral: 2,
+    minOral: 3,
     minEjaculation: 3,
     minSperme: 1
   },
@@ -73,7 +73,7 @@ const scenarios = [
     minPresentation: 3,
     minCaresses: 4,
     minExploration: 3,
-    minOral: 2,
+    minOral: 3,
     minEjaculation: 2,
     minSperme: 4
   },
@@ -106,7 +106,7 @@ const scenarios = [
     minPresentation: 4,
     minCaresses: 2 ,
     minExploration: 1,
-    minOral: 1,
+    minOral: 2,
     minEjaculation: 1,
     minSperme: 5
   },
@@ -117,7 +117,7 @@ const scenarios = [
     minPresentation: 5,
     minCaresses: 1,
     minExploration: 1,
-    minOral: 3,
+    minOral: 4,
     minEjaculation: 3,
     minSperme: 1
   },
@@ -150,7 +150,7 @@ const scenarios = [
     minPresentation: 2,
     minCaresses: 1,
     minExploration: 1,
-    minOral: 1,
+    minOral: 2,
     minEjaculation: 2,
     minSperme: 5
   },
@@ -161,7 +161,7 @@ const scenarios = [
     minPresentation: 1,
     minCaresses: 1,
     minExploration: 1,
-    minOral: 3,
+    minOral: 4,
     minEjaculation: 4,
     minSperme: 4
   },
@@ -172,14 +172,14 @@ const scenarios = [
     minPresentation: 1,
     minCaresses: 2,
     minExploration: 3,
-    minOral: 2,
+    minOral: 3,
     minEjaculation: 1,
     minSperme: 1
   },
   {
     nom: "L'étudiante en biologie",
     id: 16,
-    pitch: "{prenom} est en retard pour son rapport de fin d'année. Son professeur lui propose de l'aider et elle le prend au mot. Il n'avait peut-être pas conscience qu'il lui manquait la partie sur l'anatomie masculine et son orgasme. En acceptant, il ne pensait pas terminer assis face à son étudiante, seins nus, la queue entre ses mains, à devoir lui expliquer le fonctionnement de son pénis et des différentes intéractions nécessaires à son éjaculation. Mais quand elle a proposé de le laisser jouir sur ses gros seins, il a étrangement accepté sans discuter.",
+    pitch: "{prenom} est en retard pour son rapport de fin d'année. Son professeur lui propose de l'aider et elle le prend au mot. Il n'avait peut-être pas conscience qu'il lui manquait la partie sur l'anatomie masculine et son orgasme. En acceptant, il ne pensait pas terminer assis face à son étudiante, seins nus, la queue entre ses mains, à devoir lui expliquer le fonctionnement de son pénis et des différentes intéractions nécessaires à son éjaculation. Mais quand elle a proposé de le laisser jouir sur ses seins, il a étrangement accepté sans discuter.",
     minPresentation: 3,
     minCaresses: 1,
     minExploration: 2,
@@ -194,7 +194,7 @@ const scenarios = [
     minPresentation: 1,
     minCaresses: 1,
     minExploration: 1,
-    minOral: 1,
+    minOral: 2,
     minEjaculation: 1,
     minSperme: 1
   },
@@ -223,7 +223,7 @@ const scenarios = [
   {
     nom: "Offerte à un inconnu",
     id: 20,
-    pitch: "{prenom} a enfin osé sauter le pas. Elle s'est bien apprêtée pour l'occasion, sexy, chaude. Elle doit suivre les instructions de son maitre. Il a décidé de l'offrir à un inconnu. Elle doit garder un masque sur les yeux et s'allonger sur le lit de côté, la bouche accessible par la queue d'un homme à qui elle n'a même jamais dit bonjour. Il viendra et sans un bruit frottera son sexe sur ses joues, sur son nez, sur ses lèvres. Puis il fera pénétrer son gland fébrile et luisant dans la bouche offerte. Il n'aura pas le droit de toucher autre chose que le visage de {prenom}. Juste regarder. Et lui baiser la bouche jusqu'à éjaculer.",
+    pitch: "{prenom} a enfin osé sauter le pas. Elle s'est bien apprêtée pour l'occasion, sexy, chaude. Elle doit suivre les instructions de son maître. Il a décidé de l'offrir à un inconnu. Elle doit garder un masque sur les yeux et s'allonger sur le lit de côté, la bouche accessible par la queue d'un homme à qui elle n'a même jamais dit bonjour. Il viendra et sans un bruit frottera son sexe sur ses joues, sur son nez, sur ses lèvres. Puis il fera pénétrer son gland fébrile et luisant dans la bouche offerte. Il n'aura pas le droit de toucher autre chose que le visage de {prenom}. Juste regarder. Et lui baiser la bouche jusqu'à éjaculer.",
     minPresentation: 2,
     minCaresses: 1,
     minExploration: 1,
@@ -238,7 +238,7 @@ const scenarios = [
     minPresentation: 3,
     minCaresses: 1,
     minExploration: 1,
-    minOral: 3,
+    minOral: 1,
     minEjaculation: 5,
     minSperme: 1
   },
@@ -282,7 +282,7 @@ const scenarios = [
     minPresentation: 1,
     minCaresses: 2,
     minExploration: 2,
-    minOral: 1,
+    minOral: 2,
     minEjaculation: 4,
     minSperme: 1
   },
@@ -293,7 +293,7 @@ const scenarios = [
     minPresentation: 1,
     minCaresses: 3,
     minExploration: 2,
-    minOral: 1,
+    minOral: 2,
     minEjaculation: 4,
     minSperme: 5
   },
@@ -304,7 +304,7 @@ const scenarios = [
     minPresentation: 2,
     minCaresses: 2,
     minExploration: 3,
-    minOral: 2,
+    minOral: 3,
     minEjaculation: 1,
     minSperme: 1
   },
@@ -315,7 +315,7 @@ const scenarios = [
     minPresentation: 1,
     minCaresses: 1,
     minExploration: 1,
-    minOral: 3,
+    minOral: 4,
     minEjaculation: 2,
     minSperme: 1
   },
@@ -326,7 +326,7 @@ const scenarios = [
     minPresentation: 3,
     minCaresses: 1,
     minExploration: 1,
-    minOral: 1,
+    minOral: 2,
     minEjaculation: 2,
     minSperme: 1
   },
@@ -337,7 +337,7 @@ const scenarios = [
     minPresentation: 2,
     minCaresses: 1,
     minExploration: 1,
-    minOral: 1,
+    minOral: 2,
     minEjaculation: 2,
     minSperme: 1
   },
@@ -348,7 +348,7 @@ const scenarios = [
     minPresentation: 2,
     minCaresses: 2,
     minExploration: 2,
-    minOral: 1,
+    minOral: 2,
     minEjaculation: 5,
     minSperme: 1
   },
@@ -392,7 +392,7 @@ const scenarios = [
     minPresentation: 3,
     minCaresses: 1,
     minExploration: 1,
-    minOral: 3,
+    minOral: 2,
     minEjaculation: 2,
     minSperme: 1
   },
@@ -414,7 +414,7 @@ const scenarios = [
     minPresentation: 1,
     minCaresses: 2,
     minExploration: 2,
-    minOral: 2,
+    minOral: 1,
     minEjaculation: 4,
     minSperme: 1
   },
@@ -436,7 +436,7 @@ const scenarios = [
     minPresentation: 1,
     minCaresses: 1,
     minExploration: 1,
-    minOral: 1,
+    minOral: 2,
     minEjaculation: 1,
     minSperme: 1
   },
@@ -447,18 +447,18 @@ const scenarios = [
     minPresentation: 4,
     minCaresses: 1,
     minExploration: 1,
-    minOral: 1,
+    minOral: 2,
     minEjaculation: 4,
     minSperme: 5
   },
   {
     nom: "L'employée de maison docile",
     id: 41,
-    pitch: "{prenom} obéit toujours à Madame. Elle veut toujours obtenir la plus grande satisfaction de sa maîtresse. Et aujourd'hui, elle lui ordonne d'obtenir le plaisir de monsieur. Apparemment, Madame n'a pas la tête à ça et lui délègue la tâche. {prenom} rejoint donc Monsieur dans son office et demande poliment à passer sous le bureau tandis qu'il travaille à ses choses importantes. Elle n'a pas souvent vu de pénis, aussi elle est un peu intimidée. Elle découvre de ses doigts, lèche un peu le gland, puis se met au travail.",
+    pitch: "{prenom} obéit toujours à Madame. Elle veut toujours garantir la plus grande satisfaction de sa maîtresse. Et aujourd'hui, elle lui ordonne d'obtenir le plaisir de monsieur. Apparemment, Madame n'a pas la tête à ça et lui délègue la tâche. {prenom} rejoint donc Monsieur dans son office et demande poliment à passer sous le bureau tandis qu'il travaille à ses choses importantes. Elle n'a pas souvent vu de pénis, aussi elle est un peu intimidée. Elle découvre de ses doigts, lèche un peu le gland, puis se met au travail d'une bouche malhabile.",
     minPresentation: 2,
     minCaresses: 2,
     minExploration: 2,
-    minOral: 4,
+    minOral: 2,
     minEjaculation: 1,
     minSperme: 1
   },
@@ -476,7 +476,7 @@ const scenarios = [
   {
     nom: "La prostituée exigeante",
     id: 43,
-    pitch: "{prenom} est une prostituée de luxe. Il faut payer cher pour passer du temps avec elle et elle est très regardante sur les pratiques. Elle ne touche pas aux couilles trop velues, elle ne lèche pas de cul, et surtout elle laisse le client jouir sur lui-même. Sauf si le client est plein aux as et arrive à sortir un nombre capable de lui faire changer d'avis. Cette fois, il aura droit de lui jouir sur son sublime visage.",
+    pitch: "{prenom} est une prostituée de luxe. Il faut payer cher pour passer du temps avec elle et elle est très regardante sur les pratiques. Elle ne touche pas aux couilles trop velues, elle ne lèche pas de cul, et surtout elle laisse le client jouir sur lui-même. Sauf si le client est plein aux as et sort un nombre de billets capable de lui faire changer d'avis. Ce soir-là, c'est bien le cas. Pas suffisamment pour avoir droit à ses lèvres, mais il aura ses mains, sa langue et son sublime visage pour éjaculer dessus.",
     minPresentation: 2,
     minCaresses: 1,
     minExploration: 1,
@@ -487,7 +487,7 @@ const scenarios = [
   {
     nom: "La douce berceuse",
     id: 44,
-    pitch: "{prenom} est gouvernante dans le domaine de Monsieur. C'est un homme seul et aux étranges habitudes. La journée, elle s'occupe de la maison, la nuit, elle s'occupe de lui. Et ce qu'il aime, c'est sa douce berceuse remplie de mots crus et salaces. Ce qu'il aime, c'est poser sa tête sur ses genoux et téter ses gros seins tandis qu'elle le branle et lui raconte toutes les cochonneries qui lui passent par la tête.",
+    pitch: "{prenom} est gouvernante dans le domaine de Monsieur. C'est un homme seul et aux étranges habitudes. La journée, elle s'occupe de la maison, la nuit, elle s'occupe de lui. Et ce qu'il aime, c'est sa douce berceuse remplie de mots crus et salaces. Ce qu'il aime, c'est poser sa tête sur ses genoux et téter ses seins tandis qu'elle le branle et lui raconte toutes les cochonneries qui lui passent par la tête.",
     minPresentation: 3,
     minCaresses: 1,
     minExploration: 1,
@@ -502,7 +502,7 @@ const scenarios = [
     minPresentation: 3,
     minCaresses: 1,
     minExploration: 2,
-    minOral: 1,
+    minOral: 2,
     minEjaculation: 2,
     minSperme: 2
   },
@@ -513,18 +513,18 @@ const scenarios = [
     minPresentation: 1,
     minCaresses: 2,
     minExploration: 3,
-    minOral: 2,
+    minOral: 3,
     minEjaculation: 1,
     minSperme: 1
   },
   {
     nom: "La douche dorée",
     id: 47,
-    pitch: "Alors que son copain est sous la douche, {prenom} la rejoint et lui avoue qu'elle a un fantasme inavouée : elle aimerait qu'il lui pisse dessus pendant qu'elle se caresse. Il est surpris, mais vu qu'ils sont sous la douche, il se laisse tenter. Elle se met à la hauteur qu'elle désire et lui indique où viser. Pendant se temps, elle se caresse. Si elle est d'humeur, elle peut aussi le sucer pour goutter un peu le fruit défendu et finir par le faire éjaculer.",
+    pitch: "Alors que son copain est sous la douche, {prenom} la rejoint et lui avoue qu'elle a un fantasme inavouée : elle aimerait qu'il lui pisse dessus pendant qu'elle se caresse. Il est surpris, mais vu qu'ils sont sous la douche, il se laisse tenter. Elle se met à la hauteur qu'elle désire et lui indique où viser. Pendant se temps, elle se caresse. Si elle est d'humeur, elle peut aussi le sucer pour gouter un peu le fruit défendu et finir par le faire éjaculer.",
     minPresentation: 4,
     minCaresses: 1,
     minExploration: 1,
-    minOral: 1,
+    minOral: 2,
     minEjaculation: 2,
     minSperme: 1
   },
@@ -546,7 +546,7 @@ const scenarios = [
     minPresentation: 1,
     minCaresses: 2,
     minExploration: 2,
-    minOral: 1,
+    minOral: 2,
     minEjaculation: 4,
     minSperme: 1
   },
@@ -557,7 +557,7 @@ const scenarios = [
     minPresentation: 1,
     minCaresses: 1,
     minExploration: 1,
-    minOral: 1,
+    minOral: 2,
     minEjaculation: 4,
     minSperme: 5
   },
@@ -568,18 +568,18 @@ const scenarios = [
     minPresentation: 4,
     minCaresses: 2,
     minExploration: 3,
-    minOral: 2,
+    minOral: 1,
     minEjaculation: 2,
     minSperme: 1
   },
   {
-    nom: "La préparatrice de compétitions",
+    nom: "La préparatrice en compétitions",
     id: 52,
     pitch: "{prenom} est préparatrice sportive. Un des joueurs de l'équipe qu'elle suit a l'air d'accuser moralement le coup. Elle sait comment obtenir de lui ses meilleures performances : un bon massage et il va faire des miracles. Un massage génitale, bien sûr, avec ses mains, ses lèvres, sa bouche, jusqu'à ce qu'il se relâche sur sa langue. C'est de loin la meilleure méthode !",
     minPresentation: 1,
     minCaresses: 1,
     minExploration: 1,
-    minOral: 1,
+    minOral: 2,
     minEjaculation: 4,
     minSperme: 1
   },
@@ -608,7 +608,7 @@ const scenarios = [
   {
     nom: "La botaniste de l'extrême",
     id: 55,
-    pitch: "{prenom} a découvert une nouvelle plante dans la forêt amazonienne. Après l'avoir étudiée, elle pense qu'elle vient d'inventer le plus puissant aphrodiaque naturel existant. Pour vérifier son efficacité, elle choisit un de ses collègues, mignon mais timide. Elle lui fait boire sa potion en lui disant qu'il allait avoir une surprise. Quelques minutes plus tard, il s'est déjà mis nu et est prêt à lui sauter dessus. Elle le réfrenne : son but est de voir à quel point le produit le rend plus docile. Elle lui demande donc de se mettre sur le dos, les jambes pliées et relevées au maximum pour qu'elle puisse avoir accès à sa queue, ses couilles et son anus. Elle va s'amuser avec tout ça jusqu'à le faire jouir et le barbouiller de son propre sperme.",
+    pitch: "{prenom} a découvert une nouvelle plante dans la forêt amazonienne. Après l'avoir étudiée, elle pense qu'elle vient d'inventer le plus puissant aphrodiaque naturel existant. Pour vérifier son efficacité, elle choisit un de ses collègues, mignon mais timide. Elle lui fait boire sa potion en lui disant qu'il allait avoir une surprise. Quelques minutes plus tard, il s'est déjà mis nu et est prêt à lui sauter dessus. Elle le réfrenne : son but est de voir à quel point le produit le rend plus docile. Elle lui demande donc de se mettre sur le dos, les jambes pliées et relevées au maximum pour qu'elle puisse avoir accès à sa queue, ses couilles et son anus. Elle va s'amuser avec tout ça, le masturber, lui doigter le cul, jusqu'à le faire jouir et le barbouiller de son propre sperme.",
     minPresentation: 1,
     minCaresses: 5,
     minExploration: 1,
@@ -634,7 +634,7 @@ const scenarios = [
     minPresentation: 5,
     minCaresses: 1,
     minExploration: 2,
-    minOral: 3,
+    minOral: 4,
     minEjaculation: 4,
     minSperme: 2
   },
@@ -652,12 +652,12 @@ const scenarios = [
   {
     nom: "La directrice d'école autoritaire",
     id: 59,
-    pitch: "{prenom} n'est pas contente du tout de son surveillant. Il a laissé les choses s'envenimer et elles ont prises une tournure très désagréable. Il doit être puni. Ils connaissent tous la sentence. Personne n'y échappe, il ne fera pas exception. Elle est en petite tenue, jamais nue, ils ne méritent pas cette vision. Lui, par contre, est nu comme un ver et allongée sur ses genoux, le cul tourné vers le ciel. Il a les bras croisés sous sa tête et attend sa punition. Elle prend plaisir à alterner caresses et fessées, à le branler, à le serrer, à masser ses couilles puis le pincer. Elle se caresse quand elle enfonce un doigt dans son cul. S'il jouit, elle le fait juter sur ses cuisses et sa chatte pour se branler avec.",
+    pitch: "{prenom} n'est pas contente du tout de son surveillant. Il a laissé les choses s'envenimer et elles ont prises une tournure très désagréable. Il doit être puni. Ils connaissent tous la sentence. Personne n'y échappe, il ne fera pas exception. Elle est en petite tenue, jamais nue, ils ne méritent pas cette vision. Lui, par contre, est nu comme un ver et allongée sur ses genoux, le cul tourné vers le ciel. Il a les bras croisés sous sa tête et attend sa punition. Elle prend plaisir à alterner caresses et fessées, à le branler, à le serrer, à masser ses couilles puis le pincer. Elle se caresse quand elle enfonce un doigt dans son cul. Si elle voit qu'il va jouir, elle le fait juter sur sa chatte pour se branler avec.",
     minPresentation: 2,
     minCaresses: 5,
     minExploration: 1,
     minOral: 1,
-    minEjaculation: 1,
+    minEjaculation: 3,
     minSperme: 1
   },
   {
@@ -667,7 +667,7 @@ const scenarios = [
     minPresentation: 4,
     minCaresses: 1,
     minExploration: 2,
-    minOral: 1,
+    minOral: 2,
     minEjaculation: 3,
     minSperme: 1
   },
@@ -722,7 +722,7 @@ const scenarios = [
     minPresentation: 4,
     minCaresses: 1,
     minExploration: 1,
-    minOral: 3,
+    minOral: 4,
     minEjaculation: 3,
     minSperme: 3
   },
@@ -740,11 +740,11 @@ const scenarios = [
   {
     nom: "La fée égarée",
     id: 67,
-    pitch: "{prenom} s'est perdue dans le monde des humains. Curieuse, elle les espionne pour les comprendre. Elle les trouve fascinant. Surtout ceux qui ont un truc qui pend entre les jambes quand ils sont tout nus. Là, elle en a repéré un qui tire dessus tous les soirs, seul dans le noir. Elle veut comprendre, elle se faufile par la fenêtre et le fait sursauter. Elle lui explique la situation. Vu comme il la regarde, il est très vite convaincu de lui fournir une éducation basique sur les plaisirs du sexe. Surtout le sien. Il lui explique comment le branler, le sucer, le faire jouir sur ces gros seins et bien nettoyer sa queue avec la langue à la fin.",
+    pitch: "{prenom} s'est perdue dans le monde des humains. Curieuse, elle les espionne pour les comprendre. Elle les trouve fascinant. Surtout ceux qui ont un truc qui pend entre les jambes quand ils sont tout nus. Là, elle en a repéré un qui tire dessus tous les soirs, seul dans le noir. Elle veut comprendre, elle se faufile par la fenêtre et le fait sursauter. Elle lui explique la situation. Vu comme il la regarde, il est très vite convaincu de lui fournir une éducation basique sur les plaisirs du sexe. Surtout le sien. Il lui explique comment le branler, le sucer, le faire jouir sur ses seins et bien nettoyer sa queue avec la langue à la fin.",
     minPresentation: 3,
     minCaresses: 1,
     minExploration: 2,
-    minOral: 1,
+    minOral: 2,
     minEjaculation: 2,
     minSperme: 3
   },
@@ -810,7 +810,7 @@ const scenarios = [
     minPresentation: 1,
     minCaresses: 1,
     minExploration: 4,
-    minOral: 2,
+    minOral: 1,
     minEjaculation: 2,
     minSperme: 1
   },
@@ -821,7 +821,7 @@ const scenarios = [
     minPresentation: 1,
     minCaresses: 3,
     minExploration: 4,
-    minOral: 2,
+    minOral: 3,
     minEjaculation: 1,
     minSperme: 2
   },
@@ -833,7 +833,7 @@ const scenarios = [
     minCaresses: 1,
     minExploration: 1,
     minOral: 1,
-    minEjaculation: 3,
+    minEjaculation: 1,
     minSperme: 1
   },
   {
@@ -843,7 +843,7 @@ const scenarios = [
     minPresentation: 1,
     minCaresses: 1,
     minExploration: 1,
-    minOral: 1,
+    minOral: 2,
     minEjaculation: 5,
     minSperme: 1
   },
@@ -854,7 +854,7 @@ const scenarios = [
     minPresentation: 1,
     minCaresses: 2,
     minExploration: 1,
-    minOral: 1,
+    minOral: 4,
     minEjaculation: 5,
     minSperme: 1
   },
@@ -887,7 +887,7 @@ const scenarios = [
     minPresentation: 1,
     minCaresses: 1,
     minExploration: 1,
-    minOral: 1,
+    minOral: 2,
     minEjaculation: 1,
     minSperme: 2
   },
@@ -909,7 +909,7 @@ const scenarios = [
     minPresentation: 2,
     minCaresses: 2,
     minExploration: 1,
-    minOral: 1,
+    minOral: 2,
     minEjaculation: 1,
     minSperme: 1
   },
@@ -942,7 +942,7 @@ const scenarios = [
     minPresentation: 2,
     minCaresses: 1,
     minExploration: 2,
-    minOral: 1,
+    minOral: 2,
     minEjaculation: 5,
     minSperme: 1
   },
@@ -953,14 +953,14 @@ const scenarios = [
     minPresentation: 1,
     minCaresses: 5,
     minExploration: 1,
-    minOral: 1,
+    minOral: 2,
     minEjaculation: 1,
     minSperme: 5
   },
   {
     nom: "Le gage revanchard",
     id: 87,
-    pitch: "Elle est très contente de sa revanche. D'abord, il lui avait lancé le gage de montrer ses seins à tous les amis présents. Plus tard dans la soirée, {prenom} avait dû montrer son cul et sa chatte. Elle était trop gênée, mais aussi terriblement excitée. Il le savait, il en jouait. Mais elle devait se venger. Alors quand les esprits se sont échauffés, quand quelques bites ont été tirées, elle a exigé de l'une d'elle de la pénétrer et de jouir en elle (simulé par votre partenaire), pour ensuite demander à son mec de lui bouffer la chatte et lui donner un orgasme devant tous ses potes.",
+    pitch: "Elle est très contente de sa revanche. D'abord, il lui avait lancé le gage de montrer ses seins à tous les amis présents. Plus tard dans la soirée, {prenom} avait dû montrer son cul et sa chatte. Elle était trop gênée, mais aussi terriblement excitée. Il le savait, il en jouait. Mais elle devait se venger. Alors quand les esprits se sont échauffés, quand quelques bites ont été tirées, elle a exigé de l'une d'elle de la pénétrer et de jouir en elle (simulé par ton partenaire), pour ensuite demander à son mec de lui bouffer la chatte et lui donner un orgasme devant tous ses potes.",
     minPresentation: 5,
     minCaresses: 1,
     minExploration: 1,
@@ -974,8 +974,8 @@ const scenarios = [
     pitch: "{prenom} a promis à sa direction de terminer le projet ce soir. Aussi, quand tout les developpeurs sont partis, elle a commencé à paniquer. Tous ? Sauf un. Le meilleur. Elle le connait, il est capable d'en venir à bout dans la nuit. Elle se transforme donc en assistante particulière. Elle lui amène du café, à boire, lui commande à manger, et surtout l'aide à ne pas se distraire de son objectif. Quand elle remarque qu'il lance des coups d'oeil sur son décolleté, elle lui propose directement de se vider entre ses lèvres pour qu'il puisse revenir à sa tâche.",
     minPresentation: 1,
     minCaresses: 1,
-    minExploration: 1,
-    minOral: 4,
+    minExploration: 2,
+    minOral: 1,
     minEjaculation: 4,
     minSperme: 4
   },
@@ -997,7 +997,7 @@ const scenarios = [
     minPresentation: 3,
     minCaresses: 1,
     minExploration: 1,
-    minOral: 3,
+    minOral: 2,
     minEjaculation: 2,
     minSperme: 1
   },
@@ -1008,7 +1008,7 @@ const scenarios = [
     minPresentation: 5,
     minCaresses: 1,
     minExploration: 1,
-    minOral: 3,
+    minOral: 2,
     minEjaculation: 4,
     minSperme: 1
   },
@@ -1028,9 +1028,9 @@ const scenarios = [
     id: 93,
     pitch: "{prenom} est gestionnaire des stocks médicaux au CHU. Cette année, elle organise un grand recensement des dons disponibles parmi le personnel hospitalier. Elle a fait prélever le sang de chacun, les plaquettes, et maintenant elle s'occupe de prélever le sperme elle-même. Ainsi, elle fait rentrer son collaborateur dans son bureau amenagé pour l'occasion. Il s'installe sur la table d'auscultation, les genoux pliés et écartés, la queue à l'air, et d'une démarche machinale le branle en lui expliquant qu'elle doit récupérer une dose importante pour la congeler. Elle lui demande s'il a bien respecté ses consignes de ne pas se vider une semaine avant et s'il n'a pas écouté elle est obligée d'augmenter un peu son excitation en lui tétant le gland en plus de lui caresser les bourses. Quand il éjacule, elle récupère le tout dans un récipient et en goutte un peu.",
     minPresentation: 1,
-    minCaresses: 1,
+    minCaresses: 2,
     minExploration: 2,
-    minOral: 3,
+    minOral: 1,
     minEjaculation: 1,
     minSperme: 2
   },
@@ -1070,7 +1070,7 @@ const scenarios = [
   {
     nom: "L'ange de la rédemption",
     id: 97,
-    pitch: "{prenom} se présente à lui lors d'une nuit agitée et brumeuse. Elle est là, nue, irréelle, comme un ange onirique. Elle ne dit pas un mot, ses mains parlent pour elle. Sa bouche aussi, son corps tout entier. Elle est comme animée d'une mission : lui redonner le goût de l'amour et des sens. Elle le fera jouir et disparaitra aussi vite, le laissant douter de la réalité de ce moment.",
+    pitch: "{prenom} se présente à lui lors d'une nuit agitée et brumeuse. Elle est là, nue, irréelle, comme un ange onirique. Elle ne dit pas un mot, ses mains parlent pour elle. Sa langue aussi, son corps tout entier. Elle est comme animée d'une mission : lui redonner le goût de l'amour et des sens. Elle le fera jouir et disparaitra aussi vite, le laissant douter de la réalité de ce moment.",
     minPresentation: 4,
     minCaresses: 1,
     minExploration: 1,
@@ -1151,7 +1151,7 @@ const scenarios = [
     minPresentation: 1,
     minCaresses: 1,
     minExploration: 3,
-    minOral: 1,
+    minOral: 3,
     minEjaculation: 1,
     minSperme: 1
   },
@@ -1169,7 +1169,7 @@ const scenarios = [
   {
     nom: "La vengeance de la sorcière",
     id: 106,
-    pitch: "{prenom} en a attrapé un très mignon. Il est tout apeuré, il croit que sa foi va le protéger, il la traite de démone, de diablesse. Elle lui jette un sort de silence. Elle peut voir dans ses yeux qu'il est inquiet. Elle va le convertir au plaisir du sexe qu'il s'interdit. Elle va lui montrer qu'il est faible, humain. Elle l'oblige magiquement à l'obéissance et il essaie de crier quand elle lui ordonne de se déshabiller et de se branler. Il a honte, mais il bande rapidement. Et quand elle lui lèche les couilles et même son petit cul de saint intouché, il bande encore plus fort. Elle le fera jouir et lui fera signer un pacte de stupre.",
+    pitch: "{prenom} en a attrapé un très mignon. Il est tout apeuré, il croit que sa foi va le protéger, il la traite de démone, de diablesse. Elle lui jette un sort de silence. Elle peut voir dans ses yeux qu'il est inquiet. Elle va le convertir au plaisir du sexe qu'il s'interdit. Elle va lui montrer qu'il est faible, humain. Elle l'oblige magiquement à l'obéissance et il essaie de crier, en vain, quand elle lui ordonne de se déshabiller et de se branler. Il a honte, mais il bande rapidement. Et quand elle lui lèche les couilles et même son petit cul de saint intouché, il bande encore plus fort. Elle le fera jouir et lui fera signer un pacte de stupre.",
     minPresentation: 1,
     minCaresses: 1,
     minExploration: 5,
@@ -1184,7 +1184,7 @@ const scenarios = [
     minPresentation: 1,
     minCaresses: 1,
     minExploration: 1,
-    minOral: 2,
+    minOral: 3,
     minEjaculation: 1,
     minSperme: 1
   },
@@ -1195,7 +1195,7 @@ const scenarios = [
     minPresentation: 1,
     minCaresses: 1,
     minExploration: 1,
-    minOral: 3,
+    minOral: 2,
     minEjaculation: 1,
     minSperme: 1
   },
@@ -1217,7 +1217,7 @@ const scenarios = [
     minPresentation: 1,
     minCaresses: 1,
     minExploration: 1,
-    minOral: 1,
+    minOral: 2,
     minEjaculation: 2,
     minSperme: 1
   },
@@ -1239,14 +1239,14 @@ const scenarios = [
     minPresentation: 1,
     minCaresses: 1,
     minExploration: 1,
-    minOral: 1,
+    minOral: 2,
     minEjaculation: 4,
     minSperme: 4
   },
   {
     nom: "Le jeu qui dérape",
     id: 113,
-    pitch: "Ce devait être un jeu d'alcool innocent entre amis. C'est devenu un jeu pervers avec son colloc. {prenom} a promis de lécher n'importe quel liquide qu'il lui versera dans les mains. Ça a commencé par du lait, du rhum, du pinard. C'est à la fois sale et amusant. Mais quand il se met à retirer son pantalon, elle rigole à s'en rouler au sol. Mais elle ne veut pas se débiner. Aussi, quand il débute sa branlette, elle sourit en voyant qu'il est davantage gêné qu'elle et ne la regarde pas dans les yeux. Elle le taquine, les mains tendues en réceptacles, avec des mots crus pour l'exciter. Elle lui dit même que si son sperme a bon goût, elle en redemandera...",
+    pitch: "Ce devait être un jeu d'alcool innocent entre amis. C'est devenu un jeu pervers avec son colloc. {prenom} a promis de lécher n'importe quel liquide qu'il lui versera dans les mains. Ça a commencé par du lait, du rhum, du pinard. C'est à la fois sale et amusant. Quand il se met à retirer son pantalon, elle est gênée, mais elle ne veut pas se débiner. Aussi, lorsqu'il débute sa branlette, elle sourit en voyant qu'il est encore plus embarassé qu'elle et ne la regarde pas dans les yeux. Elle le taquine avec des mots crus pour l'exciter, les mains tendues en réceptacles. Elle lui dit même que si son sperme a bon goût, elle en redemandera...",
     minPresentation: 1,
     minCaresses: 1,
     minExploration: 1,
@@ -1261,7 +1261,7 @@ const scenarios = [
     minPresentation: 1,
     minCaresses: 1,
     minExploration: 1,
-    minOral: 1,
+    minOral: 2,
     minEjaculation: 1,
     minSperme: 4
   },
@@ -1301,11 +1301,11 @@ const scenarios = [
   {
     nom: "Devoir conjugual",
     id: 118,
-    pitch: "{prenom} est la meilleure épouse possible. Et pour obtenir ce prix et garder son homme fidèle, elle n'a qu'une chose à faire. Le ménage ? La femme de ménage s'en charge. La cuisine ? Pareil, ils ont un chef personnel. L'éducation des enfants ? Que nenni, nounou ! Rien de tout cela. Elle se contente de se lever lorsqu'il est prêt à partir au boulot, l'embrasse tendrement, se glisse à genoux à ses pieds, libère sa bite et ses boules, et les lèches ou les suces tandis qu'il se masturbe mécaniquement, jusqu'à ce qu'il s'éparpille sur son visage. Ainsi, pas de pensées parasites pour le reste de la journée.",
+    pitch: "{prenom} est la meilleure épouse possible. Et pour obtenir ce prix et garder son homme fidèle, elle n'a qu'une chose à faire. Le ménage ? La femme de ménage s'en charge. La cuisine ? Pareil, ils ont un chef personnel. L'éducation des enfants ? Que nenni, nounou ! Rien de tout cela. Elle se contente de se lever lorsqu'il est prêt à partir au boulot, l'embrasse tendrement, se glisse à genoux à ses pieds, libère sa bite et ses boules, et les lèche ou les suce tandis qu'il se masturbe mécaniquement, jusqu'à ce qu'il s'éparpille sur son visage. Ainsi, pas de pensées parasites pour le reste de la journée.",
     minPresentation: 1,
     minCaresses: 1,
     minExploration: 3,
-    minOral: 2,
+    minOral: 3,
     minEjaculation: 5,
     minSperme: 1
   },
@@ -1316,7 +1316,7 @@ const scenarios = [
     minPresentation: 1,
     minCaresses: 1,
     minExploration: 1,
-    minOral: 1,
+    minOral: 2,
     minEjaculation: 1,
     minSperme: 1
   },
@@ -1327,7 +1327,7 @@ const scenarios = [
     minPresentation: 1,
     minCaresses: 1,
     minExploration: 1,
-    minOral: 1,
+    minOral: 2,
     minEjaculation: 1,
     minSperme: 1
   },
@@ -1371,20 +1371,31 @@ const scenarios = [
     minPresentation: 2,
     minCaresses: 1,
     minExploration: 1,
-    minOral: 1,
+    minOral: 2,
     minEjaculation: 4,
     minSperme: 1
   },
   {
-    nom: "L'étudiante' naïve",
+    nom: "L'étudiante naïve",
     id: 125,
     pitch: "Au début, quand son professeur lui a dit qu'elle devait se déshabiller, {prenom} ne voyait pas trop le rapport avec ses études. Mais quand elle a vu que ça améliorait grandement sa notation, elle y a mis davantage d'entrain. Chaque fois, il attend la fin de journée pour lui demander de rester dans son bureau. Elle dévoile sa poitrine, se met à genoux près de lui, tire sur son pantalon et s'applique à lui prodiguer une masturbation délicate. Les premières fois, ce n'était pas facile, mais elle s'est améliorée et elle l'entend gémir désormais. Pourtant, ce soir, il en veut plus et lui demande de pratiquer une fellation. Elle ne sait pas ce que c'est et il va la guider jusqu'à jouir entre ses lèvres.",
     minPresentation: 3,
     minCaresses: 1,
     minExploration: 1,
-    minOral: 1,
+    minOral: 2,
     minEjaculation: 4,
     minSperme: 1
+  },
+  {
+    nom: "La discipline de la gouvernante",
+    id: 126,
+    pitch: "{prenom} a tout pouvoir sur les serviteurs de monsieur. Ils savent qu'ils seront punis s'ils ne respectent pas les règles des lieux. Celui-ci a osé couper la parole à la Comtesse durant un dîner, il doit être puni. Personne n'y échappe, il ne fera pas exception. Elle est nue, tout comme lui. Il s'allonge sur ses genoux, le cul tourné vers le ciel. Il a les bras croisés sous sa tête et attend sa punition. Elle prend plaisir à alterner caresses et fessées, à le branler, à le serrer, à masser ses couilles puis le pincer. Elle se caresse quand elle enfonce un doigt dans son cul. Si elle voit qu'il va jouir, elle le fait juter sur sa chatte et lui demander de tout nettoyer pour la faire jouir.",
+    minPresentation: 4,
+    minCaresses: 5,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 3,
+    minSperme: 5
   },
 ];
 
