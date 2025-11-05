@@ -1463,6 +1463,28 @@ const scenarios = [
     minEjaculation: 2,
     minSperme: 1
   },
+  {
+    nom: "La médecine du travail",
+    id: 133,
+    pitch: "{prenom} est infirmière dans une entreprise. Elle s'occupe de passer les visites médicales obligatoires. Et parfois elle a quelques patients particuliers. Comme celui-ci, qu'elle est censée surveiller de près. Il a une maladie orpheline et elle doit s'assurer chaque vendredi matin qu'il suit bien son traitement. Pour cela, il y a un moyen très simple : elle doit vérifier l'épaisseur de sa semence. Comme à chaque fois depuis deux ans maintenant, il s'installe sur la table d'auscultation, le pantalon sur les chevilles, la chemise ouverte, et entame une masturbation pendant qu'elle vaque à ses occupations. Normalement, il n'en a pas pour bien longtemps, mais quand {prenom} s'impatiente elle s'approche de lui et se penche en avant pour lui montrer son décolleté. Ça marche à tous les coups et il éjacule sur son ventre. Elle le nettoie avec une lingette après avoir bien vérifié au toucher que le sperme était suffisamment épais.",
+    minPresentation: 2,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 1
+  },
+  {
+    nom: "La soirée entre amis",
+    id: 134,
+    pitch: "{prenom} a un peu bu et fumé, mais elle est suffisamment lucide pour savoir que la soirée est en train de partir en cacahuètes. Quand sa meilleure amie a proposé de jouer à un jeu coquin, les personnes les plus prudes s'eclipsent'. Après avoir fait un jeu où les mecs doivent deviner à qui appartient les seins qu'ils tatent avec un bandeau sur les yeux, c'est au tour des filles de jouer. {prenom} se retrouve avec les yeux bandés et elle est placée face à la bite d'un des participants. D'une langue curieuse, elle doit lécher le membre sur toute sa longueur, plusieurs fois si nécessaires, et deviner qui elle a devant elle. Elle fait de même avec tous les mecs et propose même de les noter. Certains sont tendus d'excitation. D'autres sont encore mous, et elle s'amuse à prendre son temps pour les faire durcir.",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 2,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 1
+  },
 ];
 
 
