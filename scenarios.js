@@ -1496,6 +1496,17 @@ const scenarios = [
     minEjaculation: 1,
     minSperme: 1
   },
+  {
+    nom: "L'offrande",
+    id: 136,
+    pitch: "{prenom} a accepté de recevoir l'offrande de ce soir. Elle a donné l'impression d'hésiter, de minauder, mais intérieurement elle a tellement hâte. Alors quand son compagnon lui bande les yeux, elle frissonne d'impatience. Tandis qu'elle entend des pas et de voix qui se rapprochent, il la déshabiller lentement. Elle est rapidement nue, offerte aux regards d'inconnus. Personne n'a l'autorisation de la toucher, juste observer. Et bien sûr se branler. {prenom} se laisse allonger sur un drap et devine les mouvements saccadés de leurs mains sur leur bite. Elle ne voit rien, mais laisse son imagination la faire frissonner de plaisir. Ses mains sont attachées au-dessus de sa tête, ses pieds écartés. Son corps nu est vicieusement offert. Les bruits de masturbation s'accélèrent et se rapprochent. Lorsqu'elle reçoit sa première offrande, elle ne peut s'empêcher de se tortiller de ravissement. Les traits de sperme inconnu coulent sur son front et sa joue. D'autres viennent s'épandre sur ses seins. Et ce n'est que le début de la soirée.",
+    minPresentation: 5,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 5,
+    minSperme: 1
+  },
 ];
 
 
