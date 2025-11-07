@@ -1507,6 +1507,17 @@ const scenarios = [
     minEjaculation: 5,
     minSperme: 1
   },
+  {
+    nom: "La poupée de chair",
+    id: 137,
+    pitch: "{prenom} devait une immense faveur à sa meilleure amie. Et quand, des années plus tard, elle lui a demandé de participer au fantasme de son mari, elle a déglutit, mais savait qu'elle ne pouvait pas refuser. Apparemment, monsieur fantasme sur son cul. C'est son anniversaire, il n'a pas été mis au courant avant, et il découvre en entrant dans sa chambre son cadeau qui l'attend à quatre pattes, nu, sur son lit. {prenom} frissonne quand elle sent le regard du mari de son amie sur son cul. Elle a un bandeau sur les yeux, mais elle peut sentir son désir. Il a l'absolue interdiction de la pénétrer d'une quelconque manière, mais il est encouragé à se frotter un peu partout. Elle le sent hésiter. Ou apprécier longuement, elle ne sait pas. Quand une main vient se poser sur sa croupe, elle ne peut retenir un petit cri de surprise. Il l'embrasse partout : sur ses fesses, son cul, sa chatte. Elle mouille déjà. Il a l'air de se moquer totalement de ses seins qui pendent nus. Il lui lèche ses deux trous avec gourmandise, puis rapidement elle sent ce qui doit être son gland entre ses lèvres intimes. Il ne rentre pas, il se branle avec son clito. C'est délicieux. De temps en temps, il fait de même avec son anus. Il alterne, il halète, et elle se demande si elle pourra se retenir de jouir avant lui.",
+    minPresentation: 5,
+    minCaresses: 2,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 3,
+    minSperme: 1
+  },
 ];
 
 
