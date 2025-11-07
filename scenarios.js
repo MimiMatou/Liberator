@@ -1518,6 +1518,17 @@ const scenarios = [
     minEjaculation: 3,
     minSperme: 1
   },
+  {
+    nom: "L'infirmière intraitable",
+    id: 138,
+    pitch: "Quand {prenom} emmène le patient dans la salle de prélèvement, elle ne peut s'empêcher de l'observer de la tête aux pieds. Il est plutôt mignon. Et aujourd'hui, elle est d'humeur joueuse. Elle lui explique qu'il doit déposer son sperme dans le petit flacon sur la table près du lit. Il a l'air gêné. Elle lance une perche en mode \"si vous avez besoin d'aide, je suis dans la pièce à côté\". Il l'arrête, surpris. Elle a une touche. Elle explique qu'elle est habilitée à procéder à l'extraction s'il pense qu'il n'y arrive pas seul. Ce n'est absolument pas vrai, mais qui le saura ? Il a l'air très étonné, mais curieux. Devant ses questionnements, elle attrape une pair de gants en plastique et l'invite à baisser son pantalon. Il déglutit, mais devant l'attitude très professionnelle de {prenom}, il n'hésite pas longtemps. Elle le fait se retourner dos à elle, face à la table où se trouve le récipient. Elle se colle à lui et attrape sa bite d'une main. Il est un peu intimidé. De son autre main, elle lui caresse les couilles. Elle lui parle doucement, prend un ton très technicien, ce qui commence à l'exciter. Elle se colle encore plus, lui faisant sentir sa poitrine. Enfin, pour être sûre d'obtenir le résultat attendu, elle lubrifie un doigt de sa main libre, la glisse entre les fesses du donneur et lui doigte le cul.",
+    minPresentation: 1,
+    minCaresses: 5,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 1
+  },
 ];
 
 
