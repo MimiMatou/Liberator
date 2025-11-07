@@ -1529,6 +1529,17 @@ const scenarios = [
     minEjaculation: 1,
     minSperme: 1
   },
+  {
+    nom: "Le massage naturel",
+    id: 139,
+    pitch: "{prenom} doit bien admettre qu'elle adore les séances de kiné avec lui. D'une part parce qu'elle le trouve très à son goût, mais aussi parce qu'elle se sent bien entre ses mains. Une relation de confiance s'est établie entre eux. Malgré la distance professionnelle, ses gestes se font plus directs, plus efficaces, plus intimes parfois quand il passe ses mains sur ses fesses ou sous son soutien-gorge. Alors quand un soir où ils ne sont plus que tous les deux, il lui propose de tester le massage naturel, elle est très attentive. D'après lui, être nue lors du massage serait bien plus bénéfique. Elle n'en croit pas un mot, il veut juste la voir à poil et la toucher, aussi elle entre dans son jeu sans hésiter et joue l'innocente. Une fois nue, elle frissonne en silence chaque fois qu'il passe ses mains entre ses cuisses ou à l'orée de sa poitrine. Elle se plaint alors : pourquoi serait-elle la seule nue, il serait plus à l'aise aussi sans ses vêtements. Il se laisse convaincre et c'est la queue à moitié bandée qu'il se remet à la frictionner. Parfois, il lui prend une jambe pour l'étirer, offrant une vue imprenable sur son intimité. Parfois, il se place près de sa tête et son gland vient tapoter ses joues. Parfois c'est {prenom} qui laisse trainer sa main près du membre excité. Alors quand il lui masse le clitoris, elle se laisse aller à un grand soupir de contentement.",
+    minPresentation: 5,
+    minCaresses: 2,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 1
+  },
 ];
 
 
