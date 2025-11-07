@@ -1551,6 +1551,28 @@ const scenarios = [
     minEjaculation: 1,
     minSperme: 1
   },
+  {
+    nom: "Le défi perdu",
+    id: 141,
+    pitch: "Il s'est bien moqué d'elle. Il n'avait aucune chance de gagner, elle joue à ce jeu depuis qu'elle est toute petite et le connait par coeur. Il lui avait dit qu'il y avait à peine joué. Il avait menti pour pouvoir gagner le défi. Et {prenom} n'avait rien vu venir et s'était engagée à des choses bien trop intimes. Elle pensait vraiment que ça n'arriverait jamais. Mais maintenant, il faut assumer. Il débarque à l'improviste trois jours plus tard dans son appart pour exiger sa récompense. Elle insiste pour que ce soit rapide, elle n'a pas que ça à faire. Elle se déshabille comme si de rien n'était, alors qu'en réalité elle n'en mène pas large. Elle s'allonge sur le canapé et le laisse observer son corps offert. Il lui rappelle qu'il n'a pas le droit de la toucher, juste de regarder et de lui jouir dessus. Elle insiste : pas sur le visage, ni sur la chatte. Il répond timidement qu'il va se contenter de ses seins, baisse son pantalon et se branle devant le regard amusé de {prenom}.",
+    minPresentation: 4,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 2,
+    minSperme: 1
+  },
+  {
+    nom: "Le défi gagné",
+    id: 142,
+    pitch: "{prenom} s'est bien moqué de lui. Il n'avait aucune chance de gagner, elle joue à ce jeu depuis qu'elle est toute petite et le connait par coeur. Elle lui a pourtant dit qu'elle y avait à peine joué. Elle avait menti pour pouvoir gagner le défi. Et il n'a rien vu venir et s'est engagé à des choses bien trop intimes. Il pensait vraiment que ça n'arriverait jamais. Mais maintenant, il doit assumer. Elle débarque à l'improviste trois jours plus tard dans son appart pour exiger sa récompense. Intimidé, il acquiesce sans un mot et commence à se déshabiller. Il se cache le sexe des deux mains, mais {prenom} lui rappelle qu'elle va le branler et qu'il n'a désormais plus rien à cacher. Elle le fait s'installer à l'envers sur son canapé : la tête à la place des pieds et les pieds sur le dossier. Puis elle rabat ses jambes au-dessus de sa tête. L'idée est que sa bite soit bien dirigée vers sa petite bouche de présomptueux. Il n'est vraiment pas à l'aise, mais malgré sa gêne il bande rapidement quand elle se met à le branler d'une main douce. Sa main libre s'occupe de ses couilles et de son petit trou qu'elle caresse délicatement. Elle lui murmure qu'il va se prendre sa première faciale et que ce sera son propre sperme. Et si ça l'a suffisamment excitée, peut-être qu'elle l'embrassera alors...",
+    minPresentation: 1,
+    minCaresses: 5,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 5
+  },
 ];
 
 
