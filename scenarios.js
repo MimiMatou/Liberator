@@ -1485,6 +1485,17 @@ const scenarios = [
     minEjaculation: 1,
     minSperme: 1
   },
+  {
+    nom: "L'atelier des plaisirs'",
+    id: 135,
+    pitch: "{prenom} se fait la remarque que quand elle était jeune, ce genre de réunions se faisaient autour de la vente de tupperware. Aujourd'hui, ce n'est plus le même genre de présentation et de formation qu'elle dispense. Après avoir sorti et fait découvrir une panoplie de sex toys pour détendre l'atmosphère, elle fait rentrer un homme simplement vêtu d'un caleçon et d'un bandeau sur les yeux. Elle lui retire son sous-vêtements sans hésitation et sous les regards attentifs et commence à expliquer à son audience comment, du haut de ses longues années d'expérience, elle pratique une fellation efficace. Elle prend son temps, fait montre de patience pour celles et ceux qui lui posent des questions, répond parfois longuement, laissant la bite se ramollir, puis revenant à la pratique. Elle insiste bien sur la caresse des couilles, avec les doigts ou la bouche, et lorsqu'on lui demande comment faire une gorge profonde, elle va s'appliquer à répondre à cette demande étape par étape.",
+    minPresentation: 1,
+    minCaresses: 3,
+    minExploration: 4,
+    minOral: 4,
+    minEjaculation: 1,
+    minSperme: 1
+  },
 ];
 
 
