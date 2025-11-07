@@ -1540,13 +1540,24 @@ const scenarios = [
     minEjaculation: 1,
     minSperme: 1
   },
+  {
+    nom: "Le rite mystérieux de la tribu",
+    id: 140,
+    pitch: "{prenom} n'a jamais vu de reproducteur. Dans sa tribu, ils ne sont sortis de leur grotte que pour le Rite de la Vie, qu'elle nomme intérieurement le rite mystérieux. Tout ce qu'elle sait, c'est qu'à ce moment-là ils sont lavés et parqués dans une hutte chacun. Les candidates se répartissent alors les reproducteurs et passent un moment avec lui. Les vieilles sages de la tribu lui ont juste expliqué le principe de base : il doit s'astiquer le petit bout tout droit jusqu'à cracher sa semence, et {prenom} doit alors s'en servir pour se l'insérer et se féconder. Si elle a de la chance, elle donnera naissance à une future cheffe. Et si c'est un reproducteur, il sera confié aux cavernes sombres. Pour le reste du rite, tout est assez flou et laissé à l'interprétation. Il n'a évidemment pas le droit de parler ni de la toucher, mais elle peut faire ce qu'elle veut. La plupart du temps, ses amies entrent et sortent aussi vite, elles se contentent, lui disent-elle, de récupérer le précieux liquide avec les doigts et se l'enfoncer en elles. Mais {prenom} est curieuse...",
+    minPresentation: 1,
+    minCaresses: 1,
+    minExploration: 1,
+    minOral: 1,
+    minEjaculation: 1,
+    minSperme: 1
+  },
 ];
 
 
 /* 
   {
     nom: "nom",
-    id: 130,
+    id: 140,
     pitch: "",
     minPresentation: 1,
     minCaresses: 1,
