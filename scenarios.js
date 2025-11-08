@@ -234,7 +234,7 @@ const scenarios = [
   {
     nom: "La cocue vengeresse",
     id: 21,
-    pitch: "{prenom} a découverte que son mec le trompait et elle veut se venger. Elle a rencontré ce type dont elle n'a même pas retenu le prénom mais qui fera parfaitement l'affaire, tant qu'il a une bite opérationnelle. Elle n'a jamais voulu faire une éjaculation faciale avec son ex et il lui a souvent reproché. Alors même si ça la dégoute un peu, elle va laisser cet inconnu lui jouir sur son beau visage et ses seins pour lui envoyer une photo qu'il n'est pas prêt d'oublier : elle, couverte de sperme d'un autre homme, un doigt sur ses lèvres comme pour en avaler un peu.",
+    pitch: "{prenom} a découvert que son mec le trompait et elle veut se venger. Elle a rencontré ce type dont elle n'a même pas retenu le prénom mais qui fera parfaitement l'affaire, tant qu'il a une bite opérationnelle. Elle n'a jamais voulu faire une éjaculation faciale avec son ex et il lui a souvent reproché. Alors même si ça la dégoute un peu, elle va laisser cet inconnu lui jouir sur son beau visage et ses seins pour lui envoyer une photo qu'il n'est pas prêt d'oublier : elle, couverte de sperme d'un autre homme, un doigt sur ses lèvres comme pour en avaler un peu.",
     minPresentation: 3,
     minCaresses: 1,
     minExploration: 1,
